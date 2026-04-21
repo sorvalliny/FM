@@ -340,11 +340,204 @@ footer {
   th.th-num { display: none; }
 }
 
-/* Compact mobile card view could be added, but keeping table for consistency */
 .no-results {
   text-align: center;
   padding: 40px 20px;
   color: var(--text-faint);
+}
+
+/* Row clickable */
+tbody tr { cursor: pointer; }
+
+/* Modal */
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(5, 5, 10, 0.7);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 60px 20px 40px;
+  z-index: 100;
+  overflow-y: auto;
+  animation: fadeIn 0.15s ease-out;
+}
+
+.modal-backdrop.hidden { display: none; }
+
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.modal {
+  position: relative;
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  max-width: 640px;
+  width: 100%;
+  padding: 32px 32px 28px;
+  animation: slideUp 0.2s ease-out;
+}
+
+.modal-close {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  width: 32px;
+  height: 32px;
+  border: 1px solid var(--border);
+  background: var(--bg-3);
+  color: var(--text-dim);
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.1s;
+}
+
+.modal-close:hover { color: var(--text); border-color: var(--text-faint); }
+
+.modal-version {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  color: var(--teal);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+.modal-name {
+  font-family: 'Unbounded', sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  margin-bottom: 8px;
+}
+
+.modal-club {
+  color: var(--text-dim);
+  font-size: 14px;
+  margin-bottom: 18px;
+}
+
+.modal-rating-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 22px;
+  padding-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+}
+
+.modal-rating-row .rating {
+  min-width: 52px;
+  padding: 6px 14px;
+  font-size: 15px;
+}
+
+.confidence-badge {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 4px 8px;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+  background: var(--bg-3);
+}
+
+.confidence-badge.verified { color: var(--green); border-color: rgba(74, 222, 128, 0.3); }
+.confidence-badge.recall { color: var(--amber); border-color: rgba(251, 191, 36, 0.3); }
+.confidence-badge.legacy { color: var(--text-faint); }
+
+.rating-label {
+  color: var(--text-dim);
+  font-size: 13px;
+}
+
+.modal h3 {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-faint);
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.modal-section + .modal-section { margin-top: 22px; }
+
+.modal-verdict {
+  color: var(--text);
+  line-height: 1.6;
+  font-size: 14px;
+}
+
+.modal-details {
+  color: var(--text-dim);
+  line-height: 1.6;
+  font-size: 14px;
+  white-space: pre-wrap;
+}
+
+.modal-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.modal-tag {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  padding: 4px 8px;
+  border-radius: 4px;
+  background: var(--bg-3);
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+}
+
+.modal-sources {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.modal-sources a {
+  color: var(--violet);
+  text-decoration: none;
+  font-size: 13px;
+  word-break: break-all;
+  transition: color 0.1s;
+}
+
+.modal-sources a:hover { color: #c4a7fd; text-decoration: underline; }
+
+.modal-empty {
+  color: var(--text-faint);
+  font-size: 13px;
+  font-style: italic;
+}
+
+.modal-meta-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 16px;
+}
+
+@media (max-width: 640px) {
+  .modal { padding: 28px 20px 24px; border-radius: 12px; }
+  .modal-name { font-size: 22px; }
+  .modal-backdrop { padding: 30px 12px; }
 }
 </style>
 </head>
@@ -411,12 +604,47 @@ footer {
 
 </div>
 
+<div id="modal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="modal-name">
+  <div class="modal" role="document">
+    <button class="modal-close" id="modal-close" aria-label="Закрыть">✕</button>
+    <div class="modal-version" id="modal-version"></div>
+    <h2 class="modal-name" id="modal-name"></h2>
+    <div class="modal-club" id="modal-club"></div>
+    <div class="modal-rating-row">
+      <span class="rating" id="modal-rating"></span>
+      <span class="rating-label" id="modal-rating-label"></span>
+      <span class="confidence-badge" id="modal-confidence"></span>
+    </div>
+    <div class="modal-section">
+      <h3>Реальная карьера</h3>
+      <p class="modal-verdict" id="modal-verdict"></p>
+    </div>
+    <div class="modal-section" id="modal-details-section" hidden>
+      <h3>Подробнее</h3>
+      <div class="modal-details" id="modal-details"></div>
+    </div>
+    <div class="modal-section" id="modal-meta-section">
+      <div class="modal-meta-grid">
+        <div id="modal-tags-box" hidden>
+          <h3>Теги</h3>
+          <div class="modal-tags" id="modal-tags"></div>
+        </div>
+        <div id="modal-sources-box">
+          <h3>Источники</h3>
+          <div class="modal-sources" id="modal-sources"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 <script>
 let DATA = [];
 const searchEl = document.getElementById('search');
 const ratingEl = document.getElementById('rating-filter');
 const vEl = document.getElementById('versions');
 const tbody = document.getElementById('tbody');
+const modal = document.getElementById('modal');
 
 // Default: group by FM version ascending, within version legends first.
 // User clicks a column header → sort toggles (asc ↔ desc).
@@ -439,6 +667,130 @@ document.querySelectorAll('th.sortable').forEach(th => {
   });
 });
 
+// Modal wiring
+tbody.addEventListener('click', e => {
+  const tr = e.target.closest('tr[data-id]');
+  if (tr) openPlayer(tr.dataset.id);
+});
+
+document.getElementById('modal-close').addEventListener('click', closePlayer);
+
+modal.addEventListener('click', e => {
+  if (e.target === modal) closePlayer();
+});
+
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape' && !modal.classList.contains('hidden')) closePlayer();
+});
+
+window.addEventListener('hashchange', handleHash);
+
+function handleHash() {
+  const id = decodeURIComponent(location.hash.replace(/^#/, ''));
+  if (!id) {
+    if (!modal.classList.contains('hidden')) closeModalUI();
+    return;
+  }
+  const player = DATA.find(p => p.id === id);
+  if (player) renderModal(player);
+  else closeModalUI();
+}
+
+function openPlayer(id) {
+  if (location.hash !== '#' + id) {
+    history.pushState(null, '', '#' + encodeURIComponent(id));
+  }
+  const player = DATA.find(p => p.id === id);
+  if (player) renderModal(player);
+}
+
+function closePlayer() {
+  if (location.hash) history.pushState(null, '', location.pathname + location.search);
+  closeModalUI();
+}
+
+function closeModalUI() {
+  modal.classList.add('hidden');
+  document.body.style.overflow = '';
+}
+
+function ratingLabel(r) {
+  if (r >= 9) return 'Легенда';
+  if (r >= 7) return 'Топ';
+  if (r >= 5) return 'Средний';
+  return 'Флоп';
+}
+
+function renderModal(p) {
+  document.getElementById('modal-version').textContent = p.fm_version;
+  document.getElementById('modal-name').textContent = p.name;
+  const ageTxt = p.age_at_release != null ? ` · ${p.age_at_release} лет` : '';
+  document.getElementById('modal-club').textContent = p.club_at_release + ageTxt;
+
+  const ratingEl_ = document.getElementById('modal-rating');
+  ratingEl_.textContent = p.rating;
+  ratingEl_.className = 'rating r-' + p.rating;
+
+  document.getElementById('modal-rating-label').textContent = ratingLabel(p.rating);
+
+  const conf = p.confidence || 'legacy';
+  const confBadge = document.getElementById('modal-confidence');
+  confBadge.textContent = conf;
+  confBadge.className = 'confidence-badge ' + conf;
+
+  document.getElementById('modal-verdict').textContent = p.verdict || '';
+
+  const detailsSection = document.getElementById('modal-details-section');
+  if (p.details) {
+    document.getElementById('modal-details').textContent = p.details;
+    detailsSection.hidden = false;
+  } else {
+    detailsSection.hidden = true;
+  }
+
+  const tagsBox = document.getElementById('modal-tags-box');
+  const tagsEl = document.getElementById('modal-tags');
+  tagsEl.innerHTML = '';
+  if (p.tags && p.tags.length) {
+    p.tags.forEach(t => {
+      const span = document.createElement('span');
+      span.className = 'modal-tag';
+      span.textContent = t;
+      tagsEl.appendChild(span);
+    });
+    tagsBox.hidden = false;
+  } else {
+    tagsBox.hidden = true;
+  }
+
+  const sourcesEl = document.getElementById('modal-sources');
+  sourcesEl.innerHTML = '';
+  if (p.sources && p.sources.length) {
+    p.sources.forEach(url => {
+      const a = document.createElement('a');
+      a.href = url;
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      try {
+        a.textContent = new URL(url).hostname.replace(/^www\./, '');
+      } catch {
+        a.textContent = url;
+      }
+      sourcesEl.appendChild(a);
+    });
+  } else {
+    const empty = document.createElement('div');
+    empty.className = 'modal-empty';
+    empty.textContent = conf === 'recall'
+      ? 'Нет внешних источников — по памяти'
+      : 'Источники не указаны';
+    sourcesEl.appendChild(empty);
+  }
+
+  modal.classList.remove('hidden');
+  document.body.style.overflow = 'hidden';
+}
+
 async function load() {
   tbody.innerHTML = '<tr><td colspan="5" class="no-results">Загрузка…</td></tr>';
   try {
@@ -451,6 +803,7 @@ async function load() {
   }
   buildVersions();
   render();
+  handleHash();
 }
 
 function buildVersions() {
@@ -544,6 +897,7 @@ function render() {
   } else {
     filtered.forEach((d, i) => {
       const tr = document.createElement('tr');
+      tr.dataset.id = d.id;
       tr.innerHTML = `
         <td class="num">${String(i + 1).padStart(3, '0')}</td>
         <td><div class="ver">${escape(d.fm_version)}</div></td>
