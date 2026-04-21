@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Top 100 Football Manager Wonderkids — Карьеры в реальности</title>
+<title>FM Легенды — Top 100 Football Manager Wonderkids</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;800&family=Golos+Text:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
@@ -393,209 +393,98 @@ footer {
 </div>
 
 <script>
-const DATA = [
-  // ============ FM 2005 ============
-  {v:"FM 2005", p:"Lionel Messi", c:"Barcelona B (17)", s:"GOAT. 8 Золотых мячей, ЧМ-2022, 40+ трофеев. Сейчас в Inter Miami.", r:10},
-  {v:"FM 2005", p:"Cristiano Ronaldo", c:"Man Utd (19)", s:"5 Золотых мячей, 5 ЧЛ, Евро-2016, топ-бомбардир всех времён в сборных. Al-Nassr.", r:10},
-  {v:"FM 2005", p:"Wayne Rooney", c:"Man Utd (19)", s:"5 АПЛ, ЧЛ, рекордсмен МЮ и сборной Англии (пока Кейн не обогнал). Карьера тренера.", r:9},
-  {v:"FM 2005", p:"Cesc Fàbregas", c:"Arsenal (17)", s:"Капитан Арсенала, чемпион мира с Испанией (2010), Евро-2008/2012. АПЛ с Челси.", r:8},
-  {v:"FM 2005", p:"Freddy Adu", c:"DC United (15)", s:"«Новый Пеле». 14 клубов в 8 странах, ни в одном не заиграл. Завершил в 3-й лиге Швеции. Символ флопа FM.", r:1},
-
-  // ============ FM 2006 ============
-  {v:"FM 2006", p:"Sergio Ramos", c:"Sevilla (19)", s:"Легенда Реала (500+ матчей, 4 ЧЛ), ЧМ-2010, Евро-2008/2012. Один из топ-защитников эпохи.", r:10},
-  {v:"FM 2006", p:"Sergio Agüero", c:"Atletico (17)", s:"Легенда Сити — рекордный бомбардир (260 голов), 5 АПЛ. Завершил из-за сердца в 33. ЧМ-2022 с Арг.", r:10},
-  {v:"FM 2006", p:"Philipp Lahm", c:"Stuttgart (22)", s:"8 Бундеслиг, ЧЛ-2013, ЧМ-2014 как капитан Германии. Идеальный карьерный арк.", r:10},
-  {v:"FM 2006", p:"Carlos Tevez", c:"Corinthians (21)", s:"МЮ, Сити (АПЛ), Ювентус (Серии А), Бока. Один из самых скандальных топ-форвардов 2010-х.", r:9},
-  {v:"FM 2006", p:"Kerlon", c:"Cruzeiro (18)", s:"«Тюлений дриблинг». 51 матч за всю карьеру, скитался по Европе и Азии. Завершил в 29. Культовый флоп.", r:2},
-
-  // ============ FM 2007 ============
-  {v:"FM 2007", p:"David Silva", c:"Valencia (21)", s:"Легенда Ман Сити (4 АПЛ), ЧМ-2010, Евро-2008/2012. Один из лучших плеймейкеров эпохи.", r:10},
-  {v:"FM 2007", p:"Gerard Piqué", c:"Man Utd (19)", s:"Легенда Барсы (8 Ла Лига, 3 ЧЛ), ЧМ-2010, Евро-2012. Король Пике.", r:10},
-  {v:"FM 2007", p:"Giorgio Chiellini", c:"Fiorentina (22)", s:"Легенда Ювентуса (9 Серии А подряд), капитан Италии на победном Евро-2020.", r:10},
-  {v:"FM 2007", p:"Theo Walcott", c:"Arsenal (17)", s:"Арсенал 12 лет, 2 FA Cup. Травмы не дали стать топ-звездой, но крепкая карьера. Англия 47 матчей.", r:6},
-  {v:"FM 2007", p:"Anderson", c:"Porto (18)", s:"МЮ отдал £18M в 2007, но проблемы с весом и формой. 4 АПЛ на бумаге, фактически запасной. Закончил в Турции.", r:3},
-
-  // ============ FM 2008 ============
-  {v:"FM 2008", p:"Karim Benzema", c:"Lyon (20)", s:"Золотой мяч 2022, легенда Реала (354 гола), 5 ЧЛ, ЧМ-2022 финал. Сейчас Al-Ittihad.", r:10},
-  {v:"FM 2008", p:"Gonzalo Higuaín", c:"Real Madrid (20)", s:"Реал, Наполи (рекорд 36 голов за сезон Серии А), Ювентус. Два финала ЧМ с Аргентиной.", r:8},
-  {v:"FM 2008", p:"Alexis Sánchez", c:"Udinese (19)", s:"Пик: Арсенал-2016/17. Барса, Интер, МЮ (провал). Дважды Кубок Америки с Чили.", r:8},
-  {v:"FM 2008", p:"Ezequiel Lavezzi", c:"Napoli (22)", s:"Неаполь-легенда, ПСЖ (4 Лиги 1), финалист ЧМ-2014. Потом Китай и ранний конец.", r:6},
-  {v:"FM 2008", p:"Alexandre Pato", c:"Milan (18)", s:"«Новый Роналдо». Скудетто с Миланом в 19, но травмы. Скитания: Челси, Виллареал, Китай. Пока играет за Сан-Паулу.", r:4},
-
-  // ============ FM 2009 ============
-  {v:"FM 2009", p:"Eden Hazard", c:"Lille (18)", s:"2 АПЛ с Челси, Лига Европы. Реал-разочарование (травмы). Легенда Бельгии. Завершил в 32.", r:8},
-  {v:"FM 2009", p:"Mesut Özil", c:"Werder Bremen (20)", s:"Реал, Арсенал (рекорд ассистов в АПЛ за сезон), ЧМ-2014. Политика + Турция в концовке карьеры.", r:8},
-  {v:"FM 2009", p:"Daniel Sturridge", c:"Man City (19)", s:"Ливерпуль 2013/14 — дуэт с Суаресом, почти АПЛ. Травмы уничтожили. Сборная Англии 26 матчей.", r:6},
-  {v:"FM 2009", p:"Mario Balotelli", c:"Inter (18)", s:"Скудетто с Интером и Сити (решающий гол в матче-драме), но привычно «вечный талант». Брешия, Ницца, Адана...", r:5},
-  {v:"FM 2009", p:"Federico Macheda", c:"Man Utd (18)", s:"Легендарный гол «Виллу» в дебюте в 17. После — ничего. Скитания, Кардифф, Панетоликос. Флоп уровня Аду.", r:2},
-
-  // ============ FM 2010 ============
-  {v:"FM 2010", p:"Neymar", c:"Santos (17)", s:"Барса (MSN-трио, ЧЛ-2015), рекорд-трансфер ПСЖ €222M, ЧЛ-финал. Травмы подкосили. Ал-Хилаль/Сантос.", r:9},
-  {v:"FM 2010", p:"Romelu Lukaku", c:"Anderlecht (16)", s:"Челси, Эвертон, МЮ, Интер (Скудетто-2021), Рома. Бомбардир-рекордсмен Бельгии.", r:8},
-  {v:"FM 2010", p:"James Rodríguez", c:"Banfield (18)", s:"Голден Бут ЧМ-2014 — вершина. Реал, Бавария, но ушёл в тень. Эвертон, Катар, сейчас Леон (Мексика).", r:7},
-  {v:"FM 2010", p:"Mario Götze", c:"Dortmund (17)", s:"Победный гол ЧМ-2014 в 22 — пик карьеры. Травмы в Баварии и ПСВ. Сейчас Айнтрахт — неплохо, но не тот масштаб.", r:6},
-  {v:"FM 2010", p:"Bojan Krkić", c:"Barcelona (19)", s:"«Новый Месси» в Ла Масии. Скитания: Рома, Милан, Сток, Монреаль. Завершил в 32, ни одной большой эры.", r:3},
-
-  // ============ FM 2011 ============
-  {v:"FM 2011", p:"Toni Kroos", c:"Bayern (20)", s:"Легенда Реала (6 ЧЛ), ЧМ-2014. Один из лучших плеймейкеров эпохи. Завершил летом 2024 после Евро.", r:10},
-  {v:"FM 2011", p:"Thibaut Courtois", c:"Genk (18)", s:"Атлетико (Ла Лига), Челси (2 АПЛ), Реал (3 ЧЛ). Вратарь финала ЧЛ-2022 — легендарный матч с Ливерпулем.", r:10},
-  {v:"FM 2011", p:"David De Gea", c:"Atletico (20)", s:"МЮ 12 лет, 4× Игрок сезона. Лучший вратарь АПЛ 2010-х. Сейчас Фиорентина, возрождается.", r:9},
-  {v:"FM 2011", p:"Son Heung-min", c:"HSV (18)", s:"Тоттенхэм — Золотая бутса АПЛ 2021/22, 120+ голов. Капитан Кореи. Сейчас LAFC.", r:9},
-  {v:"FM 2011", p:"Isco", c:"Valencia (18)", s:"Реал (5 ЧЛ, но в тени Крооса/Модрича), Малага-пик. Сейчас Бетис — ренессанс в 32.", r:7},
-
-  // ============ FM 2012 ============
-  {v:"FM 2012", p:"Raphaël Varane", c:"Lens (18)", s:"Реал с 18 — 4 ЧЛ. ЧМ-2018 с Францией. Завершил карьеру в МЮ из-за травм в 2024.", r:10},
-  {v:"FM 2012", p:"Marco Verratti", c:"Pescara (19)", s:"ПСЖ 11 лет (9 Лиг 1), финал ЧЛ-2020. Один из лучших плеймейкеров мира, но без ЧЛ-трофея. Катар с 2023.", r:9},
-  {v:"FM 2012", p:"Thiago Alcântara", c:"Barcelona B (20)", s:"Бавария (ЧЛ-2020, 7 Бундеслиг), Ливерпуль (АПЛ-2020). Травмы последние годы. Завершил в 2024.", r:8},
-  {v:"FM 2012", p:"Paul Pogba", c:"Man Utd (18)", s:"Ювентус (4 Серии А), МЮ рекорд-трансфер, ЧМ-2018. Дисквалификация за допинг 2024, возвращение в Монако.", r:7},
-  {v:"FM 2012", p:"Iker Muniain", c:"Athletic (18)", s:"Один клуб всю карьеру — 560+ матчей за Атлетик. Не топ-звезда, но культовый one-club man. В 2024 ушёл в Сан-Лоренсо.", r:5},
-
-  // ============ FM 2013 ============
-  {v:"FM 2013", p:"Kevin De Bruyne", c:"Chelsea (21)", s:"Легенда Ман Сити (6 АПЛ, ЧЛ-2023), лучший плеймейкер своего поколения. Капитан Бельгии. В 2025 ушёл.", r:10},
-  {v:"FM 2013", p:"Christian Eriksen", c:"Ajax (20)", s:"Тоттенхэм (топ-плеймейкер), Интер (Скудетто). Пережил остановку сердца на Евро-2020. МЮ, сейчас Вольфсбург.", r:8},
-  {v:"FM 2013", p:"Marco Reus", c:"Gladbach (23)", s:"Легенда Дортмунда — 400+ матчей, «вечно почти». Травмы съели карьеру сборной (пропустил 3 крупных турнира). В 2024 — LA Galaxy.", r:8},
-  {v:"FM 2013", p:"Philippe Coutinho", c:"Liverpool (20)", s:"Ливерпуль-пик (гениальный), затем Барса €160M — катастрофа. Баварию сватали, Астон Вилла, Васко. Флоп большого трансфера.", r:6},
-  {v:"FM 2013", p:"Adnan Januzaj", c:"Man Utd (17)", s:"Дебют-хет-трик в МЮ, представлял Бельгию (хотя мог 6 сборных). Сандерленд, Реал Сосьедад, Севилья — везде middle-tier. Без следа.", r:3},
-
-  // ============ FM 2014 ============
-  {v:"FM 2014", p:"Marquinhos", c:"Roma (19)", s:"ПСЖ с 19 — 12 сезонов, капитан, 10 Лиг 1. Финал ЧЛ-2020. Один из самых стабильных защитников мира.", r:9},
-  {v:"FM 2014", p:"Raheem Sterling", c:"Liverpool (18)", s:"Сити (4 АПЛ, лучший игрок молодёжи Англии), финал Евро-2020. Сейчас Арсенал (аренда), Челси — спад.", r:8},
-  {v:"FM 2014", p:"Álvaro Morata", c:"Real Madrid (20)", s:"Реал, Ювентус, Челси, Атлетико, Милан. Капитан Испании на победном Евро-2024. Вечный «почти топ».", r:7},
-  {v:"FM 2014", p:"Julian Draxler", c:"Schalke (20)", s:"Шальке, Вольфсбург, ПСЖ (8 лет, но всегда ротация). ЧМ-2014. Сейчас Ал-Ахли. Большого роста не случилось.", r:5},
-  {v:"FM 2014", p:"Hachim Mastour", c:"Milan (15)", s:"Вирусные видео-фристайла в 14. За Милан 0 матчей. Скитался по 2-3 лигам. Карьера не состоялась.", r:1},
-
-  // ============ FM 2015 ============
-  {v:"FM 2015", p:"Martin Ødegaard", c:"Strømsgodset (15)", s:"Реал купил в 16, долгая адаптация через аренды. Капитан Арсенала, лидер Норвегии. Наконец раскрылся.", r:8},
-  {v:"FM 2015", p:"Mateo Kovačić", c:"Inter (20)", s:"Реал, Челси (ЧЛ-2021), Ман Сити (АПЛ). Финал ЧМ-2018 с Хорватией. Крепкий топ-игрок.", r:8},
-  {v:"FM 2015", p:"Samuel Umtiti", c:"Lyon (21)", s:"Барса, герой ЧМ-2018 (гол в полуфинале). Травмы колена уничтожили. Лечче на аренде, сейчас в Лилле вне игры.", r:6},
-  {v:"FM 2015", p:"Anthony Martial", c:"Monaco (19)", s:"МЮ 9 лет — £58M с «бонусом за Золотой мяч». 2 FA Cup, но нестабильность. Сейчас АЕК Афины.", r:6},
-  {v:"FM 2015", p:"Youri Tielemans", c:"Anderlecht (17)", s:"Монако, Лестер (победный гол в финале FA Cup), Астон Вилла. Капитан Бельгии. Крепко, но не топ.", r:7},
-
-  // ============ FM 2016 ============
-  {v:"FM 2016", p:"Leroy Sané", c:"Schalke (20)", s:"Ман Сити (2 АПЛ), Бавария (3 Бундеслиги). Ветром то гениален, то невидим. ЧМ/Евро со сборной.", r:8},
-  {v:"FM 2016", p:"Gabriel Jesus", c:"Palmeiras (18)", s:"Ман Сити (4 АПЛ), Арсенал. ЧМ-2018 и 2022 с Бразилией. Травмы последние сезоны тормозят.", r:8},
-  {v:"FM 2016", p:"Paulo Dybala", c:"Juventus (21)", s:"Ювентус-легенда (5 Серий А), Рома. Финал ЧМ-2022 с Аргентиной. Гений, но не GOAT.", r:8},
-  {v:"FM 2016", p:"Dele Alli", c:"Tottenham (19)", s:"Тоттенхэм-пик 2016/17 — финалист ЧЛ-2019, ЧМ-2018 полуфинал. Эвертон, Бешикташ — падение. Открытое интервью о депрессии.", r:4},
-  {v:"FM 2016", p:"Hirving Lozano", c:"Pachuca (19)", s:"ПСВ, Наполи (Скудетто-2023). Сейчас Сан-Диего. Крепкий топ Мексики, но не большая звезда.", r:6},
-
-  // ============ FM 2017 ============
-  {v:"FM 2017", p:"Kylian Mbappé", c:"Monaco (17)", s:"ЧМ-2018 в 19. Рекорд ПСЖ по голам, финал ЧЛ. Реал с 2024 — наследник трона. Потенциальный GOAT.", r:10},
-  {v:"FM 2017", p:"Gianluigi Donnarumma", c:"Milan (17)", s:"Милан с 16, MVP Евро-2020. ПСЖ (3 Лиги 1). Лучший вратарь мира в моменты. С 2025 — Ман Сити.", r:9},
-  {v:"FM 2017", p:"Ousmane Dembélé", c:"Dortmund (19)", s:"Барса €140M — провал (травмы). Возрождение в ПСЖ — ЧЛ-2025 победа, Золотой мяч 2024. Возрождение года.", r:8},
-  {v:"FM 2017", p:"Marco Asensio", c:"Real Madrid (20)", s:"Реал (3 ЧЛ), ПСЖ. Разрыв крестообразной подкосил. Астон Вилла сейчас. Не тот супер-звёздный уровень.", r:6},
-  {v:"FM 2017", p:"Renato Sanches", c:"Bayern (19)", s:"MVP Евро-2016 Португалии, Бавария — провал в 19. Суонси, Лилль (Лига 1), Рома. Не реализовал и 30%.", r:3},
-
-  // ============ FM 2018 ============
-  {v:"FM 2018", p:"Trent Alexander-Arnold", c:"Liverpool (19)", s:"Ливерпуль-легенда (ЧЛ-2019, АПЛ-2020), лучший правый защитник мира 2019-2022. Реал с 2025.", r:9},
-  {v:"FM 2018", p:"Vinicius Jr.", c:"Flamengo (17)", s:"Реал 2× ЧЛ, Ла Лига. Герой ЧЛ-финала 2022. Второй в ЗМ-2024 (спорно). Главная звезда бразильцев.", r:9},
-  {v:"FM 2018", p:"Rodrygo", c:"Santos (17)", s:"Реал (3 ЧЛ), чудо-хет-трик Сити-2022. Стабильный топ, но всегда «третий номер» позади Винисиуса/Беллингема.", r:8},
-  {v:"FM 2018", p:"Kai Havertz", c:"Leverkusen (18)", s:"Челси (ЧЛ-2021 победный гол в финале), Арсенал. Критика за непонятную роль, но крепкий топ-игрок.", r:7},
-  {v:"FM 2018", p:"Matthijs de Ligt", c:"Ajax (18)", s:"Аякс — полуфинал ЧЛ-2019, Golden Boy. Ювентус, Бавария (Бундеслига). МЮ с 2024. Хорошо, но не Месси от защиты.", r:7},
-
-  // ============ FM 2019 ============
-  {v:"FM 2019", p:"Erling Haaland", c:"RB Salzburg (18)", s:"Зальцбург-Дортмунд-Сити. Рекорд АПЛ 36 голов за сезон. 2× АПЛ, ЧЛ-2023. Бомбардир №1 в мире.", r:10},
-  {v:"FM 2019", p:"Phil Foden", c:"Man City (18)", s:"Ман Сити с 17 — 6 АПЛ, ЧЛ-2023. PFA Player of the Year 2023/24. Лидер Англии.", r:9},
-  {v:"FM 2019", p:"Jadon Sancho", c:"Dortmund (18)", s:"Дортмунд-пик (Голден Бой-2019). МЮ £73M — провал. Аренда назад в Дортмунд (финал ЧЛ-2024), Челси.", r:5},
-  {v:"FM 2019", p:"Joao Félix", c:"Benfica (19)", s:"Атлетико €127M (3-й по дороговизне в истории) — не сработало. Челси, Барса. Не Ronaldo-наследник. Сейчас Ал-Наср.", r:5},
-  {v:"FM 2019", p:"Pietro Pellegri", c:"Monaco (17)", s:"Трансфер из Дженоа в Монако в 16 за €25M. Травмы — за всю карьеру менее 70 матчей в Европе. Сейчас Эмполи.", r:2},
-
-  // ============ FM 2020 ============
-  {v:"FM 2020", p:"Xavi Simons", c:"PSG (16)", s:"Кража Барсы-Ла Масии. ПСВ (лучший игрок Эредивизи 2022/23), Лейпциг, Тоттенхэм-2025. Восходит.", r:8},
-  {v:"FM 2020", p:"Takefusa Kubo", c:"Real Madrid (18)", s:"«Японский Месси». Реал так и не дал шанса. Сейчас Реал Сосьедад — топ-игрок Ла Лиги, звезда Японии.", r:7},
-  {v:"FM 2020", p:"Ansu Fati", c:"Barcelona (16)", s:"Рекорды Барсы как самого юного бомбардира. Травмы колена уничтожили. Брайтон, сейчас Монако. Не тот взлёт.", r:4},
-  {v:"FM 2020", p:"Rayan Cherki", c:"Lyon (16)", s:"Много лет «талант в тени». Ман Сити с 2025 после яркого Лиги Чемпионов с Лионом. Шанс раскрыться.", r:6},
-  {v:"FM 2020", p:"Mason Greenwood", c:"Man Utd (18)", s:"МЮ-топ в 19, но обвинения 2022 закрыли карьеру в Англии. Хетафе, Марсель — играет, но репутация сломана.", r:5},
-
-  // ============ FM 2021 ============
-  {v:"FM 2021", p:"Pedri", c:"Barcelona (18)", s:"Golden Boy 2021. Мозг Барсы и Испании (Евро-2024 победа). Травмы мешают, но качество топ-3 мира в середине.", r:9},
-  {v:"FM 2021", p:"Jamal Musiala", c:"Bayern (17)", s:"Бавария (3 Бундеслиги), Евро-2024 звезда Германии. Один из топ-3 АМ мира в 2024/25. Потенциальный GOAT.", r:10},
-  {v:"FM 2021", p:"Eduardo Camavinga", c:"Rennes (17)", s:"Реал €34M в 18 — 3 ЧЛ. Часто играет левого защитника. ЧМ-2022 финал. Крепкий топ, но не звезда №1.", r:8},
-  {v:"FM 2021", p:"Ryan Gravenberch", c:"Ajax (19)", s:"Бавария — лавка, но Ливерпуль (АПЛ-2025) — ренессанс как опорника. Лидер новой Нидерландов.", r:7},
-  {v:"FM 2021", p:"Youssoufa Moukoko", c:"Dortmund (16)", s:"Дебют в Бундеслиге в 16. Бомбардир юношеских турниров Германии. Но во взрослом топ-футболе пока не закрепился. Ницца.", r:4},
-
-  // ============ FM 2022 ============
-  {v:"FM 2022", p:"Jude Bellingham", c:"Dortmund (18)", s:"Реал €103M в 19 — Ла Лига + ЧЛ в первый сезон, 23 гола. Евро-2024 финал. Кандидат №1 на Золотой мяч.", r:10},
-  {v:"FM 2022", p:"Bukayo Saka", c:"Arsenal (20)", s:"Лидер Арсенала (3× в команде года АПЛ), финал Евро-2020/2024. Травмы тормозят 2024/25, но топ-уровень.", r:9},
-  {v:"FM 2022", p:"Florian Wirtz", c:"Leverkusen (18)", s:"Леверкузен — чемпион Бундеслиги-2024 (первый раз!), MVP. Ливерпуль €140M с 2025. Будущий Ballon d'Or-кандидат.", r:9},
-  {v:"FM 2022", p:"Gavi", c:"Barcelona (17)", s:"Барса — самый юный дебютант Испании. Разрыв крестов 2023 тормозит. Талант Пеле-уровня, но судьба жёсткая.", r:7},
-  {v:"FM 2022", p:"Nico Williams", c:"Athletic (19)", s:"Атлетик — Кубок Короля 2024. Евро-2024 MVP вместе с Ямалем. Остался в Атлетик летом 2025 — не ушёл в Барсу.", r:9},
-
-  // ============ FM 2023 ============
-  {v:"FM 2023", p:"Antonio Silva", c:"Benfica (19)", s:"Бенфика — топ-защитник Лиги Португалии. Сборная Португалии. Ожидается топ-трансфер в 2025/26.", r:7},
-  {v:"FM 2023", p:"Alejandro Garnacho", c:"Man Utd (18)", s:"МЮ — гол года Пушкаш-2023 (ножницы против Эвертона). Аргентина. Челси с лета 2025.", r:7},
-  {v:"FM 2023", p:"Rasmus Højlund", c:"Atalanta (19)", s:"МЮ £72M — тяжелая адаптация, критика. 2024/25 получше, но не тот уровень, что ожидали. Потенциал остался.", r:5},
-  {v:"FM 2023", p:"Enzo Fernández", c:"Benfica (21)", s:"MVP молодёжного ЧМ-2022 с Аргентиной. Челси рекорд-трансфер (£106M). Нестабилен, но в победном финале Кубка Америки-2024.", r:7},
-  {v:"FM 2023", p:"Warren Zaïre-Emery", c:"PSG (16)", s:"Самый юный капитан ПСЖ в истории. Сборная Франции в 17. Крепкий карьерный путь, стабильно раскрывается.", r:8},
-
-  // ============ FM 2024 ============
-  {v:"FM 2024", p:"Lamine Yamal", c:"Barcelona (16)", s:"Евро-2024 победа в 16, Golden Boy-2024, Ла Лига. Кандидат на Золотой мяч в 18. Новая эра. Феномен.", r:10},
-  {v:"FM 2024", p:"Arda Güler", c:"Real Madrid (18)", s:"Реал купил у Фенербахче, травмы в 23/24. Евро-2024 — гол-ракета. 2024/25 — всё больше минут, на взлёте.", r:8},
-  {v:"FM 2024", p:"Endrick", c:"Palmeiras (17)", s:"Реал Мадрид с 18 (2024). Первый сезон тяжёлый — мало минут, но голы в Копа дель Рей. Долгий путь впереди.", r:7},
-  {v:"FM 2024", p:"Estêvão Willian", c:"Palmeiras (16)", s:"«Мессиньо». Палмейрас-феномен. Челси с 2025 после 18-летия. Один из главных талантов нового поколения.", r:7},
-  {v:"FM 2024", p:"Kobbie Mainoo", c:"Man Utd (18)", s:"МЮ — прорыв 2023/24, Кубок Англии финал — гол. Сборная Англии, Евро-2024 финал. Мозг новой Англии.", r:8},
-];
-
-// Build versions pills
-const versions = ["Все", ...new Set(DATA.map(d => d.v))];
-const vEl = document.getElementById('versions');
-versions.forEach((v, i) => {
-  const btn = document.createElement('button');
-  btn.className = 'pill' + (i === 0 ? ' active' : '');
-  btn.textContent = v;
-  btn.dataset.v = v;
-  btn.onclick = () => {
-    document.querySelectorAll('.pill').forEach(p => p.classList.remove('active'));
-    btn.classList.add('active');
-    render();
-  };
-  vEl.appendChild(btn);
-});
-
+let DATA = [];
 const searchEl = document.getElementById('search');
 const ratingEl = document.getElementById('rating-filter');
+const vEl = document.getElementById('versions');
+const tbody = document.getElementById('tbody');
+
 searchEl.addEventListener('input', render);
 ratingEl.addEventListener('change', render);
+
+async function load() {
+  tbody.innerHTML = '<tr><td colspan="5" class="no-results">Загрузка…</td></tr>';
+  try {
+    const res = await fetch('data/players.json');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    DATA = await res.json();
+  } catch (e) {
+    tbody.innerHTML = `<tr><td colspan="5" class="no-results">Не удалось загрузить данные: ${escape(e.message)}.<br>Локально запускай через <code>python3 -m http.server</code> — браузер блокирует fetch по file://</td></tr>`;
+    return;
+  }
+  buildVersions();
+  render();
+}
+
+function buildVersions() {
+  const versions = ["Все", ...new Set(DATA.map(d => d.fm_version))];
+  vEl.innerHTML = '';
+  versions.forEach((v, i) => {
+    const btn = document.createElement('button');
+    btn.className = 'pill' + (i === 0 ? ' active' : '');
+    btn.textContent = v;
+    btn.dataset.v = v;
+    btn.onclick = () => {
+      document.querySelectorAll('.pill').forEach(p => p.classList.remove('active'));
+      btn.classList.add('active');
+      render();
+    };
+    vEl.appendChild(btn);
+  });
+}
+
+function escape(s) {
+  return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function clubLine(d) {
+  return d.age_at_release != null
+    ? `${d.club_at_release} (${d.age_at_release})`
+    : d.club_at_release;
+}
 
 function render() {
   const q = searchEl.value.toLowerCase().trim();
   const rf = ratingEl.value ? ratingEl.value.split(',').map(Number) : null;
-  const activeV = document.querySelector('.pill.active').dataset.v;
+  const activePill = document.querySelector('.pill.active');
+  const activeV = activePill ? activePill.dataset.v : 'Все';
 
   const filtered = DATA.filter(d => {
-    if (activeV !== "Все" && d.v !== activeV) return false;
-    if (rf && !rf.includes(d.r)) return false;
-    if (q && !(d.p.toLowerCase().includes(q) || d.c.toLowerCase().includes(q) || d.v.toLowerCase().includes(q) || d.s.toLowerCase().includes(q))) return false;
+    if (activeV !== "Все" && d.fm_version !== activeV) return false;
+    if (rf && !rf.includes(d.rating)) return false;
+    if (q) {
+      const hay = (d.name + ' ' + d.club_at_release + ' ' + d.fm_version + ' ' + d.verdict).toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
     return true;
   });
 
-  const tbody = document.getElementById('tbody');
   tbody.innerHTML = '';
-
   if (filtered.length === 0) {
     tbody.innerHTML = '<tr><td colspan="5" class="no-results">По фильтру ничего не найдено</td></tr>';
   } else {
-    filtered.forEach((d, i) => {
+    filtered.forEach(d => {
+      const idx = DATA.indexOf(d) + 1;
       const tr = document.createElement('tr');
       tr.innerHTML = `
-        <td class="num">${String(DATA.indexOf(d) + 1).padStart(2, '0')}</td>
-        <td><div class="ver">${d.v}</div></td>
+        <td class="num">${String(idx).padStart(2, '0')}</td>
+        <td><div class="ver">${escape(d.fm_version)}</div></td>
         <td>
-          <div class="name">${d.p}</div>
-          <div class="club">${d.c}</div>
+          <div class="name">${escape(d.name)}</div>
+          <div class="club">${escape(clubLine(d))}</div>
         </td>
-        <td class="story">${d.s}</td>
-        <td class="rating-cell"><span class="rating r-${d.r}">${d.r}</span></td>
+        <td class="story">${escape(d.verdict)}</td>
+        <td class="rating-cell"><span class="rating r-${d.rating}">${d.rating}</span></td>
       `;
       tbody.appendChild(tr);
     });
   }
 
-  // Stats
   const counts = { legend: 0, good: 0, mid: 0, flop: 0 };
   DATA.forEach(d => {
-    if (d.r >= 9) counts.legend++;
-    else if (d.r >= 7) counts.good++;
-    else if (d.r >= 5) counts.mid++;
+    if (d.rating >= 9) counts.legend++;
+    else if (d.rating >= 7) counts.good++;
+    else if (d.rating >= 5) counts.mid++;
     else counts.flop++;
   });
   document.getElementById('s-legend').textContent = counts.legend;
@@ -604,7 +493,7 @@ function render() {
   document.getElementById('s-flop').textContent = counts.flop;
 }
 
-render();
+load();
 </script>
 </body>
 </html>
