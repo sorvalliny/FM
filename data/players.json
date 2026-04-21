@@ -10,7 +10,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "cristiano-ronaldo-fm2005",
@@ -23,7 +25,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "wayne-rooney-fm2005",
@@ -36,7 +40,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "cesc-fabregas-fm2005",
@@ -49,7 +55,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "freddy-adu-fm2005",
@@ -62,7 +70,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "sergio-ramos-fm2006",
@@ -75,7 +85,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "sergio-aguero-fm2006",
@@ -88,7 +100,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "philipp-lahm-fm2006",
@@ -101,7 +115,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "carlos-tevez-fm2006",
@@ -114,7 +130,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "kerlon-fm2006",
@@ -127,7 +145,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "david-silva-fm2007",
@@ -140,7 +160,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "gerard-pique-fm2007",
@@ -153,7 +175,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "giorgio-chiellini-fm2007",
@@ -166,7 +190,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "theo-walcott-fm2007",
@@ -179,7 +205,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "anderson-fm2007",
@@ -192,7 +220,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "karim-benzema-fm2008",
@@ -205,7 +235,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "gonzalo-higuain-fm2008",
@@ -218,7 +250,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "alexis-sanchez-fm2008",
@@ -231,7 +265,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "ezequiel-lavezzi-fm2008",
@@ -244,7 +280,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "alexandre-pato-fm2008",
@@ -257,7 +295,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "eden-hazard-fm2009",
@@ -270,7 +310,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "mesut-ozil-fm2009",
@@ -283,7 +325,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "daniel-sturridge-fm2009",
@@ -296,7 +340,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "mario-balotelli-fm2009",
@@ -309,7 +355,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "federico-macheda-fm2009",
@@ -322,7 +370,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "neymar-fm2010",
@@ -335,7 +385,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "romelu-lukaku-fm2010",
@@ -348,7 +400,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "james-rodriguez-fm2010",
@@ -361,7 +415,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "mario-gotze-fm2010",
@@ -374,7 +430,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "bojan-krkic-fm2010",
@@ -387,7 +445,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "toni-kroos-fm2011",
@@ -400,7 +460,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "thibaut-courtois-fm2011",
@@ -413,7 +475,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "david-de-gea-fm2011",
@@ -426,7 +490,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "son-heung-min-fm2011",
@@ -439,7 +505,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "isco-fm2011",
@@ -452,7 +520,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "raphael-varane-fm2012",
@@ -465,7 +535,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "marco-verratti-fm2012",
@@ -478,7 +550,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "thiago-alcantara-fm2012",
@@ -491,7 +565,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "paul-pogba-fm2012",
@@ -504,7 +580,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "iker-muniain-fm2012",
@@ -517,7 +595,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "kevin-de-bruyne-fm2013",
@@ -530,7 +610,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "christian-eriksen-fm2013",
@@ -543,7 +625,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "marco-reus-fm2013",
@@ -556,7 +640,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "philippe-coutinho-fm2013",
@@ -569,7 +655,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "adnan-januzaj-fm2013",
@@ -582,7 +670,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "marquinhos-fm2014",
@@ -595,7 +685,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "raheem-sterling-fm2014",
@@ -608,7 +700,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "alvaro-morata-fm2014",
@@ -621,7 +715,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "julian-draxler-fm2014",
@@ -634,7 +730,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "hachim-mastour-fm2014",
@@ -647,7 +745,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "martin-degaard-fm2015",
@@ -660,7 +760,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "mateo-kovacic-fm2015",
@@ -673,7 +775,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "samuel-umtiti-fm2015",
@@ -686,7 +790,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "anthony-martial-fm2015",
@@ -699,7 +805,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "youri-tielemans-fm2015",
@@ -712,7 +820,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "leroy-sane-fm2016",
@@ -725,7 +835,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "gabriel-jesus-fm2016",
@@ -738,7 +850,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "paulo-dybala-fm2016",
@@ -751,7 +865,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "dele-alli-fm2016",
@@ -764,7 +880,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "hirving-lozano-fm2016",
@@ -777,7 +895,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "kylian-mbappe-fm2017",
@@ -790,7 +910,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "gianluigi-donnarumma-fm2017",
@@ -803,7 +925,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "ousmane-dembele-fm2017",
@@ -816,7 +940,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "marco-asensio-fm2017",
@@ -829,7 +955,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "renato-sanches-fm2017",
@@ -842,7 +970,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "trent-alexander-arnold-fm2018",
@@ -855,7 +985,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "vinicius-jr-fm2018",
@@ -868,7 +1000,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "rodrygo-fm2018",
@@ -881,7 +1015,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "kai-havertz-fm2018",
@@ -894,7 +1030,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "matthijs-de-ligt-fm2018",
@@ -907,7 +1045,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "erling-haaland-fm2019",
@@ -920,7 +1060,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "phil-foden-fm2019",
@@ -933,7 +1075,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "jadon-sancho-fm2019",
@@ -946,7 +1090,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "joao-felix-fm2019",
@@ -959,7 +1105,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "pietro-pellegri-fm2019",
@@ -972,7 +1120,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "xavi-simons-fm2020",
@@ -985,7 +1135,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "takefusa-kubo-fm2020",
@@ -998,7 +1150,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "ansu-fati-fm2020",
@@ -1011,7 +1165,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "rayan-cherki-fm2020",
@@ -1024,7 +1180,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "mason-greenwood-fm2020",
@@ -1037,7 +1195,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "pedri-fm2021",
@@ -1050,7 +1210,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "jamal-musiala-fm2021",
@@ -1063,7 +1225,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "eduardo-camavinga-fm2021",
@@ -1076,7 +1240,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "ryan-gravenberch-fm2021",
@@ -1089,7 +1255,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "youssoufa-moukoko-fm2021",
@@ -1102,7 +1270,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "jude-bellingham-fm2022",
@@ -1115,7 +1285,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "bukayo-saka-fm2022",
@@ -1128,7 +1300,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "florian-wirtz-fm2022",
@@ -1141,7 +1315,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "gavi-fm2022",
@@ -1154,7 +1330,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "nico-williams-fm2022",
@@ -1167,7 +1345,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "antonio-silva-fm2023",
@@ -1180,7 +1360,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "alejandro-garnacho-fm2023",
@@ -1193,7 +1375,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "rasmus-h-jlund-fm2023",
@@ -1206,7 +1390,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "enzo-fernandez-fm2023",
@@ -1219,7 +1405,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "warren-zaire-emery-fm2023",
@@ -1232,7 +1420,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "lamine-yamal-fm2024",
@@ -1245,7 +1435,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "arda-guler-fm2024",
@@ -1258,7 +1450,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "endrick-fm2024",
@@ -1271,7 +1465,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "estevao-willian-fm2024",
@@ -1284,7 +1480,9 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
   },
   {
     "id": "kobbie-mainoo-fm2024",
@@ -1297,6 +1495,1452 @@
     "tags": [],
     "nationality": null,
     "position": null,
-    "details": null
+    "details": null,
+    "sources": [],
+    "confidence": "legacy"
+  },
+  {
+    "id": "cherno-samba-fm2005",
+    "name": "Cherno Samba",
+    "fm_version": "FM 2005",
+    "club_at_release": "Plymouth Argyle",
+    "age_at_release": 17,
+    "rating": 1,
+    "verdict": "60+ виртуальных голов за сезон — символ эпохи CM/FM. В реальности: Финляндия, Греция, Норвегия, травма-окончание карьеры.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.cultkits.com/blogs/news/10-football-manager-wonderkids-who-turned-out-to-be-flops-in-real-life",
+      "https://www.givemesport.com/football-manager-wonderkids-ranked/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "tonton-zola-moukoko-fm2005",
+    "name": "Tonton Zola Moukoko",
+    "fm_version": "FM 2005",
+    "club_at_release": "Derby County",
+    "age_at_release": 16,
+    "rating": 2,
+    "verdict": "Легенда CM 01/02, носимая в FM по инерции. Низкопрофильная карьера в шведском футболе.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.cultkits.com/blogs/news/10-football-manager-wonderkids-who-turned-out-to-be-flops-in-real-life"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "nicolae-mitea-fm2005",
+    "name": "Nicolae Mitea",
+    "fm_version": "FM 2005",
+    "club_at_release": "Ajax",
+    "age_at_release": 19,
+    "rating": 3,
+    "verdict": "Румынский вингер, травмы пустили карьеру под откос. Скитания: Румыния, Греция, лоу-лиги.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "benedict-vilakazi-fm2005",
+    "name": "Benedict Vilakazi",
+    "fm_version": "FM 2005",
+    "club_at_release": "Mamelodi Sundowns",
+    "age_at_release": 18,
+    "rating": 3,
+    "verdict": "Миниатюрный (1.57м) южноафриканец. Офф-филд скандалы, провал в датском Ольборге.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "valeri-bojinov-fm2006",
+    "name": "Valeri Bojinov",
+    "fm_version": "FM 2006",
+    "club_at_release": "Lecce",
+    "age_at_release": 19,
+    "rating": 4,
+    "verdict": "Болгарский форвард. Фиорентина, Ювентус, Сити — везде травмы и нестабильность. Кочевал по Европе.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "anthony-vanden-borre-fm2006",
+    "name": "Anthony Vanden Borre",
+    "fm_version": "FM 2006",
+    "club_at_release": "Anderlecht",
+    "age_at_release": 18,
+    "rating": 3,
+    "verdict": "Бельгийский универсал за ~£1M. Стал правым защитником среднего уровня: Портсмут, Дженоа, Генк.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://www.cultkits.com/blogs/news/10-football-manager-wonderkids-who-turned-out-to-be-flops-in-real-life"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "royston-drenthe-fm2006",
+    "name": "Royston Drenthe",
+    "fm_version": "FM 2006",
+    "club_at_release": "Feyenoord",
+    "age_at_release": 19,
+    "rating": 3,
+    "verdict": "Реал Мадрид в 2007 — шансов не получил. Эвертон, Владикавказ, лоу-лиги. Ранний конец.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "david-bentley-fm2006",
+    "name": "David Bentley",
+    "fm_version": "FM 2006",
+    "club_at_release": "Blackburn Rovers",
+    "age_at_release": 21,
+    "rating": 4,
+    "verdict": "£15M трансфер в Тоттенхэм (2008) — провал. Россия, завершил карьеру рано в 29.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "leandro-lima-fm2007",
+    "name": "Leandro Lima",
+    "fm_version": "FM 2007",
+    "club_at_release": "Porto",
+    "age_at_release": 18,
+    "rating": 3,
+    "verdict": "Бразилец, не пробился в Европе. Бесконечные аренды и возврат в бразильские низшие дивизионы.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "sherman-cardenas-fm2007",
+    "name": "Sherman Cardenas",
+    "fm_version": "FM 2007",
+    "club_at_release": "Bucaramanga",
+    "age_at_release": 17,
+    "rating": 4,
+    "verdict": "Колумбийский полузащитник. Чемпион Колумбии, но Европы и сборной не увидел.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "nicolas-millan-fm2007",
+    "name": "Nicolás Millán",
+    "fm_version": "FM 2007",
+    "club_at_release": "Colo-Colo",
+    "age_at_release": 14,
+    "rating": 3,
+    "verdict": "Дебют за Коло-Коло в 14. Ранний хайп сломал карьеру — скитания по низшим лигам Чили.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "nicklas-bendtner-fm2007",
+    "name": "Nicklas Bendtner",
+    "fm_version": "FM 2007",
+    "club_at_release": "Arsenal",
+    "age_at_release": 19,
+    "rating": 4,
+    "verdict": "Датский форвард. «Почему я должен думать, что я хуже Месси?». Алкоголь, Ноттингем, Розенборг. Мемы.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "michael-johnson-fm2008",
+    "name": "Michael Johnson",
+    "fm_version": "FM 2008",
+    "club_at_release": "Manchester City",
+    "age_at_release": 20,
+    "rating": 2,
+    "verdict": "Английский мидфилдер. Травмы + проблемы с ментальным здоровьем. Ранний уход из футбола.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "lulinha-fm2008",
+    "name": "Lulinha",
+    "fm_version": "FM 2008",
+    "club_at_release": "Corinthians",
+    "age_at_release": 18,
+    "rating": 3,
+    "verdict": "Бразилец, не оправдал ожидания. Португалия, Южная Корея, ОАЭ.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "diego-capel-fm2008",
+    "name": "Diego Capel",
+    "fm_version": "FM 2008",
+    "club_at_release": "Sevilla",
+    "age_at_release": 20,
+    "rating": 4,
+    "verdict": "«Новый Месси» испанский вингер. Спортинг Лиссабон, Генк, завершил в низших лигах.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "denilson-fm2008",
+    "name": "Denilson",
+    "fm_version": "FM 2008",
+    "club_at_release": "Arsenal",
+    "age_at_release": 20,
+    "rating": 4,
+    "verdict": "Бразильский опорник, £3.5M у канониров. 4 сезона без роли, возврат в Сан-Паулу.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "vincenzo-fiorillo-fm2009",
+    "name": "Vincenzo Fiorillo",
+    "fm_version": "FM 2009",
+    "club_at_release": "Sampdoria",
+    "age_at_release": 19,
+    "rating": 4,
+    "verdict": "Итальянский вратарь, капитан U-молодёжки. Застрял в Серии B на многие годы.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "henri-saivet-fm2009",
+    "name": "Henri Saivet",
+    "fm_version": "FM 2009",
+    "club_at_release": "Bordeaux",
+    "age_at_release": 18,
+    "rating": 4,
+    "verdict": "Французский вингер. Ньюкасл £6M — серия аренд, так и не выстрелил в топ-лиге.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "john-fleck-fm2009",
+    "name": "John Fleck",
+    "fm_version": "FM 2009",
+    "club_at_release": "Rangers",
+    "age_at_release": 17,
+    "rating": 4,
+    "verdict": "«Шотландский Уэйн Руни». Долгий обход через лоу-лиги, только в Шеффилд Юнайтед перестроился.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "savio-nsereko-fm2009",
+    "name": "Savio Nsereko",
+    "fm_version": "FM 2009",
+    "club_at_release": "Brescia",
+    "age_at_release": 19,
+    "rating": 2,
+    "verdict": "£9M у Вест Хэма в 2009 — одна из худших сделок АПЛ. 10 матчей, далее скитания по 3-й лиге Европы.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "franco-zuculini-fm2010",
+    "name": "Franco Zuculini",
+    "fm_version": "FM 2010",
+    "club_at_release": "Hoffenheim",
+    "age_at_release": 19,
+    "rating": 4,
+    "verdict": "Аргентинский опорник. Скитания: Дженоа, Рэйсинг Сантандер, Верона. Никогда не доминировал.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "keirrison-fm2010",
+    "name": "Keirrison",
+    "fm_version": "FM 2010",
+    "club_at_release": "Coritiba",
+    "age_at_release": 20,
+    "rating": 2,
+    "verdict": "£14M Барселона купила в 2009 — 0 матчей за первую команду. Серия провальных аренд (Бенфика, Фиорентина).",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://www.cultkits.com/blogs/news/10-football-manager-wonderkids-who-turned-out-to-be-flops-in-real-life"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "diego-buonanotte-fm2010",
+    "name": "Diego Buonanotte",
+    "fm_version": "FM 2010",
+    "club_at_release": "River Plate",
+    "age_at_release": 21,
+    "rating": 4,
+    "verdict": "1.63м «новый Месси». Фатальное ДТП с другом подкосило уверенность. Малага, Кесар, скитания по Южной Америке.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "martin-galvan-fm2010",
+    "name": "Martín Galván",
+    "fm_version": "FM 2010",
+    "club_at_release": "Cruz Azul",
+    "age_at_release": 15,
+    "rating": 4,
+    "verdict": "Дебют за Крус Асуль в 15. Проблемы со зрелостью, так и не вышел за Лигу МХ.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "ravel-morrison-fm2011",
+    "name": "Ravel Morrison",
+    "fm_version": "FM 2011",
+    "club_at_release": "Manchester United",
+    "age_at_release": 18,
+    "rating": 3,
+    "verdict": "Сэр Алекс: «самый талантливый юниор, что я видел». Отношение к делу + проблемы с законом. Уиган, Брэдфорд, МК Донс.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.givemesport.com/football-manager-wonderkids-ranked/",
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "josh-mceachran-fm2011",
+    "name": "Josh McEachran",
+    "fm_version": "FM 2011",
+    "club_at_release": "Chelsea",
+    "age_at_release": 17,
+    "rating": 3,
+    "verdict": "«Будущее английского футбола». Уиган, Брэдфорд, МК Донс. Журнимэн-полузащитник.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.givemesport.com/football-manager-wonderkids-ranked/",
+      "https://www.cultkits.com/blogs/news/10-football-manager-wonderkids-who-turned-out-to-be-flops-in-real-life"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "bebe-fm2011",
+    "name": "Bebé",
+    "fm_version": "FM 2011",
+    "club_at_release": "Manchester United",
+    "age_at_release": 20,
+    "rating": 2,
+    "verdict": "Ферги купил за £7.4M, не видев вживую. 2 старта в АПЛ. Бешикташ, Бенфика, Райо Вальекано.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.givemesport.com/football-manager-wonderkids-ranked/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "danny-wilson-fm2011",
+    "name": "Danny Wilson",
+    "fm_version": "FM 2011",
+    "club_at_release": "Rangers",
+    "age_at_release": 18,
+    "rating": 4,
+    "verdict": "Шотландский защитник, Ливерпуль купил в 18. Первую команду не взломал, долгая аренда-карьера в Шотландии.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "wellington-silva-fm2011",
+    "name": "Wellington Silva",
+    "fm_version": "FM 2011",
+    "club_at_release": "Arsenal",
+    "age_at_release": 18,
+    "rating": 3,
+    "verdict": "Бразильский вингер. Проблемы с work permit — 0 матчей за Арсенал за 6 лет. Аренды по Испании.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.givemesport.com/football-manager-wonderkids-ranked/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "adryan-fm2012",
+    "name": "Adryan",
+    "fm_version": "FM 2012",
+    "club_at_release": "Flamengo",
+    "age_at_release": 17,
+    "rating": 3,
+    "verdict": "Бразильская «десятка». Провальная аренда в Лидс. Карьера превратилась в YouTube-нарезку.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://www.givemesport.com/football-manager-wonderkids-ranked/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "carlos-fierro-fm2012",
+    "name": "Carlos Fierro",
+    "fm_version": "FM 2012",
+    "club_at_release": "Guadalajara",
+    "age_at_release": 18,
+    "rating": 4,
+    "verdict": "Победитель U-17 ЧМ. Застрял в мексиканской Лиге, трансфер в Европу так и не состоялся.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "luc-castaignos-fm2012",
+    "name": "Luc Castaignos",
+    "fm_version": "FM 2012",
+    "club_at_release": "Inter Milan",
+    "age_at_release": 19,
+    "rating": 3,
+    "verdict": "Переход из Фейеноорда в Интер — слишком рано. Травмы и тайминг. Серия средних голландских/немецких клубов.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "paulo-henrique-ganso-fm2012",
+    "name": "Paulo Henrique Ganso",
+    "fm_version": "FM 2012",
+    "club_at_release": "Santos",
+    "age_at_release": 22,
+    "rating": 4,
+    "verdict": "«Новый Кака» в Сантосе рядом с Неймаром. Сан-Паулу, Севилья-аренда, Амьен. Сползание из топа.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "connor-wickham-fm2012",
+    "name": "Connor Wickham",
+    "fm_version": "FM 2012",
+    "club_at_release": "Sunderland",
+    "age_at_release": 18,
+    "rating": 4,
+    "verdict": "£8M в Сандерленд в 17. Травмы, чемпионшип, завершил в низших лигах.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "yaya-sanogo-fm2013",
+    "name": "Yaya Sanogo",
+    "fm_version": "FM 2013",
+    "club_at_release": "Arsenal",
+    "age_at_release": 20,
+    "rating": 3,
+    "verdict": "Венгер привёл бесплатно как «наследника Анри». Травмы добили. Ныне ФК Урарту в Армении.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://www.givemesport.com/football-manager-wonderkids-ranked/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "romulo-fm2013",
+    "name": "Romulo",
+    "fm_version": "FM 2013",
+    "club_at_release": "Spartak Moscow",
+    "age_at_release": 21,
+    "rating": 4,
+    "verdict": "Бразилец на Олимпиаде-2012 с Бразилией. Катастрофическая травма колена — 2 года потерял, уровень не вернул.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "ruben-pardo-fm2013",
+    "name": "Rubén Pardo",
+    "fm_version": "FM 2013",
+    "club_at_release": "Real Sociedad",
+    "age_at_release": 20,
+    "rating": 4,
+    "verdict": "«Новый Хаби Алонсо». Не хватило стабильности. Бордо-провал, скромные роли.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "jese-rodriguez-fm2013",
+    "name": "Jesé Rodríguez",
+    "fm_version": "FM 2013",
+    "club_at_release": "Real Madrid",
+    "age_at_release": 20,
+    "rating": 3,
+    "verdict": "Сменщик CR7 в Ла Фабрике. ПСЖ за €25M — провал, Сток-катастрофа, далее Лас-Пальмас. Ныне Аль-Райян.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "eder-balanta-fm2014",
+    "name": "Éder Balanta",
+    "fm_version": "FM 2014",
+    "club_at_release": "River Plate",
+    "age_at_release": 20,
+    "rating": 4,
+    "verdict": "Колумбийский центрбек. «Слишком хорош в игре, слишком обычный в жизни». Базель, Брюгге — не топ-лиги.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "jordan-rossiter-fm2014",
+    "name": "Jordan Rossiter",
+    "fm_version": "FM 2014",
+    "club_at_release": "Liverpool",
+    "age_at_release": 17,
+    "rating": 3,
+    "verdict": "«Наследник Джеррарда». Травмы сломали развитие. Рейнджерс, Флитвуд, лоу-лиги Англии.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "dan-crowley-fm2014",
+    "name": "Dan Crowley",
+    "fm_version": "FM 2014",
+    "club_at_release": "Arsenal",
+    "age_at_release": 16,
+    "rating": 3,
+    "verdict": "Сравнивали с Джеком Уилшером. Отношение + физика. Бирмингем, Виллем II, низкие лиги.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "ewandro-fm2014",
+    "name": "Ewandro",
+    "fm_version": "FM 2014",
+    "club_at_release": "São Paulo",
+    "age_at_release": 18,
+    "rating": 3,
+    "verdict": "Бразильский вингер, «новый Неймар» в узких кругах. Удинезе — не закрепился. Возврат в бразильские средние клубы.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "james-wilson-fm2015",
+    "name": "James Wilson",
+    "fm_version": "FM 2015",
+    "club_at_release": "Manchester United",
+    "age_at_release": 19,
+    "rating": 4,
+    "verdict": "Дубль на дебюте АПЛ в 18 за МЮ. Серьёзная травма колена, аренды, ныне Солихалл Мурс (лоу-лиги).",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "sergio-diaz-fm2015",
+    "name": "Sergio Díaz",
+    "fm_version": "FM 2015",
+    "club_at_release": "Cerro Porteño",
+    "age_at_release": 16,
+    "rating": 3,
+    "verdict": "Парагвайский талант, Реал Кастилья. Травмы. Возврат в Парагвай на восстановление.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "richairo-zivkovic-fm2015",
+    "name": "Richairo Zivkovic",
+    "fm_version": "FM 2015",
+    "club_at_release": "Ajax",
+    "age_at_release": 18,
+    "rating": 3,
+    "verdict": "Голландский форвард из Гронингена. Прогресс застрял в Аяксе. Китайская Суперлига.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.givemesport.com/football-manager-wonderkids-ranked/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "max-meyer-fm2015",
+    "name": "Max Meyer",
+    "fm_version": "FM 2015",
+    "club_at_release": "Schalke",
+    "age_at_release": 19,
+    "rating": 4,
+    "verdict": "«Десятка» Шальке, сборная Германии. Контрактные скандалы. Кристал Пэлас-провал, сползание вниз.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "andrija-zivkovic-fm2015",
+    "name": "Andrija Živković",
+    "fm_version": "FM 2015",
+    "club_at_release": "Partizan",
+    "age_at_release": 18,
+    "rating": 4,
+    "verdict": "Сербский вингер. Быстрый и техничный, в Бенфике место не удержал. Солидно, но не как ожидалось.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "donis-avdijaj-fm2016",
+    "name": "Donis Avdijaj",
+    "fm_version": "FM 2016",
+    "club_at_release": "Schalke",
+    "age_at_release": 19,
+    "rating": 3,
+    "verdict": "Немецко-македонец с €50M release-клаузой в 17. Off-field проблемы. Спортинг Хееренвен, скитания.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "lincoln-fm2016",
+    "name": "Lincoln",
+    "fm_version": "FM 2016",
+    "club_at_release": "Grêmio",
+    "age_at_release": 18,
+    "rating": 4,
+    "verdict": "«Новый Оскар/Коутиньо». Бразильский вингер. Турция, Португалия. Роль старта не закрепил.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "bilal-ould-chikh-fm2016",
+    "name": "Bilal Ould-Chikh",
+    "fm_version": "FM 2016",
+    "club_at_release": "Benfica",
+    "age_at_release": 18,
+    "rating": 3,
+    "verdict": "«Будущий голландский международник». Отношение к делу. Твенте, Турция, Португалия — мэддл-тир.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "abdou-diakhate-fm2016",
+    "name": "Abdou Diakhate",
+    "fm_version": "FM 2016",
+    "club_at_release": "Fiorentina",
+    "age_at_release": 17,
+    "rating": 3,
+    "verdict": "Сенегальский физический монстр в Фиорентине. Развитие застряло, лоу-тир Италии, исчез с радаров.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "johannes-eggestein-fm2017",
+    "name": "Johannes Eggestein",
+    "fm_version": "FM 2017",
+    "club_at_release": "Werder Bremen",
+    "age_at_release": 18,
+    "rating": 4,
+    "verdict": "Плодовитый юношеский бомбардир Вердера. Переход во взрослый футбол не удался. Австрийский ренессанс.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "ze-gomes-fm2017",
+    "name": "Zé Gomes",
+    "fm_version": "FM 2017",
+    "club_at_release": "Benfica",
+    "age_at_release": 19,
+    "rating": 3,
+    "verdict": "Португальский полузащитник. «Все ингредиенты на месте». Первую команду не взломал, 2-й дивизион Португалии.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "ben-woodburn-fm2017",
+    "name": "Ben Woodburn",
+    "fm_version": "FM 2017",
+    "club_at_release": "Liverpool",
+    "age_at_release": 17,
+    "rating": 4,
+    "verdict": "Самый юный бомбардир Ливерпуля. Аренды: Шеффилд Юнайтед, Оксфорд, Блэкпул. Травмы, лоу-лиги.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "riechedly-bazoer-fm2017",
+    "name": "Riechedly Bazoer",
+    "fm_version": "FM 2017",
+    "club_at_release": "Ajax",
+    "age_at_release": 19,
+    "rating": 4,
+    "verdict": "«Следующий великий голландский полузащитник». Вольфсбург-провал, стычки с тренерами. Витесс-неоконченный ренессанс.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "amadou-diawara-fm2018",
+    "name": "Amadou Diawara",
+    "fm_version": "FM 2018",
+    "club_at_release": "Napoli",
+    "age_at_release": 20,
+    "rating": 4,
+    "verdict": "Гвинейский опорник. Рома, РБ Лейпциг — провал. Ныне Эльденсе (Испания, 2-я лига).",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "willem-geubbels-fm2018",
+    "name": "Willem Geubbels",
+    "fm_version": "FM 2018",
+    "club_at_release": "Monaco",
+    "age_at_release": 16,
+    "rating": 3,
+    "verdict": "«Один из самых быстрых в FM 2018». €20M в 16 от Монако. Травмы уничтожили. Швейцарский футбол.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "emre-mor-fm2018",
+    "name": "Emre Mor",
+    "fm_version": "FM 2018",
+    "club_at_release": "Borussia Dortmund",
+    "age_at_release": 18,
+    "rating": 3,
+    "verdict": "«Турецкий Роналду». Дортмунд не дал минут, Сельта, Галатасарай, Фатих Карагюмрюк. Не пробился.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "charly-musonda-jr-fm2018",
+    "name": "Charly Musonda Jr",
+    "fm_version": "FM 2018",
+    "club_at_release": "Chelsea",
+    "age_at_release": 21,
+    "rating": 3,
+    "verdict": "Бельгийский атакующий полузащитник из Ла Масии. Аренды: Бетис, Селтик. Тяжёлые травмы уничтожили карьеру.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "luca-zidane-fm2018",
+    "name": "Luca Zidane",
+    "fm_version": "FM 2018",
+    "club_at_release": "Real Madrid",
+    "age_at_release": 19,
+    "rating": 3,
+    "verdict": "Сын Зинедина, вратарь Реала. Расинг Сантандер, Райо Вальекано, Гранада. Не пробился в топ.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "fiete-arp-fm2019",
+    "name": "Fiete Arp",
+    "fm_version": "FM 2019",
+    "club_at_release": "Hamburg",
+    "age_at_release": 18,
+    "rating": 3,
+    "verdict": "«Следующий голевой идол Германии». Бавария — 0 матчей первой команды. Травмы. Хольштайн Киль.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "oliver-batista-meier-fm2019",
+    "name": "Oliver Batista Meier",
+    "fm_version": "FM 2019",
+    "club_at_release": "Bayern Munich",
+    "age_at_release": 18,
+    "rating": 3,
+    "verdict": "Немецко-бразилец в Баварии. Голландская лига-отскок, финальной продукции нет. Средний уровень.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "moise-kean-fm2019",
+    "name": "Moise Kean",
+    "fm_version": "FM 2019",
+    "club_at_release": "Juventus",
+    "age_at_release": 18,
+    "rating": 4,
+    "verdict": "Самый юный голеадор Серии А. Эвертон £27M — провал, ПСЖ-аренда средне, Фиорентина рестарт 2024.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "nicolo-zaniolo-fm2019",
+    "name": "Nicolò Zaniolo",
+    "fm_version": "FM 2019",
+    "club_at_release": "Roma",
+    "age_at_release": 19,
+    "rating": 4,
+    "verdict": "Итальянский 10-й, МКЛ. Две травмы крестов. Галатасарай, Астон Вилла-аренда, Фиорентина.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "marco-kana-fm2020",
+    "name": "Marco Kana",
+    "fm_version": "FM 2020",
+    "club_at_release": "Anderlecht",
+    "age_at_release": 17,
+    "rating": 3,
+    "verdict": "Бельгийский универсал. Физика/тактика — не хватило. Сползание в иерархии Андерлехта.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "jerome-onguene-fm2020",
+    "name": "Jérôme Onguéné",
+    "fm_version": "FM 2020",
+    "club_at_release": "RB Salzburg",
+    "age_at_release": 21,
+    "rating": 3,
+    "verdict": "Камерунский центрбек, физический монстр. Франкфурт-провал, ротация аренд, момент упущен.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "naci-unuvar-fm2020",
+    "name": "Naci Ünüvar",
+    "fm_version": "FM 2020",
+    "club_at_release": "Ajax",
+    "age_at_release": 16,
+    "rating": 3,
+    "verdict": "Турко-голландец из Аякса, «креативный гем». Турция-аренда провально. Йонг Аякс, вопросы к физике.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "emanuel-vignato-fm2020",
+    "name": "Emanuel Vignato",
+    "fm_version": "FM 2020",
+    "club_at_release": "Chievo",
+    "age_at_release": 19,
+    "rating": 4,
+    "verdict": "Итало-бразильский вингер. «Бюджетный вандеркид». Кьево, Болонья — упал из фавора, Серия B.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "fabio-silva-fm2021",
+    "name": "Fábio Silva",
+    "fm_version": "FM 2021",
+    "club_at_release": "Wolverhampton",
+    "age_at_release": 18,
+    "rating": 4,
+    "verdict": "Волки купили за €40M в 17. АПЛ оказалась слишком ранней. Андерлехт-аренда, ныне Лас-Пальмас.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "yusuf-demir-fm2021",
+    "name": "Yusuf Demir",
+    "fm_version": "FM 2021",
+    "club_at_release": "Rapid Wien",
+    "age_at_release": 18,
+    "rating": 3,
+    "verdict": "«Австрийский Месси». Барса-аренда фейл, Галатасарай-провал. Сырой талант vs элитный футбол.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "ilaix-moriba-fm2021",
+    "name": "Ilaix Moriba",
+    "fm_version": "FM 2021",
+    "club_at_release": "Barcelona",
+    "age_at_release": 18,
+    "rating": 3,
+    "verdict": "Гвинеец-испанец из Ла Масии. Контрактный скандал → РБ Лейпциг. Валенсия/Хетафе-аренды — развитие застопорилось.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "facundo-pellistri-fm2021",
+    "name": "Facundo Pellistri",
+    "fm_version": "FM 2021",
+    "club_at_release": "Peñarol",
+    "age_at_release": 18,
+    "rating": 3,
+    "verdict": "Уругвайский вингер. МЮ купил за £9M — loan-king (Алавес, Гранада). Ныне Гранада, Сегунда.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "joe-gelhardt-fm2022",
+    "name": "Joe Gelhardt",
+    "fm_version": "FM 2022",
+    "club_at_release": "Leeds United",
+    "age_at_release": 20,
+    "rating": 4,
+    "verdict": "«Новый Уэйн Руни» в Лидсе. Управленческий хаос клуба, непостоянные минуты. Аренды в Чемпионшип.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "gio-reyna-fm2022",
+    "name": "Gio Reyna",
+    "fm_version": "FM 2022",
+    "club_at_release": "Borussia Dortmund",
+    "age_at_release": 19,
+    "rating": 4,
+    "verdict": "Американский «поколенческий талант». Повторяющиеся мышечные травмы, тактические конфликты. Ноттингем Форест.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "tanguy-nianzou-fm2022",
+    "name": "Tanguy Nianzou",
+    "fm_version": "FM 2022",
+    "club_at_release": "Bayern Munich",
+    "age_at_release": 20,
+    "rating": 4,
+    "verdict": "Французский центрбек из ПСЖ. Бавария — Севилья за минутами. Травмы, нестабильность.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "charles-de-ketelaere-fm2022",
+    "name": "Charles De Ketelaere",
+    "fm_version": "FM 2022",
+    "club_at_release": "Club Brugge",
+    "age_at_release": 21,
+    "rating": 4,
+    "verdict": "Бельгийская «десятка». Милан €35M — провал (0 голов за сезон). Аталанта-аренда — ренессанс, но не тот уровень.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "armando-broja-fm2022",
+    "name": "Armando Broja",
+    "fm_version": "FM 2022",
+    "club_at_release": "Chelsea",
+    "age_at_release": 20,
+    "rating": 3,
+    "verdict": "Албанский форвард. Саутгемптон-аренда хорошо, но в Челси травма колена. Фулхэм, Эвертон-аренды — без прорыва.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "liel-abada-fm2023",
+    "name": "Liel Abada",
+    "fm_version": "FM 2023",
+    "club_at_release": "Celtic",
+    "age_at_release": 20,
+    "rating": 4,
+    "verdict": "Израильский вингер. Ранний взлёт у Постекоглу, травма бедра 2023, политические трения. Шарлотт (MLS).",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "cesare-casadei-fm2023",
+    "name": "Cesare Casadei",
+    "fm_version": "FM 2023",
+    "club_at_release": "Chelsea",
+    "age_at_release": 19,
+    "rating": 4,
+    "verdict": "Голден Болл U-20 ЧМ-2023 с Италией. Челси не интегрировал — аренды Ридинг/Лестер. Торино €15M — средний путь Италии.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "harvey-elliott-fm2023",
+    "name": "Harvey Elliott",
+    "fm_version": "FM 2023",
+    "club_at_release": "Liverpool",
+    "age_at_release": 19,
+    "rating": 4,
+    "verdict": "«АПЛ-готов» ещё в 17. В стартовый состав не попал, вопрос по позиции. Ротационный игрок, не game-changer.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "fabio-vieira-fm2023",
+    "name": "Fábio Vieira",
+    "fm_version": "FM 2023",
+    "club_at_release": "Arsenal",
+    "age_at_release": 22,
+    "rating": 4,
+    "verdict": "Артеты купили за €35M из Порту в 22. Мало минут, нет стабильности. Возврат в Порту на аренду 2024.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "albert-sambi-lokonga-fm2023",
+    "name": "Albert Sambi Lokonga",
+    "fm_version": "FM 2023",
+    "club_at_release": "Arsenal",
+    "age_at_release": 22,
+    "rating": 4,
+    "verdict": "Бельгийский опорник из Андерлехта. Аренды: Кристал Пэлас, Лутон, Севилья. Не закрепился в топе.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "evan-ferguson-fm2024",
+    "name": "Evan Ferguson",
+    "fm_version": "FM 2024",
+    "club_at_release": "Brighton",
+    "age_at_release": 19,
+    "rating": 4,
+    "verdict": "Ирландский форвард, прорыв 2022/23. Травмы + ротация тормозят. Вест Хэм-аренда 2024, прорыв отложен.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "stefan-bajcetic-fm2024",
+    "name": "Stefan Bajčetić",
+    "fm_version": "FM 2024",
+    "club_at_release": "Liverpool",
+    "age_at_release": 19,
+    "rating": 4,
+    "verdict": "Испанский опорник. Травмы остановили импульс. Зальцбург/Лас-Пальмас-аренды, Ливерпуль пересматривает.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "radu-dragusin-fm2024",
+    "name": "Radu Drăguşin",
+    "fm_version": "FM 2024",
+    "club_at_release": "Genoa",
+    "age_at_release": 22,
+    "rating": 4,
+    "verdict": "Румынский центрбек. Ювентус-юность, Генуя-взлёт. Тоттенхэм €25M (2024) — мало минут за Ромеро/Ван де Веном.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+    ],
+    "confidence": "verified"
+  },
+  {
+    "id": "lesley-ugochukwu-fm2024",
+    "name": "Lesley Ugochukwu",
+    "fm_version": "FM 2024",
+    "club_at_release": "Chelsea",
+    "age_at_release": 20,
+    "rating": 4,
+    "verdict": "Французский опорник из Ренна. Челси купили за €27M — loan-king: Саутгемптон, Бёрнли. Без закрепления.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
+  },
+  {
+    "id": "alejo-veliz-fm2024",
+    "name": "Alejo Véliz",
+    "fm_version": "FM 2024",
+    "club_at_release": "Rosario Central",
+    "age_at_release": 20,
+    "rating": 3,
+    "verdict": "Аргентинский форвард. Тоттенхэм €15M в 20 — 0 стартов в АПЛ. Севилья-аренда, возврат в Росарио.",
+    "tags": [],
+    "nationality": null,
+    "position": null,
+    "details": null,
+    "sources": [],
+    "confidence": "recall"
   }
 ]
