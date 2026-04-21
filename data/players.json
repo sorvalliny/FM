@@ -7,12 +7,18 @@
     "age_at_release": 17,
     "rating": 10,
     "verdict": "GOAT. 8 Золотых мячей, ЧМ-2022, 40+ трофеев. Сейчас в Inter Miami.",
-    "tags": [],
+    "tags": [
+      "ballon-dor",
+      "goat",
+      "goat-tier"
+    ],
     "nationality": null,
     "position": null,
-    "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "details": "Родился 24 июня 1987 года в Росарио, Аргентина. В 13 лет переехал в Барселону по договору о лечении гормонального дефицита роста — знаменитый контракт на салфетке подписан главой Барсы Гаспаром Рубинатом. Дебют за первую команду в 17 (2004).\n\nКарьера: 17 сезонов в Барсе (778 матчей, 672 гола — рекорд клуба), 10 Ла Лига, 4 ЧЛ, 7 Королевских кубков. ПСЖ 2 сезона (2021-2023), с июля 2023 — Интер Майами (MLS).\n\nТрофеи со сборной: ЧМ-2022 (капитан, чемпион), Копа Америка 2021 и 2024, Олимпиада-2008, финал ЧМ-2014.\n\nЛичные: 8 Золотых мячей (рекорд), 7 Золотых бутс (рекорд), FIFA Лучший игрок года × 6. Капитан Аргентины с 2011.\n\nFM 2005 рейтинг совпал с реальностью на 100% — самое точное предсказание в истории игры.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lionel_Messi"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "cristiano-ronaldo-fm2005",
@@ -22,12 +28,18 @@
     "age_at_release": 19,
     "rating": 10,
     "verdict": "5 Золотых мячей, 5 ЧЛ, Евро-2016, топ-бомбардир всех времён в сборных. Al-Nassr.",
-    "tags": [],
+    "tags": [
+      "ballon-dor",
+      "goat",
+      "goat-tier"
+    ],
     "nationality": null,
     "position": null,
-    "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "details": "Родился 5 февраля 1985 года на Мадейре, Португалия. Переход в Манчестер Юнайтед 2003 из Спортинга за £12.24M — рекорд тинейджера на тот момент.\n\nКарьера: МЮ (2003-2009, 3 АПЛ + ЧЛ-2008), Реал (2009-2018, 2 Ла Лига + 4 ЧЛ, 450 голов), Ювентус (2 Скудетто), МЮ возврат (2021-2022), с 2023 — Аль-Наср (Саудовская Аравия).\n\nСборная Португалии: 210+ матчей (рекорд мира), 130+ голов (рекорд мира). Евро-2016 победа, Лига наций 2019. Лидер по голам в истории сборных.\n\nЛичные: 5 Золотых мячей, 4 Золотых бутсы, FIFA Лучший игрок × 2. Первый игрок, забивший 800+ голов в карьере.\n\nFM 2005 поставил 10 — попал в топ-2 мирового футбола рядом с Месси. Один из двух величайших игроков эпохи.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cristiano_Ronaldo"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "wayne-rooney-fm2005",
@@ -37,12 +49,17 @@
     "age_at_release": 19,
     "rating": 9,
     "verdict": "5 АПЛ, ЧЛ, рекордсмен МЮ и сборной Англии (пока Кейн не обогнал). Карьера тренера.",
-    "tags": [],
+    "tags": [
+      "legend",
+      "man-utd"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wayne_Rooney"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "cesc-fabregas-fm2005",
@@ -52,12 +69,19 @@
     "age_at_release": 17,
     "rating": 8,
     "verdict": "Капитан Арсенала, чемпион мира с Испанией (2010), Евро-2008/2012. АПЛ с Челси.",
-    "tags": [],
+    "tags": [
+      "arsenal",
+      "chelsea",
+      "premier-league",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cesc_F%C3%A0bregas"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "freddy-adu-fm2005",
@@ -67,12 +91,19 @@
     "age_at_release": 15,
     "rating": 1,
     "verdict": "«Новый Пеле». 14 клубов в 8 странах, ни в одном не заиграл. Завершил в 3-й лиге Швеции. Символ флопа FM.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "iconic-flop",
+      "next-pele",
+      "next-something"
+    ],
     "nationality": null,
     "position": null,
-    "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "details": "Родился 2 июня 1989 года в Гане. В 14 лет стал самым юным профессиональным игроком в истории американского спорта — контракт с D.C. United в MLS 2004. Хайп сумасшедший: Найк контракт на $1M в 13 лет, сравнения с Пеле и Марадоной.\n\nFM 2005 поставил ему 17/20 потенциала — «новый Пеле». Реальность: 14 клубов в 8 странах за 18-летнюю карьеру. Бенфика не дала шансов, Монако аренда — провал. Кратковременная вспышка в США (2011), одна игра на Чемпионате мира U-20.\n\nПоздние годы: Польша (Ягеллония), Финляндия (КуПС), Бразилия (Бахия), Сербия (Ягодина), Лас-Вегас Лайтс (USL Championship, 2-й дивизион США). Завершил карьеру в 2021 в 32 года без титулов.\n\nСимвол всего худшего, что может случиться с вандеркидом FM. Бенчмарк «флопа» для поколения игроков в FM.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Freddy_Adu"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "sergio-ramos-fm2006",
@@ -82,12 +113,17 @@
     "age_at_release": 19,
     "rating": 10,
     "verdict": "Легенда Реала (500+ матчей, 4 ЧЛ), ЧМ-2010, Евро-2008/2012. Один из топ-защитников эпохи.",
-    "tags": [],
+    "tags": [
+      "goat-tier",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sergio_Ramos"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "sergio-aguero-fm2006",
@@ -97,12 +133,16 @@
     "age_at_release": 17,
     "rating": 10,
     "verdict": "Легенда Сити — рекордный бомбардир (260 голов), 5 АПЛ. Завершил из-за сердца в 33. ЧМ-2022 с Арг.",
-    "tags": [],
+    "tags": [
+      "goat-tier"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sergio_Ag%C3%BCero"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "philipp-lahm-fm2006",
@@ -112,12 +152,17 @@
     "age_at_release": 22,
     "rating": 10,
     "verdict": "8 Бундеслиг, ЧЛ-2013, ЧМ-2014 как капитан Германии. Идеальный карьерный арк.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "goat-tier"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Philipp_Lahm"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "carlos-tevez-fm2006",
@@ -127,12 +172,17 @@
     "age_at_release": 21,
     "rating": 9,
     "verdict": "МЮ, Сити (АПЛ), Ювентус (Серии А), Бока. Один из самых скандальных топ-форвардов 2010-х.",
-    "tags": [],
+    "tags": [
+      "legend",
+      "man-utd"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Carlos_Tevez"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "kerlon-fm2006",
@@ -142,12 +192,20 @@
     "age_at_release": 18,
     "rating": 2,
     "verdict": "«Тюлений дриблинг». 51 матч за всю карьеру, скитался по Европе и Азии. Завершил в 29. Культовый флоп.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "iconic-flop",
+      "journeyman",
+      "next-something",
+      "seal-dribble"
+    ],
     "nationality": null,
     "position": null,
-    "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "details": "Родился 27 января 1988 года в Ипатинге, Бразилия. Визитка: «тюлений дриблинг» — держит мяч на голове и проносится мимо защитников. Фанаты Крузейро назвали это «foca» (тюлень). Хайп начался в 2005, когда ему было 17: Барса, Реал, Милан боролись за подпись.\n\nКрузейро 2004-2007: 67 матчей, 12 голов, слава уличного гения. Трансфер в Интер лето 2008 за €8M — сразу аренда в Кьево. Разрыв крестообразной связки — возврат в Италию, но уровень уже не вернулся. Далее 25 клубов за 10 лет: Аякс, Фудзьета (Япония), Тьеу Гао (Сингапур), Нассери (Мальта), Иньерсо (Чехия), USGS (Сан-Марино), Москалинко (Казахстан).\n\nСборная Бразилии: 0 матчей. Единственный большой матч — ЧМ U-20 2007 (Бразилия-3 место). 51 официальный матч за всю карьеру в топ-лигах. Завершил в 29.\n\nСимвол того, как одна травма + чрезмерный хайп одного трюка = загубленная карьера. Культовый флоп, легенда YouTube до сих пор пересматривают «тюлений» дриблинг.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kerlon"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "david-silva-fm2007",
@@ -157,12 +215,17 @@
     "age_at_release": 21,
     "rating": 10,
     "verdict": "Легенда Ман Сити (4 АПЛ), ЧМ-2010, Евро-2008/2012. Один из лучших плеймейкеров эпохи.",
-    "tags": [],
+    "tags": [
+      "goat-tier",
+      "man-city"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/David_Silva"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "gerard-pique-fm2007",
@@ -172,12 +235,17 @@
     "age_at_release": 19,
     "rating": 10,
     "verdict": "Легенда Барсы (8 Ла Лига, 3 ЧЛ), ЧМ-2010, Евро-2012. Король Пике.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "goat-tier"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gerard_Piqu%C3%A9"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "giorgio-chiellini-fm2007",
@@ -187,12 +255,17 @@
     "age_at_release": 22,
     "rating": 10,
     "verdict": "Легенда Ювентуса (9 Серии А подряд), капитан Италии на победном Евро-2020.",
-    "tags": [],
+    "tags": [
+      "euro-winner",
+      "goat-tier"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Giorgio_Chiellini"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "theo-walcott-fm2007",
@@ -202,12 +275,18 @@
     "age_at_release": 17,
     "rating": 6,
     "verdict": "Арсенал 12 лет, 2 FA Cup. Травмы не дали стать топ-звездой, но крепкая карьера. Англия 47 матчей.",
-    "tags": [],
+    "tags": [
+      "arsenal",
+      "injuries",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Theo_Walcott"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "anderson-fm2007",
@@ -217,12 +296,17 @@
     "age_at_release": 18,
     "rating": 3,
     "verdict": "МЮ отдал £18M в 2007, но проблемы с весом и формой. 4 АПЛ на бумаге, фактически запасной. Закончил в Турции.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "man-utd"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Anderson"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "karim-benzema-fm2008",
@@ -232,12 +316,19 @@
     "age_at_release": 20,
     "rating": 10,
     "verdict": "Золотой мяч 2022, легенда Реала (354 гола), 5 ЧЛ, ЧМ-2022 финал. Сейчас Al-Ittihad.",
-    "tags": [],
+    "tags": [
+      "ballon-dor",
+      "goat-tier",
+      "real-madrid",
+      "world-cup-finalist"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Karim_Benzema"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "gonzalo-higuain-fm2008",
@@ -247,12 +338,17 @@
     "age_at_release": 20,
     "rating": 8,
     "verdict": "Реал, Наполи (рекорд 36 голов за сезон Серии А), Ювентус. Два финала ЧМ с Аргентиной.",
-    "tags": [],
+    "tags": [
+      "real-madrid",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gonzalo_Higua%C3%ADn"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "alexis-sanchez-fm2008",
@@ -262,12 +358,20 @@
     "age_at_release": 19,
     "rating": 8,
     "verdict": "Пик: Арсенал-2016/17. Барса, Интер, МЮ (провал). Дважды Кубок Америки с Чили.",
-    "tags": [],
+    "tags": [
+      "arsenal",
+      "barcelona",
+      "big-money-flop",
+      "man-utd",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alexis_S%C3%A1nchez"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "ezequiel-lavezzi-fm2008",
@@ -277,12 +381,17 @@
     "age_at_release": 22,
     "rating": 6,
     "verdict": "Неаполь-легенда, ПСЖ (4 Лиги 1), финалист ЧМ-2014. Потом Китай и ранний конец.",
-    "tags": [],
+    "tags": [
+      "mid-career",
+      "psg"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ezequiel_Lavezzi"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "alexandre-pato-fm2008",
@@ -292,12 +401,21 @@
     "age_at_release": 18,
     "rating": 4,
     "verdict": "«Новый Роналдо». Скудетто с Миланом в 19, но травмы. Скитания: Челси, Виллареал, Китай. Пока играет за Сан-Паулу.",
-    "tags": [],
+    "tags": [
+      "chelsea",
+      "flop",
+      "injuries",
+      "journeyman",
+      "next-something",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alexandre_Pato"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "eden-hazard-fm2009",
@@ -307,12 +425,19 @@
     "age_at_release": 18,
     "rating": 8,
     "verdict": "2 АПЛ с Челси, Лига Европы. Реал-разочарование (травмы). Легенда Бельгии. Завершил в 32.",
-    "tags": [],
+    "tags": [
+      "chelsea",
+      "injuries",
+      "real-madrid",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Eden_Hazard"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "mesut-ozil-fm2009",
@@ -322,12 +447,18 @@
     "age_at_release": 20,
     "rating": 8,
     "verdict": "Реал, Арсенал (рекорд ассистов в АПЛ за сезон), ЧМ-2014. Политика + Турция в концовке карьеры.",
-    "tags": [],
+    "tags": [
+      "arsenal",
+      "real-madrid",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mesut_%C3%96zil"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "daniel-sturridge-fm2009",
@@ -337,12 +468,18 @@
     "age_at_release": 19,
     "rating": 6,
     "verdict": "Ливерпуль 2013/14 — дуэт с Суаресом, почти АПЛ. Травмы уничтожили. Сборная Англии 26 матчей.",
-    "tags": [],
+    "tags": [
+      "injuries",
+      "liverpool",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Daniel_Sturridge"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "mario-balotelli-fm2009",
@@ -352,12 +489,16 @@
     "age_at_release": 18,
     "rating": 5,
     "verdict": "Скудетто с Интером и Сити (решающий гол в матче-драме), но привычно «вечный талант». Брешия, Ницца, Адана...",
-    "tags": [],
+    "tags": [
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mario_Balotelli"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "federico-macheda-fm2009",
@@ -367,12 +508,17 @@
     "age_at_release": 18,
     "rating": 2,
     "verdict": "Легендарный гол «Виллу» в дебюте в 17. После — ничего. Скитания, Кардифф, Панетоликос. Флоп уровня Аду.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "journeyman"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Federico_Macheda"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "neymar-fm2010",
@@ -382,12 +528,20 @@
     "age_at_release": 17,
     "rating": 9,
     "verdict": "Барса (MSN-трио, ЧЛ-2015), рекорд-трансфер ПСЖ €222M, ЧЛ-финал. Травмы подкосили. Ал-Хилаль/Сантос.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "champions-league",
+      "injuries",
+      "legend",
+      "psg"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Neymar"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "romelu-lukaku-fm2010",
@@ -397,12 +551,18 @@
     "age_at_release": 16,
     "rating": 8,
     "verdict": "Челси, Эвертон, МЮ, Интер (Скудетто-2021), Рома. Бомбардир-рекордсмен Бельгии.",
-    "tags": [],
+    "tags": [
+      "chelsea",
+      "man-utd",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Romelu_Lukaku"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "james-rodriguez-fm2010",
@@ -412,12 +572,18 @@
     "age_at_release": 18,
     "rating": 7,
     "verdict": "Голден Бут ЧМ-2014 — вершина. Реал, Бавария, но ушёл в тень. Эвертон, Катар, сейчас Леон (Мексика).",
-    "tags": [],
+    "tags": [
+      "bayern",
+      "real-madrid",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/James_Rodr%C3%ADguez"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "mario-gotze-fm2010",
@@ -427,12 +593,17 @@
     "age_at_release": 17,
     "rating": 6,
     "verdict": "Победный гол ЧМ-2014 в 22 — пик карьеры. Травмы в Баварии и ПСВ. Сейчас Айнтрахт — неплохо, но не тот масштаб.",
-    "tags": [],
+    "tags": [
+      "injuries",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mario_G%C3%B6tze"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "bojan-krkic-fm2010",
@@ -442,12 +613,19 @@
     "age_at_release": 19,
     "rating": 3,
     "verdict": "«Новый Месси» в Ла Масии. Скитания: Рома, Милан, Сток, Монреаль. Завершил в 32, ни одной большой эры.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "journeyman",
+      "next-something",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bojan_Krki%C4%87"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "toni-kroos-fm2011",
@@ -457,12 +635,17 @@
     "age_at_release": 20,
     "rating": 10,
     "verdict": "Легенда Реала (6 ЧЛ), ЧМ-2014. Один из лучших плеймейкеров эпохи. Завершил летом 2024 после Евро.",
-    "tags": [],
+    "tags": [
+      "goat-tier",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Toni_Kroos"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "thibaut-courtois-fm2011",
@@ -472,12 +655,21 @@
     "age_at_release": 18,
     "rating": 10,
     "verdict": "Атлетико (Ла Лига), Челси (2 АПЛ), Реал (3 ЧЛ). Вратарь финала ЧЛ-2022 — легендарный матч с Ливерпулем.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "chelsea",
+      "goalkeeper",
+      "goat-tier",
+      "liverpool",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thibaut_Courtois"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "david-de-gea-fm2011",
@@ -487,12 +679,18 @@
     "age_at_release": 20,
     "rating": 9,
     "verdict": "МЮ 12 лет, 4× Игрок сезона. Лучший вратарь АПЛ 2010-х. Сейчас Фиорентина, возрождается.",
-    "tags": [],
+    "tags": [
+      "goalkeeper",
+      "legend",
+      "man-utd"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/David_De_Gea"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "son-heung-min-fm2011",
@@ -502,12 +700,17 @@
     "age_at_release": 18,
     "rating": 9,
     "verdict": "Тоттенхэм — Золотая бутса АПЛ 2021/22, 120+ голов. Капитан Кореи. Сейчас LAFC.",
-    "tags": [],
+    "tags": [
+      "golden-boot",
+      "legend"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Son_Heung-min"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "isco-fm2011",
@@ -517,12 +720,17 @@
     "age_at_release": 18,
     "rating": 7,
     "verdict": "Реал (5 ЧЛ, но в тени Крооса/Модрича), Малага-пик. Сейчас Бетис — ренессанс в 32.",
-    "tags": [],
+    "tags": [
+      "real-madrid",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Isco"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "raphael-varane-fm2012",
@@ -532,12 +740,19 @@
     "age_at_release": 18,
     "rating": 10,
     "verdict": "Реал с 18 — 4 ЧЛ. ЧМ-2018 с Францией. Завершил карьеру в МЮ из-за травм в 2024.",
-    "tags": [],
+    "tags": [
+      "goat-tier",
+      "injuries",
+      "man-utd",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rapha%C3%ABl_Varane"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "marco-verratti-fm2012",
@@ -547,12 +762,18 @@
     "age_at_release": 19,
     "rating": 9,
     "verdict": "ПСЖ 11 лет (9 Лиг 1), финал ЧЛ-2020. Один из лучших плеймейкеров мира, но без ЧЛ-трофея. Катар с 2023.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "legend",
+      "psg"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marco_Verratti"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "thiago-alcantara-fm2012",
@@ -562,12 +783,20 @@
     "age_at_release": 20,
     "rating": 8,
     "verdict": "Бавария (ЧЛ-2020, 7 Бундеслиг), Ливерпуль (АПЛ-2020). Травмы последние годы. Завершил в 2024.",
-    "tags": [],
+    "tags": [
+      "bayern",
+      "champions-league",
+      "injuries",
+      "liverpool",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thiago_Alc%C3%A2ntara"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "paul-pogba-fm2012",
@@ -577,12 +806,17 @@
     "age_at_release": 18,
     "rating": 7,
     "verdict": "Ювентус (4 Серии А), МЮ рекорд-трансфер, ЧМ-2018. Дисквалификация за допинг 2024, возвращение в Монако.",
-    "tags": [],
+    "tags": [
+      "man-utd",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Paul_Pogba"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "iker-muniain-fm2012",
@@ -592,12 +826,16 @@
     "age_at_release": 18,
     "rating": 5,
     "verdict": "Один клуб всю карьеру — 560+ матчей за Атлетик. Не топ-звезда, но культовый one-club man. В 2024 ушёл в Сан-Лоренсо.",
-    "tags": [],
+    "tags": [
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Iker_Muniain"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "kevin-de-bruyne-fm2013",
@@ -607,12 +845,18 @@
     "age_at_release": 21,
     "rating": 10,
     "verdict": "Легенда Ман Сити (6 АПЛ, ЧЛ-2023), лучший плеймейкер своего поколения. Капитан Бельгии. В 2025 ушёл.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "goat-tier",
+      "man-city"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kevin_De_Bruyne"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "christian-eriksen-fm2013",
@@ -622,12 +866,17 @@
     "age_at_release": 20,
     "rating": 8,
     "verdict": "Тоттенхэм (топ-плеймейкер), Интер (Скудетто). Пережил остановку сердца на Евро-2020. МЮ, сейчас Вольфсбург.",
-    "tags": [],
+    "tags": [
+      "man-utd",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Christian_Eriksen"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "marco-reus-fm2013",
@@ -637,12 +886,17 @@
     "age_at_release": 23,
     "rating": 8,
     "verdict": "Легенда Дортмунда — 400+ матчей, «вечно почти». Травмы съели карьеру сборной (пропустил 3 крупных турнира). В 2024 — LA Galaxy.",
-    "tags": [],
+    "tags": [
+      "injuries",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marco_Reus"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "philippe-coutinho-fm2013",
@@ -652,12 +906,19 @@
     "age_at_release": 20,
     "rating": 6,
     "verdict": "Ливерпуль-пик (гениальный), затем Барса €160M — катастрофа. Баварию сватали, Астон Вилла, Васко. Флоп большого трансфера.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "big-money-flop",
+      "liverpool",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Philippe_Coutinho"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "adnan-januzaj-fm2013",
@@ -667,12 +928,18 @@
     "age_at_release": 17,
     "rating": 3,
     "verdict": "Дебют-хет-трик в МЮ, представлял Бельгию (хотя мог 6 сборных). Сандерленд, Реал Сосьедад, Севилья — везде middle-tier. Без следа.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "man-utd",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Adnan_Januzaj"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "marquinhos-fm2014",
@@ -682,12 +949,18 @@
     "age_at_release": 19,
     "rating": 9,
     "verdict": "ПСЖ с 19 — 12 сезонов, капитан, 10 Лиг 1. Финал ЧЛ-2020. Один из самых стабильных защитников мира.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "legend",
+      "psg"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marquinhos"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "raheem-sterling-fm2014",
@@ -697,12 +970,18 @@
     "age_at_release": 18,
     "rating": 8,
     "verdict": "Сити (4 АПЛ, лучший игрок молодёжи Англии), финал Евро-2020. Сейчас Арсенал (аренда), Челси — спад.",
-    "tags": [],
+    "tags": [
+      "arsenal",
+      "chelsea",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raheem_Sterling"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "alvaro-morata-fm2014",
@@ -712,12 +991,19 @@
     "age_at_release": 20,
     "rating": 7,
     "verdict": "Реал, Ювентус, Челси, Атлетико, Милан. Капитан Испании на победном Евро-2024. Вечный «почти топ».",
-    "tags": [],
+    "tags": [
+      "chelsea",
+      "euro-winner",
+      "real-madrid",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/%C3%81lvaro_Morata"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "julian-draxler-fm2014",
@@ -727,12 +1013,17 @@
     "age_at_release": 20,
     "rating": 5,
     "verdict": "Шальке, Вольфсбург, ПСЖ (8 лет, но всегда ротация). ЧМ-2014. Сейчас Ал-Ахли. Большого роста не случилось.",
-    "tags": [],
+    "tags": [
+      "mid-career",
+      "psg"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Julian_Draxler"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "hachim-mastour-fm2014",
@@ -742,12 +1033,17 @@
     "age_at_release": 15,
     "rating": 1,
     "verdict": "Вирусные видео-фристайла в 14. За Милан 0 матчей. Скитался по 2-3 лигам. Карьера не состоялась.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "journeyman"
+    ],
     "nationality": null,
     "position": null,
-    "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "details": "Родился 15 июня 1998 года в Реджо-нель-Эмилии, Италия (марокканские корни). В 7 лет присоединился к академии Милана. Сиялу в 2011, когда видео его фристайла стало вирусным: школьник обводит профессионалов, жонглирует мячом десятками раз. Прозвище «итальянский Неймар».\n\nFM 2014 поставил огромный потенциал в 15. Милан выдал номер 72 — дебют в предсезонке лета 2014, хайп на пике. Аренда Малага-2015: 4 матча, травма колена, возврат. Второй аренда ПЕК Зволле (Нидерланды) 2016 — 3 матча, еще травмы. Ренессанс Земамра (Марокко, 3-й дивизион) 2018. Карпи (Серия C). Последний клуб — Рениссанс Беркан (Марокко, 2-я лига) 2020-22.\n\nСборная: Италия U-21 несколько матчей. Выбрал Марокко в 2019 — дебют, но не закрепился. В 26 (сейчас) играет эпизодически в нижних лигах Марокко.\n\nИдеальный пример: вирусный детский талант, которого раздул хайп Сети и FM. Карьера закончилась, не начавшись.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hachim_Mastour"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "martin-degaard-fm2015",
@@ -757,12 +1053,18 @@
     "age_at_release": 15,
     "rating": 8,
     "verdict": "Реал купил в 16, долгая адаптация через аренды. Капитан Арсенала, лидер Норвегии. Наконец раскрылся.",
-    "tags": [],
+    "tags": [
+      "arsenal",
+      "real-madrid",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Martin_%C3%98degaard"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "mateo-kovacic-fm2015",
@@ -772,12 +1074,20 @@
     "age_at_release": 20,
     "rating": 8,
     "verdict": "Реал, Челси (ЧЛ-2021), Ман Сити (АПЛ). Финал ЧМ-2018 с Хорватией. Крепкий топ-игрок.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "chelsea",
+      "man-city",
+      "real-madrid",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mateo_Kova%C4%8Di%C4%87"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "samuel-umtiti-fm2015",
@@ -787,12 +1097,19 @@
     "age_at_release": 21,
     "rating": 6,
     "verdict": "Барса, герой ЧМ-2018 (гол в полуфинале). Травмы колена уничтожили. Лечче на аренде, сейчас в Лилле вне игры.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "injuries",
+      "mid-career",
+      "world-cup-finalist"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Samuel_Umtiti"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "anthony-martial-fm2015",
@@ -802,12 +1119,18 @@
     "age_at_release": 19,
     "rating": 6,
     "verdict": "МЮ 9 лет — £58M с «бонусом за Золотой мяч». 2 FA Cup, но нестабильность. Сейчас АЕК Афины.",
-    "tags": [],
+    "tags": [
+      "ballon-dor",
+      "man-utd",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Anthony_Martial"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "youri-tielemans-fm2015",
@@ -817,12 +1140,16 @@
     "age_at_release": 17,
     "rating": 7,
     "verdict": "Монако, Лестер (победный гол в финале FA Cup), Астон Вилла. Капитан Бельгии. Крепко, но не топ.",
-    "tags": [],
+    "tags": [
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Youri_Tielemans"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "leroy-sane-fm2016",
@@ -832,12 +1159,18 @@
     "age_at_release": 20,
     "rating": 8,
     "verdict": "Ман Сити (2 АПЛ), Бавария (3 Бундеслиги). Ветром то гениален, то невидим. ЧМ/Евро со сборной.",
-    "tags": [],
+    "tags": [
+      "bayern",
+      "man-city",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Leroy_San%C3%A9"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "gabriel-jesus-fm2016",
@@ -847,12 +1180,19 @@
     "age_at_release": 18,
     "rating": 8,
     "verdict": "Ман Сити (4 АПЛ), Арсенал. ЧМ-2018 и 2022 с Бразилией. Травмы последние сезоны тормозят.",
-    "tags": [],
+    "tags": [
+      "arsenal",
+      "injuries",
+      "man-city",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gabriel_Jesus"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "paulo-dybala-fm2016",
@@ -862,12 +1202,16 @@
     "age_at_release": 21,
     "rating": 8,
     "verdict": "Ювентус-легенда (5 Серий А), Рома. Финал ЧМ-2022 с Аргентиной. Гений, но не GOAT.",
-    "tags": [],
+    "tags": [
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Paulo_Dybala"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "dele-alli-fm2016",
@@ -877,12 +1221,18 @@
     "age_at_release": 19,
     "rating": 4,
     "verdict": "Тоттенхэм-пик 2016/17 — финалист ЧЛ-2019, ЧМ-2018 полуфинал. Эвертон, Бешикташ — падение. Открытое интервью о депрессии.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "flop",
+      "world-cup-finalist"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dele_Alli"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "hirving-lozano-fm2016",
@@ -892,12 +1242,16 @@
     "age_at_release": 19,
     "rating": 6,
     "verdict": "ПСВ, Наполи (Скудетто-2023). Сейчас Сан-Диего. Крепкий топ Мексики, но не большая звезда.",
-    "tags": [],
+    "tags": [
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hirving_Lozano"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "kylian-mbappe-fm2017",
@@ -907,12 +1261,19 @@
     "age_at_release": 17,
     "rating": 10,
     "verdict": "ЧМ-2018 в 19. Рекорд ПСЖ по голам, финал ЧЛ. Реал с 2024 — наследник трона. Потенциальный GOAT.",
-    "tags": [],
+    "tags": [
+      "goat-tier",
+      "psg",
+      "real-madrid",
+      "world-cup-finalist"
+    ],
     "nationality": null,
     "position": null,
-    "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "details": "Родился 20 декабря 1998 года в Бонди, Франция. Дебют за Монако в 16 (декабрь 2015) — самый юный игрок в истории клуба. Сезон 2016/17: 26 голов в 44 матчах, чемпион Лиги 1, полуфинал ЧЛ против Ювентуса.\n\nТрансфер в ПСЖ 2017 (аренда + €180M покупка 2018) — самый дорогой тинейджер в истории. 7 лет в Париже: 6 Лиги 1, финал ЧЛ-2020, 256 голов за клуб. В июне 2024 перешёл в Реал Мадрид на правах свободного агента.\n\nСборная Франции с 17 (2017): ЧМ-2018 победа (гол в финале России), финал ЧМ-2022 (хет-трик в финале против Аргентины — первый со времён Джеффа Херста 1966), 40+ голов.\n\nЛичные: Золотая бутса ЧМ-2022. Претендент на Золотой мяч 2018, 2022, 2023. Следующий GOAT после Месси/Роналду — в 25 уже среди топ-5 мирового футбола по достижениям.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "gianluigi-donnarumma-fm2017",
@@ -922,12 +1283,19 @@
     "age_at_release": 17,
     "rating": 9,
     "verdict": "Милан с 16, MVP Евро-2020. ПСЖ (3 Лиги 1). Лучший вратарь мира в моменты. С 2025 — Ман Сити.",
-    "tags": [],
+    "tags": [
+      "goalkeeper",
+      "legend",
+      "man-city",
+      "psg"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gianluigi_Donnarumma"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "ousmane-dembele-fm2017",
@@ -937,12 +1305,22 @@
     "age_at_release": 19,
     "rating": 8,
     "verdict": "Барса €140M — провал (травмы). Возрождение в ПСЖ — ЧЛ-2025 победа, Золотой мяч 2024. Возрождение года.",
-    "tags": [],
+    "tags": [
+      "ballon-dor",
+      "barcelona",
+      "big-money-flop",
+      "champions-league",
+      "injuries",
+      "psg",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "marco-asensio-fm2017",
@@ -952,12 +1330,18 @@
     "age_at_release": 20,
     "rating": 6,
     "verdict": "Реал (3 ЧЛ), ПСЖ. Разрыв крестообразной подкосил. Астон Вилла сейчас. Не тот супер-звёздный уровень.",
-    "tags": [],
+    "tags": [
+      "mid-career",
+      "psg",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marco_Asensio"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "renato-sanches-fm2017",
@@ -967,12 +1351,19 @@
     "age_at_release": 19,
     "rating": 3,
     "verdict": "MVP Евро-2016 Португалии, Бавария — провал в 19. Суонси, Лилль (Лига 1), Рома. Не реализовал и 30%.",
-    "tags": [],
+    "tags": [
+      "bayern",
+      "big-money-flop",
+      "flop",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Renato_Sanches"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "trent-alexander-arnold-fm2018",
@@ -982,12 +1373,19 @@
     "age_at_release": 19,
     "rating": 9,
     "verdict": "Ливерпуль-легенда (ЧЛ-2019, АПЛ-2020), лучший правый защитник мира 2019-2022. Реал с 2025.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "legend",
+      "liverpool",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Trent_Alexander-Arnold"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "vinicius-jr-fm2018",
@@ -997,12 +1395,17 @@
     "age_at_release": 17,
     "rating": 9,
     "verdict": "Реал 2× ЧЛ, Ла Лига. Герой ЧЛ-финала 2022. Второй в ЗМ-2024 (спорно). Главная звезда бразильцев.",
-    "tags": [],
+    "tags": [
+      "legend",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vinicius_Jr."
+    ],
+    "confidence": "recall"
   },
   {
     "id": "rodrygo-fm2018",
@@ -1012,12 +1415,17 @@
     "age_at_release": 17,
     "rating": 8,
     "verdict": "Реал (3 ЧЛ), чудо-хет-трик Сити-2022. Стабильный топ, но всегда «третий номер» позади Винисиуса/Беллингема.",
-    "tags": [],
+    "tags": [
+      "real-madrid",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rodrygo"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "kai-havertz-fm2018",
@@ -1027,12 +1435,19 @@
     "age_at_release": 18,
     "rating": 7,
     "verdict": "Челси (ЧЛ-2021 победный гол в финале), Арсенал. Критика за непонятную роль, но крепкий топ-игрок.",
-    "tags": [],
+    "tags": [
+      "arsenal",
+      "champions-league",
+      "chelsea",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kai_Havertz"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "matthijs-de-ligt-fm2018",
@@ -1042,12 +1457,19 @@
     "age_at_release": 18,
     "rating": 7,
     "verdict": "Аякс — полуфинал ЧЛ-2019, Golden Boy. Ювентус, Бавария (Бундеслига). МЮ с 2024. Хорошо, но не Месси от защиты.",
-    "tags": [],
+    "tags": [
+      "bayern",
+      "champions-league",
+      "man-utd",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Matthijs_de_Ligt"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "erling-haaland-fm2019",
@@ -1057,12 +1479,17 @@
     "age_at_release": 18,
     "rating": 10,
     "verdict": "Зальцбург-Дортмунд-Сити. Рекорд АПЛ 36 голов за сезон. 2× АПЛ, ЧЛ-2023. Бомбардир №1 в мире.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "goat-tier"
+    ],
     "nationality": null,
     "position": null,
-    "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "details": "Родился 21 июля 2000 года в Лидсе (Англия), норвежец по происхождению. Отец — Альф-Инге Холанд (бывший АПЛ-игрок). Профессиональный дебют за Брюне в 16, затем Мольде и Зальцбург (2019, 28 голов за сезон).\n\nПереход в Дортмунд январь 2020 — хет-трик в дебюте. 86 голов за 89 матчей. Трансфер в Сити 2022 за £51M из-за клаузы — и немедленный рекорд: 36 голов в АПЛ за сезон 2022/23 (побил рекорды Ширера и Коула). Титулы: 2 АПЛ + ЧЛ-2023 (первый для Сити).\n\nСборная Норвегии: 30+ матчей, 25+ голов, но без крупного турнира (Норвегия не выходит).\n\nЛичные: Золотая бутса АПЛ 2022/23 и 2023/24, игрок года PFA, лучший бомбардир всех времён по гол-на-матч в ЧЛ.\n\nFM 2019 поставил огромный потенциал — попадание 10/10. Будущий Ballon d'Or, если случится ЧЛ-трофей и здоровье.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Erling_Haaland"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "phil-foden-fm2019",
@@ -1072,12 +1499,18 @@
     "age_at_release": 18,
     "rating": 9,
     "verdict": "Ман Сити с 17 — 6 АПЛ, ЧЛ-2023. PFA Player of the Year 2023/24. Лидер Англии.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "legend",
+      "man-city"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Phil_Foden"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "jadon-sancho-fm2019",
@@ -1087,12 +1520,20 @@
     "age_at_release": 18,
     "rating": 5,
     "verdict": "Дортмунд-пик (Голден Бой-2019). МЮ £73M — провал. Аренда назад в Дортмунд (финал ЧЛ-2024), Челси.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "champions-league",
+      "chelsea",
+      "man-utd",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jadon_Sancho"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "joao-felix-fm2019",
@@ -1102,12 +1543,18 @@
     "age_at_release": 19,
     "rating": 5,
     "verdict": "Атлетико €127M (3-й по дороговизне в истории) — не сработало. Челси, Барса. Не Ronaldo-наследник. Сейчас Ал-Наср.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "chelsea",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Joao_F%C3%A9lix"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "pietro-pellegri-fm2019",
@@ -1117,12 +1564,17 @@
     "age_at_release": 17,
     "rating": 2,
     "verdict": "Трансфер из Дженоа в Монако в 16 за €25M. Травмы — за всю карьеру менее 70 матчей в Европе. Сейчас Эмполи.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "injuries"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pietro_Pellegri"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "xavi-simons-fm2020",
@@ -1132,12 +1584,17 @@
     "age_at_release": 16,
     "rating": 8,
     "verdict": "Кража Барсы-Ла Масии. ПСВ (лучший игрок Эредивизи 2022/23), Лейпциг, Тоттенхэм-2025. Восходит.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Xavi_Simons"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "takefusa-kubo-fm2020",
@@ -1147,12 +1604,18 @@
     "age_at_release": 18,
     "rating": 7,
     "verdict": "«Японский Месси». Реал так и не дал шанса. Сейчас Реал Сосьедад — топ-игрок Ла Лиги, звезда Японии.",
-    "tags": [],
+    "tags": [
+      "next-something",
+      "real-madrid",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Takefusa_Kubo"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "ansu-fati-fm2020",
@@ -1162,12 +1625,18 @@
     "age_at_release": 16,
     "rating": 4,
     "verdict": "Рекорды Барсы как самого юного бомбардира. Травмы колена уничтожили. Брайтон, сейчас Монако. Не тот взлёт.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "flop",
+      "injuries"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ansu_Fati"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "rayan-cherki-fm2020",
@@ -1177,12 +1646,17 @@
     "age_at_release": 16,
     "rating": 6,
     "verdict": "Много лет «талант в тени». Ман Сити с 2025 после яркого Лиги Чемпионов с Лионом. Шанс раскрыться.",
-    "tags": [],
+    "tags": [
+      "man-city",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rayan_Cherki"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "mason-greenwood-fm2020",
@@ -1192,12 +1666,17 @@
     "age_at_release": 18,
     "rating": 5,
     "verdict": "МЮ-топ в 19, но обвинения 2022 закрыли карьеру в Англии. Хетафе, Марсель — играет, но репутация сломана.",
-    "tags": [],
+    "tags": [
+      "man-utd",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mason_Greenwood"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "pedri-fm2021",
@@ -1207,12 +1686,19 @@
     "age_at_release": 18,
     "rating": 9,
     "verdict": "Golden Boy 2021. Мозг Барсы и Испании (Евро-2024 победа). Травмы мешают, но качество топ-3 мира в середине.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "euro-winner",
+      "injuries",
+      "legend"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pedri"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "jamal-musiala-fm2021",
@@ -1222,12 +1708,17 @@
     "age_at_release": 17,
     "rating": 10,
     "verdict": "Бавария (3 Бундеслиги), Евро-2024 звезда Германии. Один из топ-3 АМ мира в 2024/25. Потенциальный GOAT.",
-    "tags": [],
+    "tags": [
+      "bayern",
+      "goat-tier"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jamal_Musiala"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "eduardo-camavinga-fm2021",
@@ -1237,12 +1728,18 @@
     "age_at_release": 17,
     "rating": 8,
     "verdict": "Реал €34M в 18 — 3 ЧЛ. Часто играет левого защитника. ЧМ-2022 финал. Крепкий топ, но не звезда №1.",
-    "tags": [],
+    "tags": [
+      "real-madrid",
+      "top-pro",
+      "world-cup-finalist"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Eduardo_Camavinga"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "ryan-gravenberch-fm2021",
@@ -1252,12 +1749,18 @@
     "age_at_release": 19,
     "rating": 7,
     "verdict": "Бавария — лавка, но Ливерпуль (АПЛ-2025) — ренессанс как опорника. Лидер новой Нидерландов.",
-    "tags": [],
+    "tags": [
+      "bayern",
+      "liverpool",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ryan_Gravenberch"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "youssoufa-moukoko-fm2021",
@@ -1267,12 +1770,16 @@
     "age_at_release": 16,
     "rating": 4,
     "verdict": "Дебют в Бундеслиге в 16. Бомбардир юношеских турниров Германии. Но во взрослом топ-футболе пока не закрепился. Ницца.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Youssoufa_Moukoko"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "jude-bellingham-fm2022",
@@ -1282,12 +1789,18 @@
     "age_at_release": 18,
     "rating": 10,
     "verdict": "Реал €103M в 19 — Ла Лига + ЧЛ в первый сезон, 23 гола. Евро-2024 финал. Кандидат №1 на Золотой мяч.",
-    "tags": [],
+    "tags": [
+      "ballon-dor",
+      "goat-tier",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
-    "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "details": "Родился 29 июня 2003 года в Стоурбридже, Англия. Дебют за Бирмингем в 16 — клуб ретайрнул его юношеский номер 22 после одного сезона (первый в истории клуба).\n\nДортмунд 2020 за £25M в 17 — Бундеслига мин-трансфер. 3 сезона (132 матча), Кубок Германии 2021. Реал Мадрид 2023 за €103M + бонусы — рекордный сезон: 23 гола + 13 ассистов + Ла Лига-2024 + ЧЛ-2024 + бесчисленные судьбоносные голы.\n\nСборная Англии: лидер с 20, финал Евро-2024 (Испания обыграла 2:1). 40+ матчей, 10+ голов.\n\nЛичные: Лучший игрок сезона Ла Лиги 2023/24, Золотой юниор 2023, Кандидат №1 на Золотой мяч 2024.\n\nFM 2022 рейтинг 10/20 оказался заниженным — Беллингем в реальности стал топ-3 мирового футбола в 21.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jude_Bellingham"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "bukayo-saka-fm2022",
@@ -1297,12 +1810,18 @@
     "age_at_release": 20,
     "rating": 9,
     "verdict": "Лидер Арсенала (3× в команде года АПЛ), финал Евро-2020/2024. Травмы тормозят 2024/25, но топ-уровень.",
-    "tags": [],
+    "tags": [
+      "arsenal",
+      "injuries",
+      "legend"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bukayo_Saka"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "florian-wirtz-fm2022",
@@ -1312,12 +1831,17 @@
     "age_at_release": 18,
     "rating": 9,
     "verdict": "Леверкузен — чемпион Бундеслиги-2024 (первый раз!), MVP. Ливерпуль €140M с 2025. Будущий Ballon d'Or-кандидат.",
-    "tags": [],
+    "tags": [
+      "legend",
+      "liverpool"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Florian_Wirtz"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "gavi-fm2022",
@@ -1327,12 +1851,17 @@
     "age_at_release": 17,
     "rating": 7,
     "verdict": "Барса — самый юный дебютант Испании. Разрыв крестов 2023 тормозит. Талант Пеле-уровня, но судьба жёсткая.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gavi"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "nico-williams-fm2022",
@@ -1342,12 +1871,17 @@
     "age_at_release": 19,
     "rating": 9,
     "verdict": "Атлетик — Кубок Короля 2024. Евро-2024 MVP вместе с Ямалем. Остался в Атлетик летом 2025 — не ушёл в Барсу.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "legend"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nico_Williams"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "antonio-silva-fm2023",
@@ -1357,12 +1891,16 @@
     "age_at_release": 19,
     "rating": 7,
     "verdict": "Бенфика — топ-защитник Лиги Португалии. Сборная Португалии. Ожидается топ-трансфер в 2025/26.",
-    "tags": [],
+    "tags": [
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Antonio_Silva"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "alejandro-garnacho-fm2023",
@@ -1372,12 +1910,18 @@
     "age_at_release": 18,
     "rating": 7,
     "verdict": "МЮ — гол года Пушкаш-2023 (ножницы против Эвертона). Аргентина. Челси с лета 2025.",
-    "tags": [],
+    "tags": [
+      "chelsea",
+      "man-utd",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alejandro_Garnacho"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "rasmus-h-jlund-fm2023",
@@ -1387,12 +1931,17 @@
     "age_at_release": 19,
     "rating": 5,
     "verdict": "МЮ £72M — тяжелая адаптация, критика. 2024/25 получше, но не тот уровень, что ожидали. Потенциал остался.",
-    "tags": [],
+    "tags": [
+      "man-utd",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rasmus_H%C3%B8jlund"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "enzo-fernandez-fm2023",
@@ -1402,12 +1951,17 @@
     "age_at_release": 21,
     "rating": 7,
     "verdict": "MVP молодёжного ЧМ-2022 с Аргентиной. Челси рекорд-трансфер (£106M). Нестабилен, но в победном финале Кубка Америки-2024.",
-    "tags": [],
+    "tags": [
+      "chelsea",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Enzo_Fern%C3%A1ndez"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "warren-zaire-emery-fm2023",
@@ -1417,12 +1971,17 @@
     "age_at_release": 16,
     "rating": 8,
     "verdict": "Самый юный капитан ПСЖ в истории. Сборная Франции в 17. Крепкий карьерный путь, стабильно раскрывается.",
-    "tags": [],
+    "tags": [
+      "psg",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Warren_Za%C3%AFre-Emery"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "lamine-yamal-fm2024",
@@ -1432,12 +1991,18 @@
     "age_at_release": 16,
     "rating": 10,
     "verdict": "Евро-2024 победа в 16, Golden Boy-2024, Ла Лига. Кандидат на Золотой мяч в 18. Новая эра. Феномен.",
-    "tags": [],
+    "tags": [
+      "ballon-dor",
+      "euro-winner",
+      "goat-tier"
+    ],
     "nationality": null,
     "position": null,
-    "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "details": "Родился 13 июля 2007 года в Эспланяде де Льобрегат, Испания. Марокканские корни. Ла Масия с 7. Дебют за Барсу в апреле 2023 в 15 лет 290 дней — второй самый юный в истории клуба после Ансу Фати.\n\nСезон 2023/24 в 16: 50+ матчей за Барсу (7 голов, 10 ассистов), самый юный стартовый в Ла Лиге за всю историю. Ла Лига 2024/25 чемпион.\n\nСборная Испании в 16 — самый юный дебютант национальной команды (сентябрь 2023). Самый юный стартовый и забивающий на Евро (Евро-2024, победа, гол в полуфинале Франции — феноменальный удар с левой в девятку). Золотой юниор 2024.\n\nЛичные: уже в 17 — один из топ-5 атакующих игроков мира, в Барсе — наследник Месси по левому краю. Прогноз: Золотой мяч 2025-2028. FM 2024 рейтинг предельный 10.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lamine_Yamal"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "arda-guler-fm2024",
@@ -1447,12 +2012,18 @@
     "age_at_release": 18,
     "rating": 8,
     "verdict": "Реал купил у Фенербахче, травмы в 23/24. Евро-2024 — гол-ракета. 2024/25 — всё больше минут, на взлёте.",
-    "tags": [],
+    "tags": [
+      "injuries",
+      "real-madrid",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Arda_G%C3%BCler"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "endrick-fm2024",
@@ -1462,12 +2033,17 @@
     "age_at_release": 17,
     "rating": 7,
     "verdict": "Реал Мадрид с 18 (2024). Первый сезон тяжёлый — мало минут, но голы в Копа дель Рей. Долгий путь впереди.",
-    "tags": [],
+    "tags": [
+      "real-madrid",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Endrick"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "estevao-willian-fm2024",
@@ -1477,12 +2053,18 @@
     "age_at_release": 16,
     "rating": 7,
     "verdict": "«Мессиньо». Палмейрас-феномен. Челси с 2025 после 18-летия. Один из главных талантов нового поколения.",
-    "tags": [],
+    "tags": [
+      "chelsea",
+      "next-something",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Est%C3%AAv%C3%A3o_Willian"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "kobbie-mainoo-fm2024",
@@ -1492,12 +2074,17 @@
     "age_at_release": 18,
     "rating": 8,
     "verdict": "МЮ — прорыв 2023/24, Кубок Англии финал — гол. Сборная Англии, Евро-2024 финал. Мозг новой Англии.",
-    "tags": [],
+    "tags": [
+      "man-utd",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
-    "confidence": "legacy"
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kobbie_Mainoo"
+    ],
+    "confidence": "recall"
   },
   {
     "id": "cherno-samba-fm2005",
@@ -1507,13 +2094,20 @@
     "age_at_release": 17,
     "rating": 1,
     "verdict": "60+ виртуальных голов за сезон — символ эпохи CM/FM. В реальности: Финляндия, Греция, Норвегия, травма-окончание карьеры.",
-    "tags": [],
+    "tags": [
+      "cm-era",
+      "flop",
+      "iconic-flop",
+      "injuries",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
-    "details": null,
+    "details": "Родился 10 января 1985 года в Гамбии, переехал в Лондон. В Championship Manager 01/02 стал легендой — забивал по 60+ голов за сезон в мировой футбол, все геймеры покупали его в Плимут Арджайл. Реальность не догнала виртуал.\n\nПлимут не пустил его в Ливерпуль в 15 лет (скандал). Далее — Кадис (Испания), Пловдив (Болгария), Пэнэтоликос (Греция), Волеренга (Норвегия), Финнпа (Финляндия). Травма колена в Финляндии в 25 — карьера закончилась.\n\nСборная Гамбии 4 матча, 0 голов. В 2019 заявил, что Championship Manager «разрушил мою карьеру» — слишком много ожиданий от игры на реального игрока.\n\nВ 2020-х ушёл в скаутинг и менторство, живёт в Лондоне. Символ культового CM-флопа, о котором геймеры вспоминают с ностальгией каждый раз.",
     "sources": [
       "https://www.cultkits.com/blogs/news/10-football-manager-wonderkids-who-turned-out-to-be-flops-in-real-life",
-      "https://www.givemesport.com/football-manager-wonderkids-ranked/"
+      "https://www.givemesport.com/football-manager-wonderkids-ranked/",
+      "https://en.wikipedia.org/wiki/Cherno_Samba"
     ],
     "confidence": "verified"
   },
@@ -1525,12 +2119,15 @@
     "age_at_release": 16,
     "rating": 2,
     "verdict": "Легенда CM 01/02, носимая в FM по инерции. Низкопрофильная карьера в шведском футболе.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.cultkits.com/blogs/news/10-football-manager-wonderkids-who-turned-out-to-be-flops-in-real-life"
+      "https://www.cultkits.com/blogs/news/10-football-manager-wonderkids-who-turned-out-to-be-flops-in-real-life",
+      "https://en.wikipedia.org/wiki/Tonton_Zola_Moukoko"
     ],
     "confidence": "verified"
   },
@@ -1542,12 +2139,17 @@
     "age_at_release": 19,
     "rating": 3,
     "verdict": "Румынский вингер, травмы пустили карьеру под откос. Скитания: Румыния, Греция, лоу-лиги.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "injuries",
+      "journeyman"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Nicolae_Mitea"
     ],
     "confidence": "verified"
   },
@@ -1559,12 +2161,16 @@
     "age_at_release": 18,
     "rating": 3,
     "verdict": "Миниатюрный (1.57м) южноафриканец. Офф-филд скандалы, провал в датском Ольборге.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Benedict_Vilakazi"
     ],
     "confidence": "verified"
   },
@@ -1576,12 +2182,16 @@
     "age_at_release": 19,
     "rating": 4,
     "verdict": "Болгарский форвард. Фиорентина, Ювентус, Сити — везде травмы и нестабильность. Кочевал по Европе.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "injuries"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Valeri_Bojinov"
     ],
     "confidence": "verified"
   },
@@ -1593,13 +2203,16 @@
     "age_at_release": 18,
     "rating": 3,
     "verdict": "Бельгийский универсал за ~£1M. Стал правым защитником среднего уровня: Портсмут, Дженоа, Генк.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
       "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
-      "https://www.cultkits.com/blogs/news/10-football-manager-wonderkids-who-turned-out-to-be-flops-in-real-life"
+      "https://www.cultkits.com/blogs/news/10-football-manager-wonderkids-who-turned-out-to-be-flops-in-real-life",
+      "https://en.wikipedia.org/wiki/Anthony_Vanden_Borre"
     ],
     "confidence": "verified"
   },
@@ -1611,11 +2224,16 @@
     "age_at_release": 19,
     "rating": 3,
     "verdict": "Реал Мадрид в 2007 — шансов не получил. Эвертон, Владикавказ, лоу-лиги. Ранний конец.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Royston_Drenthe"
+    ],
     "confidence": "recall"
   },
   {
@@ -1626,11 +2244,16 @@
     "age_at_release": 21,
     "rating": 4,
     "verdict": "£15M трансфер в Тоттенхэм (2008) — провал. Россия, завершил карьеру рано в 29.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/David_Bentley"
+    ],
     "confidence": "recall"
   },
   {
@@ -1641,12 +2264,15 @@
     "age_at_release": 18,
     "rating": 3,
     "verdict": "Бразилец, не пробился в Европе. Бесконечные аренды и возврат в бразильские низшие дивизионы.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Leandro_Lima"
     ],
     "confidence": "verified"
   },
@@ -1658,12 +2284,15 @@
     "age_at_release": 17,
     "rating": 4,
     "verdict": "Колумбийский полузащитник. Чемпион Колумбии, но Европы и сборной не увидел.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Sherman_Cardenas"
     ],
     "confidence": "verified"
   },
@@ -1675,12 +2304,16 @@
     "age_at_release": 14,
     "rating": 3,
     "verdict": "Дебют за Коло-Коло в 14. Ранний хайп сломал карьеру — скитания по низшим лигам Чили.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "journeyman"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Mill%C3%A1n"
     ],
     "confidence": "verified"
   },
@@ -1692,11 +2325,15 @@
     "age_at_release": 19,
     "rating": 4,
     "verdict": "Датский форвард. «Почему я должен думать, что я хуже Месси?». Алкоголь, Ноттингем, Розенборг. Мемы.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nicklas_Bendtner"
+    ],
     "confidence": "recall"
   },
   {
@@ -1707,12 +2344,16 @@
     "age_at_release": 20,
     "rating": 2,
     "verdict": "Английский мидфилдер. Травмы + проблемы с ментальным здоровьем. Ранний уход из футбола.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "injuries"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Michael_Johnson"
     ],
     "confidence": "verified"
   },
@@ -1724,12 +2365,15 @@
     "age_at_release": 18,
     "rating": 3,
     "verdict": "Бразилец, не оправдал ожидания. Португалия, Южная Корея, ОАЭ.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Lulinha"
     ],
     "confidence": "verified"
   },
@@ -1741,11 +2385,16 @@
     "age_at_release": 20,
     "rating": 4,
     "verdict": "«Новый Месси» испанский вингер. Спортинг Лиссабон, Генк, завершил в низших лигах.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "next-something"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Diego_Capel"
+    ],
     "confidence": "recall"
   },
   {
@@ -1756,11 +2405,15 @@
     "age_at_release": 20,
     "rating": 4,
     "verdict": "Бразильский опорник, £3.5M у канониров. 4 сезона без роли, возврат в Сан-Паулу.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Denilson"
+    ],
     "confidence": "recall"
   },
   {
@@ -1771,12 +2424,16 @@
     "age_at_release": 19,
     "rating": 4,
     "verdict": "Итальянский вратарь, капитан U-молодёжки. Застрял в Серии B на многие годы.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "goalkeeper"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Vincenzo_Fiorillo"
     ],
     "confidence": "verified"
   },
@@ -1788,12 +2445,16 @@
     "age_at_release": 18,
     "rating": 4,
     "verdict": "Французский вингер. Ньюкасл £6M — серия аренд, так и не выстрелил в топ-лиге.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "journeyman"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Henri_Saivet"
     ],
     "confidence": "verified"
   },
@@ -1805,12 +2466,16 @@
     "age_at_release": 17,
     "rating": 4,
     "verdict": "«Шотландский Уэйн Руни». Долгий обход через лоу-лиги, только в Шеффилд Юнайтед перестроился.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "next-something"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/John_Fleck"
     ],
     "confidence": "verified"
   },
@@ -1822,11 +2487,16 @@
     "age_at_release": 19,
     "rating": 2,
     "verdict": "£9M у Вест Хэма в 2009 — одна из худших сделок АПЛ. 10 матчей, далее скитания по 3-й лиге Европы.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "journeyman"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Savio_Nsereko"
+    ],
     "confidence": "recall"
   },
   {
@@ -1837,12 +2507,16 @@
     "age_at_release": 19,
     "rating": 4,
     "verdict": "Аргентинский опорник. Скитания: Дженоа, Рэйсинг Сантандер, Верона. Никогда не доминировал.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "journeyman"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Franco_Zuculini"
     ],
     "confidence": "verified"
   },
@@ -1854,13 +2528,18 @@
     "age_at_release": 20,
     "rating": 2,
     "verdict": "£14M Барселона купила в 2009 — 0 матчей за первую команду. Серия провальных аренд (Бенфика, Фиорентина).",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "big-money-flop",
+      "flop"
+    ],
     "nationality": null,
     "position": null,
-    "details": null,
+    "details": "Родился 3 декабря 1988 года в Ибатибе, Бразилия. Ранний хайп: Коритиба 2007 (22 гола в 38 матчах в Серии B), Палмейрас 2008-2009 (29 голов в 42 матчах Серии А — лучший бомбардир).\n\nЛето 2009: Барселона купила за €14M — Гвардиола искал бэкап для Ибраимовича/Месси/Анри. 20 лет, сборная Бразилии U-20. 0 матчей за первую команду Барсы (в том числе 0 в предсезонке).\n\nАренды: Бенфика 2009/10 (1 матч, 0 голов, проблемы с весом), Фиорентина 2010/11 (5 матчей, 0 голов), Сантос 2011/12 (5 матчей, 1 гол), Крузейро 2012/13 (33 матча, 5 голов — единственная относительно удачная аренда). Контракт с Барсой истёк 2014, клуб расторг без компенсации.\n\nДальше: Коритиба 2014 (возврат, 16 матчей, 4 гола), Форталеза 2016, Атлетико Парнаенсе 2017, лоу-тир Бразилии. Завершил в 2019 в 30.\n\nБарселона официально признала подписание «одной из худших сделок в истории». Символ того, как $€14M и надежды обернулись нулём. FM 2010 поставил высоко — ошибка.",
     "sources": [
       "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
-      "https://www.cultkits.com/blogs/news/10-football-manager-wonderkids-who-turned-out-to-be-flops-in-real-life"
+      "https://www.cultkits.com/blogs/news/10-football-manager-wonderkids-who-turned-out-to-be-flops-in-real-life",
+      "https://en.wikipedia.org/wiki/Keirrison"
     ],
     "confidence": "verified"
   },
@@ -1872,12 +2551,17 @@
     "age_at_release": 21,
     "rating": 4,
     "verdict": "1.63м «новый Месси». Фатальное ДТП с другом подкосило уверенность. Малага, Кесар, скитания по Южной Америке.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "journeyman",
+      "next-something"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Diego_Buonanotte"
     ],
     "confidence": "verified"
   },
@@ -1889,12 +2573,15 @@
     "age_at_release": 15,
     "rating": 4,
     "verdict": "Дебют за Крус Асуль в 15. Проблемы со зрелостью, так и не вышел за Лигу МХ.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Mart%C3%ADn_Galv%C3%A1n"
     ],
     "confidence": "verified"
   },
@@ -1906,13 +2593,16 @@
     "age_at_release": 18,
     "rating": 3,
     "verdict": "Сэр Алекс: «самый талантливый юниор, что я видел». Отношение к делу + проблемы с законом. Уиган, Брэдфорд, МК Донс.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
       "https://www.givemesport.com/football-manager-wonderkids-ranked/",
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Ravel_Morrison"
     ],
     "confidence": "verified"
   },
@@ -1924,13 +2614,16 @@
     "age_at_release": 17,
     "rating": 3,
     "verdict": "«Будущее английского футбола». Уиган, Брэдфорд, МК Донс. Журнимэн-полузащитник.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
       "https://www.givemesport.com/football-manager-wonderkids-ranked/",
-      "https://www.cultkits.com/blogs/news/10-football-manager-wonderkids-who-turned-out-to-be-flops-in-real-life"
+      "https://www.cultkits.com/blogs/news/10-football-manager-wonderkids-who-turned-out-to-be-flops-in-real-life",
+      "https://en.wikipedia.org/wiki/Josh_McEachran"
     ],
     "confidence": "verified"
   },
@@ -1942,12 +2635,16 @@
     "age_at_release": 20,
     "rating": 2,
     "verdict": "Ферги купил за £7.4M, не видев вживую. 2 старта в АПЛ. Бешикташ, Бенфика, Райо Вальекано.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "iconic-flop"
+    ],
     "nationality": null,
     "position": null,
-    "details": null,
+    "details": "Родился 12 июля 1990 года в Амадоре, Португалия. Родители-бездомные, провёл детство в приюте. До 18 играл в любительских командах Португалии, не числился в футбольной школе.\n\nЛето 2010: Мануэль Пешейро (Сельта Виго) увидел его в команде бездомных, Эштурил купил за €200K, Висенте дель Боске (!) рекомендовал Фергюсону. МЮ купил за £7.4M 19 июля 2010 — Фергюсон позже признался: «я его ни разу не видел до подписания».\n\nКарьера в МЮ: 2 старта АПЛ, один гол в Лиге Европы. Выдан в аренду: Бешикташ, Рио Аве, Пасуш де Феррейра. Продан в Бенфику 2014 за €2.5M. Потом: Эйбар (Испания), Райо Вальекано, АЕК (Кипр), Ойпа (Пекин). Завершил карьеру в 2023 в 33 в португальской Segunda.\n\nСборная Португалии: 0 матчей. Один из самых «мистических» трансферов в истории МЮ. Сам Фергюсон назвал его «худшей ошибкой трансферной карьеры». Символ неподготовленного скаутинга.",
     "sources": [
-      "https://www.givemesport.com/football-manager-wonderkids-ranked/"
+      "https://www.givemesport.com/football-manager-wonderkids-ranked/",
+      "https://en.wikipedia.org/wiki/Beb%C3%A9"
     ],
     "confidence": "verified"
   },
@@ -1959,12 +2656,16 @@
     "age_at_release": 18,
     "rating": 4,
     "verdict": "Шотландский защитник, Ливерпуль купил в 18. Первую команду не взломал, долгая аренда-карьера в Шотландии.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "liverpool"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Danny_Wilson"
     ],
     "confidence": "verified"
   },
@@ -1976,12 +2677,16 @@
     "age_at_release": 18,
     "rating": 3,
     "verdict": "Бразильский вингер. Проблемы с work permit — 0 матчей за Арсенал за 6 лет. Аренды по Испании.",
-    "tags": [],
+    "tags": [
+      "arsenal",
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.givemesport.com/football-manager-wonderkids-ranked/"
+      "https://www.givemesport.com/football-manager-wonderkids-ranked/",
+      "https://en.wikipedia.org/wiki/Wellington_Silva"
     ],
     "confidence": "verified"
   },
@@ -1993,13 +2698,17 @@
     "age_at_release": 17,
     "rating": 3,
     "verdict": "Бразильская «десятка». Провальная аренда в Лидс. Карьера превратилась в YouTube-нарезку.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "flop-verdict"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
       "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
-      "https://www.givemesport.com/football-manager-wonderkids-ranked/"
+      "https://www.givemesport.com/football-manager-wonderkids-ranked/",
+      "https://en.wikipedia.org/wiki/Adryan"
     ],
     "confidence": "verified"
   },
@@ -2011,12 +2720,15 @@
     "age_at_release": 18,
     "rating": 4,
     "verdict": "Победитель U-17 ЧМ. Застрял в мексиканской Лиге, трансфер в Европу так и не состоялся.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Carlos_Fierro"
     ],
     "confidence": "verified"
   },
@@ -2028,12 +2740,16 @@
     "age_at_release": 19,
     "rating": 3,
     "verdict": "Переход из Фейеноорда в Интер — слишком рано. Травмы и тайминг. Серия средних голландских/немецких клубов.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "injuries"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Luc_Castaignos"
     ],
     "confidence": "verified"
   },
@@ -2045,11 +2761,16 @@
     "age_at_release": 22,
     "rating": 4,
     "verdict": "«Новый Кака» в Сантосе рядом с Неймаром. Сан-Паулу, Севилья-аренда, Амьен. Сползание из топа.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "next-something"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Paulo_Henrique_Ganso"
+    ],
     "confidence": "recall"
   },
   {
@@ -2060,11 +2781,16 @@
     "age_at_release": 18,
     "rating": 4,
     "verdict": "£8M в Сандерленд в 17. Травмы, чемпионшип, завершил в низших лигах.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "injuries"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Connor_Wickham"
+    ],
     "confidence": "recall"
   },
   {
@@ -2075,13 +2801,17 @@
     "age_at_release": 20,
     "rating": 3,
     "verdict": "Венгер привёл бесплатно как «наследника Анри». Травмы добили. Ныне ФК Урарту в Армении.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "injuries"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
       "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
-      "https://www.givemesport.com/football-manager-wonderkids-ranked/"
+      "https://www.givemesport.com/football-manager-wonderkids-ranked/",
+      "https://en.wikipedia.org/wiki/Yaya_Sanogo"
     ],
     "confidence": "verified"
   },
@@ -2093,12 +2823,17 @@
     "age_at_release": 21,
     "rating": 4,
     "verdict": "Бразилец на Олимпиаде-2012 с Бразилией. Катастрофическая травма колена — 2 года потерял, уровень не вернул.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "flop",
+      "injuries"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Romulo"
     ],
     "confidence": "verified"
   },
@@ -2110,12 +2845,17 @@
     "age_at_release": 20,
     "rating": 4,
     "verdict": "«Новый Хаби Алонсо». Не хватило стабильности. Бордо-провал, скромные роли.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "flop",
+      "next-something"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Rub%C3%A9n_Pardo"
     ],
     "confidence": "verified"
   },
@@ -2127,11 +2867,17 @@
     "age_at_release": 20,
     "rating": 3,
     "verdict": "Сменщик CR7 в Ла Фабрике. ПСЖ за €25M — провал, Сток-катастрофа, далее Лас-Пальмас. Ныне Аль-Райян.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "flop",
+      "psg"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jes%C3%A9_Rodr%C3%ADguez"
+    ],
     "confidence": "recall"
   },
   {
@@ -2142,12 +2888,15 @@
     "age_at_release": 20,
     "rating": 4,
     "verdict": "Колумбийский центрбек. «Слишком хорош в игре, слишком обычный в жизни». Базель, Брюгге — не топ-лиги.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/%C3%89der_Balanta"
     ],
     "confidence": "verified"
   },
@@ -2159,12 +2908,16 @@
     "age_at_release": 17,
     "rating": 3,
     "verdict": "«Наследник Джеррарда». Травмы сломали развитие. Рейнджерс, Флитвуд, лоу-лиги Англии.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "injuries"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Jordan_Rossiter"
     ],
     "confidence": "verified"
   },
@@ -2176,12 +2929,15 @@
     "age_at_release": 16,
     "rating": 3,
     "verdict": "Сравнивали с Джеком Уилшером. Отношение + физика. Бирмингем, Виллем II, низкие лиги.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Dan_Crowley"
     ],
     "confidence": "verified"
   },
@@ -2193,12 +2949,16 @@
     "age_at_release": 18,
     "rating": 3,
     "verdict": "Бразильский вингер, «новый Неймар» в узких кругах. Удинезе — не закрепился. Возврат в бразильские средние клубы.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "next-something"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Ewandro"
     ],
     "confidence": "verified"
   },
@@ -2210,12 +2970,17 @@
     "age_at_release": 19,
     "rating": 4,
     "verdict": "Дубль на дебюте АПЛ в 18 за МЮ. Серьёзная травма колена, аренды, ныне Солихалл Мурс (лоу-лиги).",
-    "tags": [],
+    "tags": [
+      "flop",
+      "injuries",
+      "man-utd"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/James_Wilson"
     ],
     "confidence": "verified"
   },
@@ -2227,12 +2992,17 @@
     "age_at_release": 16,
     "rating": 3,
     "verdict": "Парагвайский талант, Реал Кастилья. Травмы. Возврат в Парагвай на восстановление.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "injuries",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Sergio_D%C3%ADaz"
     ],
     "confidence": "verified"
   },
@@ -2244,12 +3014,15 @@
     "age_at_release": 18,
     "rating": 3,
     "verdict": "Голландский форвард из Гронингена. Прогресс застрял в Аяксе. Китайская Суперлига.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.givemesport.com/football-manager-wonderkids-ranked/"
+      "https://www.givemesport.com/football-manager-wonderkids-ranked/",
+      "https://en.wikipedia.org/wiki/Richairo_Zivkovic"
     ],
     "confidence": "verified"
   },
@@ -2261,12 +3034,16 @@
     "age_at_release": 19,
     "rating": 4,
     "verdict": "«Десятка» Шальке, сборная Германии. Контрактные скандалы. Кристал Пэлас-провал, сползание вниз.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Max_Meyer"
     ],
     "confidence": "verified"
   },
@@ -2278,12 +3055,15 @@
     "age_at_release": 18,
     "rating": 4,
     "verdict": "Сербский вингер. Быстрый и техничный, в Бенфике место не удержал. Солидно, но не как ожидалось.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Andrija_%C5%BDivkovi%C4%87"
     ],
     "confidence": "verified"
   },
@@ -2295,12 +3075,16 @@
     "age_at_release": 19,
     "rating": 3,
     "verdict": "Немецко-македонец с €50M release-клаузой в 17. Off-field проблемы. Спортинг Хееренвен, скитания.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "journeyman"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Donis_Avdijaj"
     ],
     "confidence": "verified"
   },
@@ -2312,12 +3096,16 @@
     "age_at_release": 18,
     "rating": 4,
     "verdict": "«Новый Оскар/Коутиньо». Бразильский вингер. Турция, Португалия. Роль старта не закрепил.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "next-something"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Lincoln"
     ],
     "confidence": "verified"
   },
@@ -2329,12 +3117,15 @@
     "age_at_release": 18,
     "rating": 3,
     "verdict": "«Будущий голландский международник». Отношение к делу. Твенте, Турция, Португалия — мэддл-тир.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Bilal_Ould-Chikh"
     ],
     "confidence": "verified"
   },
@@ -2346,12 +3137,15 @@
     "age_at_release": 17,
     "rating": 3,
     "verdict": "Сенегальский физический монстр в Фиорентине. Развитие застряло, лоу-тир Италии, исчез с радаров.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Abdou_Diakhate"
     ],
     "confidence": "verified"
   },
@@ -2363,12 +3157,15 @@
     "age_at_release": 18,
     "rating": 4,
     "verdict": "Плодовитый юношеский бомбардир Вердера. Переход во взрослый футбол не удался. Австрийский ренессанс.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Johannes_Eggestein"
     ],
     "confidence": "verified"
   },
@@ -2380,12 +3177,15 @@
     "age_at_release": 19,
     "rating": 3,
     "verdict": "Португальский полузащитник. «Все ингредиенты на месте». Первую команду не взломал, 2-й дивизион Португалии.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Z%C3%A9_Gomes"
     ],
     "confidence": "verified"
   },
@@ -2397,12 +3197,17 @@
     "age_at_release": 17,
     "rating": 4,
     "verdict": "Самый юный бомбардир Ливерпуля. Аренды: Шеффилд Юнайтед, Оксфорд, Блэкпул. Травмы, лоу-лиги.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "injuries",
+      "liverpool"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Ben_Woodburn"
     ],
     "confidence": "verified"
   },
@@ -2414,12 +3219,17 @@
     "age_at_release": 19,
     "rating": 4,
     "verdict": "«Следующий великий голландский полузащитник». Вольфсбург-провал, стычки с тренерами. Витесс-неоконченный ренессанс.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "flop",
+      "next-something"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Riechedly_Bazoer"
     ],
     "confidence": "verified"
   },
@@ -2431,12 +3241,16 @@
     "age_at_release": 20,
     "rating": 4,
     "verdict": "Гвинейский опорник. Рома, РБ Лейпциг — провал. Ныне Эльденсе (Испания, 2-я лига).",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Amadou_Diawara"
     ],
     "confidence": "verified"
   },
@@ -2448,12 +3262,16 @@
     "age_at_release": 16,
     "rating": 3,
     "verdict": "«Один из самых быстрых в FM 2018». €20M в 16 от Монако. Травмы уничтожили. Швейцарский футбол.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "injuries"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Willem_Geubbels"
     ],
     "confidence": "verified"
   },
@@ -2465,11 +3283,16 @@
     "age_at_release": 18,
     "rating": 3,
     "verdict": "«Турецкий Роналду». Дортмунд не дал минут, Сельта, Галатасарай, Фатих Карагюмрюк. Не пробился.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "next-something"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Emre_Mor"
+    ],
     "confidence": "recall"
   },
   {
@@ -2480,11 +3303,16 @@
     "age_at_release": 21,
     "rating": 3,
     "verdict": "Бельгийский атакующий полузащитник из Ла Масии. Аренды: Бетис, Селтик. Тяжёлые травмы уничтожили карьеру.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "injuries"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Charly_Musonda_Jr"
+    ],
     "confidence": "recall"
   },
   {
@@ -2495,11 +3323,17 @@
     "age_at_release": 19,
     "rating": 3,
     "verdict": "Сын Зинедина, вратарь Реала. Расинг Сантандер, Райо Вальекано, Гранада. Не пробился в топ.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "goalkeeper",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Luca_Zidane"
+    ],
     "confidence": "recall"
   },
   {
@@ -2510,12 +3344,18 @@
     "age_at_release": 18,
     "rating": 3,
     "verdict": "«Следующий голевой идол Германии». Бавария — 0 матчей первой команды. Травмы. Хольштайн Киль.",
-    "tags": [],
+    "tags": [
+      "bayern",
+      "flop",
+      "injuries",
+      "next-something"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Fiete_Arp"
     ],
     "confidence": "verified"
   },
@@ -2527,12 +3367,15 @@
     "age_at_release": 18,
     "rating": 3,
     "verdict": "Немецко-бразилец в Баварии. Голландская лига-отскок, финальной продукции нет. Средний уровень.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Oliver_Batista_Meier"
     ],
     "confidence": "verified"
   },
@@ -2544,11 +3387,17 @@
     "age_at_release": 18,
     "rating": 4,
     "verdict": "Самый юный голеадор Серии А. Эвертон £27M — провал, ПСЖ-аренда средне, Фиорентина рестарт 2024.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "flop",
+      "psg"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Moise_Kean"
+    ],
     "confidence": "recall"
   },
   {
@@ -2559,11 +3408,16 @@
     "age_at_release": 19,
     "rating": 4,
     "verdict": "Итальянский 10-й, МКЛ. Две травмы крестов. Галатасарай, Астон Вилла-аренда, Фиорентина.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "injuries"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nicol%C3%B2_Zaniolo"
+    ],
     "confidence": "recall"
   },
   {
@@ -2574,12 +3428,15 @@
     "age_at_release": 17,
     "rating": 3,
     "verdict": "Бельгийский универсал. Физика/тактика — не хватило. Сползание в иерархии Андерлехта.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Marco_Kana"
     ],
     "confidence": "verified"
   },
@@ -2591,12 +3448,16 @@
     "age_at_release": 21,
     "rating": 3,
     "verdict": "Камерунский центрбек, физический монстр. Франкфурт-провал, ротация аренд, момент упущен.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Ongu%C3%A9n%C3%A9"
     ],
     "confidence": "verified"
   },
@@ -2608,12 +3469,16 @@
     "age_at_release": 16,
     "rating": 3,
     "verdict": "Турко-голландец из Аякса, «креативный гем». Турция-аренда провально. Йонг Аякс, вопросы к физике.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Naci_%C3%9Cn%C3%BCvar"
     ],
     "confidence": "verified"
   },
@@ -2625,12 +3490,15 @@
     "age_at_release": 19,
     "rating": 4,
     "verdict": "Итало-бразильский вингер. «Бюджетный вандеркид». Кьево, Болонья — упал из фавора, Серия B.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Emanuel_Vignato"
     ],
     "confidence": "verified"
   },
@@ -2642,12 +3510,15 @@
     "age_at_release": 18,
     "rating": 4,
     "verdict": "Волки купили за €40M в 17. АПЛ оказалась слишком ранней. Андерлехт-аренда, ныне Лас-Пальмас.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/F%C3%A1bio_Silva"
     ],
     "confidence": "verified"
   },
@@ -2659,12 +3530,18 @@
     "age_at_release": 18,
     "rating": 3,
     "verdict": "«Австрийский Месси». Барса-аренда фейл, Галатасарай-провал. Сырой талант vs элитный футбол.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "big-money-flop",
+      "flop",
+      "next-something"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Yusuf_Demir"
     ],
     "confidence": "verified"
   },
@@ -2676,12 +3553,15 @@
     "age_at_release": 18,
     "rating": 3,
     "verdict": "Гвинеец-испанец из Ла Масии. Контрактный скандал → РБ Лейпциг. Валенсия/Хетафе-аренды — развитие застопорилось.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Ilaix_Moriba"
     ],
     "confidence": "verified"
   },
@@ -2693,11 +3573,17 @@
     "age_at_release": 18,
     "rating": 3,
     "verdict": "Уругвайский вингер. МЮ купил за £9M — loan-king (Алавес, Гранада). Ныне Гранада, Сегунда.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "journeyman",
+      "man-utd"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Facundo_Pellistri"
+    ],
     "confidence": "recall"
   },
   {
@@ -2708,12 +3594,16 @@
     "age_at_release": 20,
     "rating": 4,
     "verdict": "«Новый Уэйн Руни» в Лидсе. Управленческий хаос клуба, непостоянные минуты. Аренды в Чемпионшип.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "next-something"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Joe_Gelhardt"
     ],
     "confidence": "verified"
   },
@@ -2725,12 +3615,16 @@
     "age_at_release": 19,
     "rating": 4,
     "verdict": "Американский «поколенческий талант». Повторяющиеся мышечные травмы, тактические конфликты. Ноттингем Форест.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "injuries"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Gio_Reyna"
     ],
     "confidence": "verified"
   },
@@ -2742,12 +3636,18 @@
     "age_at_release": 20,
     "rating": 4,
     "verdict": "Французский центрбек из ПСЖ. Бавария — Севилья за минутами. Травмы, нестабильность.",
-    "tags": [],
+    "tags": [
+      "bayern",
+      "flop",
+      "injuries",
+      "psg"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Tanguy_Nianzou"
     ],
     "confidence": "verified"
   },
@@ -2759,11 +3659,16 @@
     "age_at_release": 21,
     "rating": 4,
     "verdict": "Бельгийская «десятка». Милан €35M — провал (0 голов за сезон). Аталанта-аренда — ренессанс, но не тот уровень.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Charles_De_Ketelaere"
+    ],
     "confidence": "recall"
   },
   {
@@ -2774,11 +3679,17 @@
     "age_at_release": 20,
     "rating": 3,
     "verdict": "Албанский форвард. Саутгемптон-аренда хорошо, но в Челси травма колена. Фулхэм, Эвертон-аренды — без прорыва.",
-    "tags": [],
+    "tags": [
+      "chelsea",
+      "flop",
+      "injuries"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Armando_Broja"
+    ],
     "confidence": "recall"
   },
   {
@@ -2789,12 +3700,16 @@
     "age_at_release": 20,
     "rating": 4,
     "verdict": "Израильский вингер. Ранний взлёт у Постекоглу, травма бедра 2023, политические трения. Шарлотт (MLS).",
-    "tags": [],
+    "tags": [
+      "flop",
+      "injuries"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Liel_Abada"
     ],
     "confidence": "verified"
   },
@@ -2806,12 +3721,16 @@
     "age_at_release": 19,
     "rating": 4,
     "verdict": "Голден Болл U-20 ЧМ-2023 с Италией. Челси не интегрировал — аренды Ридинг/Лестер. Торино €15M — средний путь Италии.",
-    "tags": [],
+    "tags": [
+      "chelsea",
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Cesare_Casadei"
     ],
     "confidence": "verified"
   },
@@ -2823,12 +3742,15 @@
     "age_at_release": 19,
     "rating": 4,
     "verdict": "«АПЛ-готов» ещё в 17. В стартовый состав не попал, вопрос по позиции. Ротационный игрок, не game-changer.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Harvey_Elliott"
     ],
     "confidence": "verified"
   },
@@ -2840,11 +3762,15 @@
     "age_at_release": 22,
     "rating": 4,
     "verdict": "Артеты купили за €35M из Порту в 22. Мало минут, нет стабильности. Возврат в Порту на аренду 2024.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/F%C3%A1bio_Vieira"
+    ],
     "confidence": "recall"
   },
   {
@@ -2855,11 +3781,15 @@
     "age_at_release": 22,
     "rating": 4,
     "verdict": "Бельгийский опорник из Андерлехта. Аренды: Кристал Пэлас, Лутон, Севилья. Не закрепился в топе.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Albert_Sambi_Lokonga"
+    ],
     "confidence": "recall"
   },
   {
@@ -2870,12 +3800,16 @@
     "age_at_release": 19,
     "rating": 4,
     "verdict": "Ирландский форвард, прорыв 2022/23. Травмы + ротация тормозят. Вест Хэм-аренда 2024, прорыв отложен.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "injuries"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Evan_Ferguson"
     ],
     "confidence": "verified"
   },
@@ -2887,12 +3821,17 @@
     "age_at_release": 19,
     "rating": 4,
     "verdict": "Испанский опорник. Травмы остановили импульс. Зальцбург/Лас-Пальмас-аренды, Ливерпуль пересматривает.",
-    "tags": [],
+    "tags": [
+      "flop",
+      "injuries",
+      "liverpool"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Stefan_Baj%C4%8Deti%C4%87"
     ],
     "confidence": "verified"
   },
@@ -2904,12 +3843,15 @@
     "age_at_release": 22,
     "rating": 4,
     "verdict": "Румынский центрбек. Ювентус-юность, Генуя-взлёт. Тоттенхэм €25M (2024) — мало минут за Ромеро/Ван де Веном.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
     "sources": [
-      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/"
+      "https://www.attackingfootball.com/forgotten-football-manager-wonderkids/",
+      "https://en.wikipedia.org/wiki/Radu_Dr%C4%83gu%C5%9Fin"
     ],
     "confidence": "verified"
   },
@@ -2921,11 +3863,17 @@
     "age_at_release": 20,
     "rating": 4,
     "verdict": "Французский опорник из Ренна. Челси купили за €27M — loan-king: Саутгемптон, Бёрнли. Без закрепления.",
-    "tags": [],
+    "tags": [
+      "chelsea",
+      "flop",
+      "journeyman"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lesley_Ugochukwu"
+    ],
     "confidence": "recall"
   },
   {
@@ -2936,11 +3884,15 @@
     "age_at_release": 20,
     "rating": 3,
     "verdict": "Аргентинский форвард. Тоттенхэм €15M в 20 — 0 стартов в АПЛ. Севилья-аренда, возврат в Росарио.",
-    "tags": [],
+    "tags": [
+      "flop"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alejo_V%C3%A9liz"
+    ],
     "confidence": "recall"
   },
   {
@@ -2951,11 +3903,19 @@
     "age_at_release": 20,
     "rating": 9,
     "verdict": "Чемпион АПЛ с Челси, Ла Лига с Реалом, 8 Бундеслиг и ЧЛ-2013 с Баварией. Финалист ЧМ-2010 с Голландией.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "chelsea",
+      "legend",
+      "premier-league",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Arjen_Robben"
+    ],
     "confidence": "recall"
   },
   {
@@ -2966,11 +3926,16 @@
     "age_at_release": 22,
     "rating": 7,
     "verdict": "3 АПЛ с Челси, 56 матчей за Англию. Флайр-плеймейкер эпохи Моуринью. Завершил в лоу-лигах.",
-    "tags": [],
+    "tags": [
+      "chelsea",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Joe_Cole"
+    ],
     "confidence": "recall"
   },
   {
@@ -2981,11 +3946,15 @@
     "age_at_release": 17,
     "rating": 6,
     "verdict": "10 лет в Тоттенхэме, 21 матч за Англию. Крепкий фланговый работяга, не звезда.",
-    "tags": [],
+    "tags": [
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aaron_Lennon"
+    ],
     "confidence": "recall"
   },
   {
@@ -2996,11 +3965,17 @@
     "age_at_release": 17,
     "rating": 6,
     "verdict": "Капитан Галатасарая и Турции, Атлетико чемпион Ла Лиги. Барса-трансфер провалился, Истанбул-финиш.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "big-money-flop",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Arda_Turan"
+    ],
     "confidence": "recall"
   },
   {
@@ -3011,11 +3986,17 @@
     "age_at_release": 22,
     "rating": 6,
     "verdict": "Легенда старого Сити (до шейхов). £21M трансфер в Челси — провал, 36 матчей за Англию, лоу-лиги финал.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "chelsea",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shaun_Wright-Phillips"
+    ],
     "confidence": "recall"
   },
   {
@@ -3026,11 +4007,17 @@
     "age_at_release": 21,
     "rating": 8,
     "verdict": "ЧЛ-2010 с Интером (требл), Золотой мяч-2010 (3-е место), финал ЧМ-2010 с Голландией.",
-    "tags": [],
+    "tags": [
+      "ballon-dor",
+      "champions-league",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wesley_Sneijder"
+    ],
     "confidence": "recall"
   },
   {
@@ -3041,11 +4028,15 @@
     "age_at_release": 20,
     "rating": 8,
     "verdict": "Бомбардир Баварии (2× чемпион Бундеслиги), 31 гол в Лиге Европы за Фиорентину, 78 матчей за Германию.",
-    "tags": [],
+    "tags": [
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mario_Gomez"
+    ],
     "confidence": "recall"
   },
   {
@@ -3056,11 +4047,16 @@
     "age_at_release": 18,
     "rating": 8,
     "verdict": "4 Скудетто с Ювентусом, Бундеслига с Баварией, Ла Лига с Барсой. Чемпион Америки-2015/2016 с Чили.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Arturo_Vidal"
+    ],
     "confidence": "recall"
   },
   {
@@ -3071,11 +4067,17 @@
     "age_at_release": 20,
     "rating": 6,
     "verdict": "Финалист ЧМ-2010 (удар в грудь Хаби Алонсо). Сити-финалист ЧЛ-2011, 81 матч за Голландию.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "mid-career",
+      "world-cup-finalist"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nigel_de_Jong"
+    ],
     "confidence": "recall"
   },
   {
@@ -3086,11 +4088,17 @@
     "age_at_release": 18,
     "rating": 6,
     "verdict": "Гений с проблемами. Яркие моменты в Ньюкасле и Ницце, но ПСЖ/Ренн-провалы. 10 раз менял клубы.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "mid-career",
+      "psg"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hatem_Ben_Arfa"
+    ],
     "confidence": "recall"
   },
   {
@@ -3101,11 +4109,17 @@
     "age_at_release": 19,
     "rating": 5,
     "verdict": "Арсенал 9 лет — 42 травмы. «Французский Виейра», закончил в 30 без большого трофея.",
-    "tags": [],
+    "tags": [
+      "arsenal",
+      "injuries",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abou_Diaby"
+    ],
     "confidence": "recall"
   },
   {
@@ -3116,11 +4130,17 @@
     "age_at_release": 21,
     "rating": 10,
     "verdict": "Золотой мяч-2018, 6 ЧЛ с Реалом, финал ЧМ-2018 и 3-е место 2022. Один из лучших плеймейкеров эпохи.",
-    "tags": [],
+    "tags": [
+      "ballon-dor",
+      "goat-tier",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
-    "details": null,
-    "sources": [],
+    "details": "Родился 9 сентября 1985 года в Задаре, Хорватия. Детство в зоне войны (Югославия), семья беженцев, дед убит сербскими войсками. Профессиональный дебют в 18 за Загребскую Динамо.\n\nТоттенхэм 2008 за £16.5M — быстро стал лидером клуба, 4 сезона (160 матчей). Реал Мадрид 2012 за €30M — 13 сезонов, рекорд по матчам для иностранца (500+), капитан с 2022. Трофеи Реала: 4 Ла Лига + 6 ЧЛ (рекорд клуба среди полузащитников) + 2 Королевских кубка.\n\nСборная Хорватии: 180+ матчей (рекорд), капитан с 2014. Финал ЧМ-2018 (Франция 4:2) — Золотой мяч турнира. Бронза ЧМ-2022. Завершил летом 2024 после Евро. Самый возрастной игрок Евро-2024.\n\nЛичные: Золотой мяч 2018 (первый с 2007 — не-Месси/Роналду, прервавший их гегемонию). Один из трех плеймейкеров эпохи (с Хави/Иньестой).\n\nFM 2007 поставил огромный потенциал — Модрич выполнил на 110%. В 39 закончил как легенда.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Luka_Modri%C4%87"
+    ],
     "confidence": "recall"
   },
   {
@@ -3131,11 +4151,16 @@
     "age_at_release": 22,
     "rating": 8,
     "verdict": "Барса 8 лет (5 Ла Лига, 2 ЧЛ), финал ЧМ-2014 с Аргентиной. Опорник, переквалифицировался в центрбека.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Javier_Mascherano"
+    ],
     "confidence": "recall"
   },
   {
@@ -3146,11 +4171,16 @@
     "age_at_release": 22,
     "rating": 7,
     "verdict": "Капитан Ливерпуля и Дании. 9 лет в АПЛ (232 матча), 75 матчей за сборную. Техничный центрбек.",
-    "tags": [],
+    "tags": [
+      "liverpool",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Daniel_Agger"
+    ],
     "confidence": "recall"
   },
   {
@@ -3161,11 +4191,17 @@
     "age_at_release": 19,
     "rating": 7,
     "verdict": "2 АПЛ с Ман Сити, 41 матч за Францию. Пик 2010-11 в Арсенале. Разорвался с национальной командой.",
-    "tags": [],
+    "tags": [
+      "arsenal",
+      "man-city",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Samir_Nasri"
+    ],
     "confidence": "recall"
   },
   {
@@ -3176,11 +4212,17 @@
     "age_at_release": 20,
     "rating": 6,
     "verdict": "«Следующий Зидан» в 2008-09. Травмы в Лионе уничтожили карьеру, 31 матч за Францию.",
-    "tags": [],
+    "tags": [
+      "injuries",
+      "mid-career",
+      "next-something"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yoann_Gourcuff"
+    ],
     "confidence": "recall"
   },
   {
@@ -3191,11 +4233,17 @@
     "age_at_release": 19,
     "rating": 5,
     "verdict": "Ливерпуль £11.5M — 52 матча в АПЛ, мало роли. Скитания: Хоффенхайм, Касымпаша, Галатасарай.",
-    "tags": [],
+    "tags": [
+      "journeyman",
+      "liverpool",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ryan_Babel"
+    ],
     "confidence": "recall"
   },
   {
@@ -3206,11 +4254,16 @@
     "age_at_release": 19,
     "rating": 10,
     "verdict": "Легенда Барсы (600+ матчей, 9 Ла Лига, 3 ЧЛ), ЧМ-2010, Евро-2008/2012. Дирижер эпохи тики-таки.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "goat-tier"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sergio_Busquets"
+    ],
     "confidence": "recall"
   },
   {
@@ -3221,11 +4274,16 @@
     "age_at_release": 19,
     "rating": 9,
     "verdict": "ЧМ-2014 с Германией (гол в 1/4 Франции), Бундеслига × 5 (Бавария + БВБ). Один из топ-ЦЗ эпохи.",
-    "tags": [],
+    "tags": [
+      "bayern",
+      "legend"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mats_Hummels"
+    ],
     "confidence": "recall"
   },
   {
@@ -3236,11 +4294,17 @@
     "age_at_release": 20,
     "rating": 8,
     "verdict": "ЧМ-2010 и Евро-2012 с Испанией, ЧЛ и Лига Европы с Челси, FA Cup с МЮ. Флайр-десятка.",
-    "tags": [],
+    "tags": [
+      "chelsea",
+      "man-utd",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Juan_Mata"
+    ],
     "confidence": "recall"
   },
   {
@@ -3251,11 +4315,15 @@
     "age_at_release": 18,
     "rating": 6,
     "verdict": "Капитан Украины (100+ матчей). Динамо-легенда. БВБ и Вест Хэм (гол в 1/4 ЧМ-2022) — эпизодические.",
-    "tags": [],
+    "tags": [
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Andriy_Yarmolenko"
+    ],
     "confidence": "recall"
   },
   {
@@ -3266,11 +4334,15 @@
     "age_at_release": 21,
     "rating": 6,
     "verdict": "Финал ЧМ-2014 с Аргентиной (за Маскерано). Лацио-капитан, Милан-ротация. Крепкий опорник.",
-    "tags": [],
+    "tags": [
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lucas_Biglia"
+    ],
     "confidence": "recall"
   },
   {
@@ -3281,11 +4353,17 @@
     "age_at_release": 17,
     "rating": 10,
     "verdict": "Ливерпуль-легенда: АПЛ-2020, ЧЛ-2019, Ballon d'Or 2-е место 2019. Капитан Голландии. Топ-ЦЗ эпохи.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "goat-tier",
+      "liverpool"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Virgil_van_Dijk"
+    ],
     "confidence": "recall"
   },
   {
@@ -3296,11 +4374,19 @@
     "age_at_release": 20,
     "rating": 9,
     "verdict": "ЧМ-2022 (гол в финале с Францией), Копа Америка-2021. 4 ЧЛ с Реалом, Париж 7 лет. МЮ-провал.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "legend",
+      "man-utd",
+      "real-madrid",
+      "world-cup-finalist"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/%C3%81ngel_Di_Mar%C3%ADa"
+    ],
     "confidence": "recall"
   },
   {
@@ -3311,11 +4397,19 @@
     "age_at_release": 24,
     "rating": 9,
     "verdict": "Капитан Бразилии (финал Копы-2021, ЧМ-2014 полуфинал). ПСЖ-легенда (7 Лиги 1), Челси ЧЛ-2021.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "chelsea",
+      "legend",
+      "psg",
+      "world-cup-finalist"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thiago_Silva"
+    ],
     "confidence": "recall"
   },
   {
@@ -3326,11 +4420,17 @@
     "age_at_release": 22,
     "rating": 8,
     "verdict": "Лучший бомбардир Лиги Европы истории (71 гол), «El Tigre». Атлетико-Монако-пик. МЮ-аренда провал.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "man-utd",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Radamel_Falcao"
+    ],
     "confidence": "recall"
   },
   {
@@ -3341,11 +4441,16 @@
     "age_at_release": 19,
     "rating": 6,
     "verdict": "2 Бундеслиги с БВБ (2011/12), МЮ АПЛ-2013 (хет-трик Норвичу). Завершил в Греции, символ Японии 00-х.",
-    "tags": [],
+    "tags": [
+      "man-utd",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shinji_Kagawa"
+    ],
     "confidence": "recall"
   },
   {
@@ -3356,11 +4461,17 @@
     "age_at_release": 20,
     "rating": 10,
     "verdict": "Рекорд Бундеслиги 41 гол за сезон. БВБ 4 года, Бавария 8 (2× ЧЛ), Барса с 2022. Лучший форвард эпохи.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "bayern",
+      "goat-tier"
+    ],
     "nationality": null,
     "position": null,
-    "details": null,
-    "sources": [],
+    "details": "Родился 21 августа 1988 года в Варшаве, Польша. Путь: лоу-тир клубы (Варсовиа, Делта, Легия II, Знич Прушков — 2-й дивизион, 24 гола в 2007/08). Лех Познань 2008 — самый юный бомбардир Экстракласы (29 голов за сезон 2009/10).\n\nБоруссия Дортмунд 2010 за €4.5M — 4 сезона, 2 Бундеслиги + Клубный ЧМ-2012, 103 гола. Свободный переход в Баварию 2014 — 9 сезонов, 8 Бундеслиг подряд, 1 ЧЛ (2020, секступл), 344 гола. Барса 2022 за €45M — 3 сезона, Ла Лига-2023.\n\nРекорды: 41 гол за сезон Бундеслиги 2020/21 — побил вечный рекорд Герда Мюллера (40, 1971/72). 5 голов за 9 минут против Вольфсбурга 2015 (рекорд Бундеслиги). Топ-бомбардир ЧЛ всех времён по голам/матч (1+ за матч).\n\nСборная Польши: 150+ матчей (рекорд), 80+ голов (рекорд). Капитан с 2014. Единственный большой турнир — ЧМ-2022 (1/8, Франция выбила).\n\nЛичные: FIFA Лучший игрок 2020 и 2021 (не Месси/Роналду впервые за 15 лет). 7 Золотых бутс Бундеслиги. В 36 (сейчас) продолжает забивать в Барсе.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Robert_Lewandowski"
+    ],
     "confidence": "recall"
   },
   {
@@ -3371,11 +4482,16 @@
     "age_at_release": 20,
     "rating": 9,
     "verdict": "5 ЧЛ с Реалом (гол-ножницы в финале 2018), 3 Копы дель Рей. Уэльс-легенда, 111 матчей, 41 гол.",
-    "tags": [],
+    "tags": [
+      "legend",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gareth_Bale"
+    ],
     "confidence": "recall"
   },
   {
@@ -3386,11 +4502,17 @@
     "age_at_release": 22,
     "rating": 8,
     "verdict": "Рекорд ПСЖ по голам (200), Наполи-пик (104 голов). МЮ-один сезон. Капитан Уругвая.",
-    "tags": [],
+    "tags": [
+      "man-utd",
+      "psg",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Edinson_Cavani"
+    ],
     "confidence": "recall"
   },
   {
@@ -3401,11 +4523,15 @@
     "age_at_release": 19,
     "rating": 6,
     "verdict": "Капитан Исландии на сенсационном Евро-2016 (1/4). Эвертон £45M (рекорд Исландии), Свонси-пик.",
-    "tags": [],
+    "tags": [
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gylfi_Sigur%C3%B0sson"
+    ],
     "confidence": "recall"
   },
   {
@@ -3416,11 +4542,16 @@
     "age_at_release": 21,
     "rating": 6,
     "verdict": "АПЛ-2020 с Ливерпулем (роль запасного), 34 матча за Англию. Творческий полузащитник.",
-    "tags": [],
+    "tags": [
+      "liverpool",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Adam_Lallana"
+    ],
     "confidence": "recall"
   },
   {
@@ -3431,11 +4562,18 @@
     "age_at_release": 19,
     "rating": 8,
     "verdict": "Капитан Ман Сити (ECL-2023), капитан Германии, капитан Барсы с 2024. 5 АПЛ, ЧЛ, КС × 2.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "champions-league",
+      "man-city",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ilkay_G%C3%BCndo%C4%9Fan"
+    ],
     "confidence": "recall"
   },
   {
@@ -3446,11 +4584,17 @@
     "age_at_release": 20,
     "rating": 8,
     "verdict": "Капитан Ливерпуля (АПЛ-2020, ЧЛ-2019), капитан Англии (Евро-2020 финал). Ныне в Аякс.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "liverpool",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jordan_Henderson"
+    ],
     "confidence": "recall"
   },
   {
@@ -3461,11 +4605,16 @@
     "age_at_release": 17,
     "rating": 6,
     "verdict": "Капитан Интера, Лига А-бомбардир 2014/15 и 2017/18 (29 голов). ПСЖ-ротация, Галатасарай.",
-    "tags": [],
+    "tags": [
+      "mid-career",
+      "psg"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mauro_Icardi"
+    ],
     "confidence": "recall"
   },
   {
@@ -3476,11 +4625,17 @@
     "age_at_release": 19,
     "rating": 6,
     "verdict": "ЧМ-2014 победа с Германией (ассист на Гётце в финале). Челси АПЛ-2015, Вольфсбург. Завершил в 29.",
-    "tags": [],
+    "tags": [
+      "chelsea",
+      "mid-career",
+      "world-cup-winner"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Andr%C3%A9_Sch%C3%BCrrle"
+    ],
     "confidence": "recall"
   },
   {
@@ -3491,11 +4646,17 @@
     "age_at_release": 22,
     "rating": 6,
     "verdict": "4 ЧЛ с Реалом (ротация), финал Евро-2012 с Португалией. Монако-аренда провал, Бенфика-возврат.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "mid-career",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/F%C3%A1bio_Coentr%C3%A3o"
+    ],
     "confidence": "recall"
   },
   {
@@ -3506,11 +4667,18 @@
     "age_at_release": 21,
     "rating": 10,
     "verdict": "ЧМ-2018 победа с Францией, финал Евро-2016 MVP. Атлетико-легенда (Ла Лига 2021). Золотой мяч 3-е место 2016.",
-    "tags": [],
+    "tags": [
+      "ballon-dor",
+      "euro-winner",
+      "goat-tier",
+      "world-cup-winner"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Antoine_Griezmann"
+    ],
     "confidence": "recall"
   },
   {
@@ -3521,11 +4689,16 @@
     "age_at_release": 22,
     "rating": 8,
     "verdict": "2 АПЛ с Челси (кумир фанатов), Ла Лига с Атлетико × 2. 24 гола за Испанию. Бразилец, выбравший Ла Роху.",
-    "tags": [],
+    "tags": [
+      "chelsea",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Diego_Costa"
+    ],
     "confidence": "recall"
   },
   {
@@ -3536,11 +4709,15 @@
     "age_at_release": 19,
     "rating": 6,
     "verdict": "Милан-пик 2012/13 (16 голов), ЧМ-2014 с Италией. Монако-флоп, Рома-возврат. Шанхай сейчас.",
-    "tags": [],
+    "tags": [
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stephan_El_Shaarawy"
+    ],
     "confidence": "recall"
   },
   {
@@ -3551,11 +4728,15 @@
     "age_at_release": 22,
     "rating": 6,
     "verdict": "Тоттенхэм 4 года (АПЛ регулярная), Вест Бром АПЛ, Монако. Гол-спаситель ЧМ-2018 за Бельгию в матче с Японией.",
-    "tags": [],
+    "tags": [
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nacer_Chadli"
+    ],
     "confidence": "recall"
   },
   {
@@ -3566,11 +4747,18 @@
     "age_at_release": 21,
     "rating": 10,
     "verdict": "2 АПЛ (Лестер-чудо 2016 и Челси-2017), ЧМ-2018 победа с Францией, ЧЛ-2021 MVP. «Легенда скромности».",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "chelsea",
+      "goat-tier",
+      "world-cup-winner"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/N%27Golo_Kant%C3%A9"
+    ],
     "confidence": "recall"
   },
   {
@@ -3581,11 +4769,17 @@
     "age_at_release": 18,
     "rating": 9,
     "verdict": "4 АПЛ с Ман Сити, ЧЛ-2023, КС. Полуфинал ЧМ-2018 с Португалией. Один из топ-плеймейкеров эпохи.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "legend",
+      "man-city"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bernardo_Silva"
+    ],
     "confidence": "recall"
   },
   {
@@ -3596,11 +4790,17 @@
     "age_at_release": 18,
     "rating": 7,
     "verdict": "МЮ-провал, Лион-возрождение (77 голов), Атлетико, Коринтианс. Капитан Голландии, 94 матча, 49 голов.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "man-utd",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Memphis_Depay"
+    ],
     "confidence": "recall"
   },
   {
@@ -3611,11 +4811,16 @@
     "age_at_release": 19,
     "rating": 6,
     "verdict": "МЮ-4 матча, возврат в Пэлас — 12 лет, 500+ матчей. Капитан Кот-д'Ивуара. Галатасарай с 2023.",
-    "tags": [],
+    "tags": [
+      "man-utd",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wilfried_Zaha"
+    ],
     "confidence": "recall"
   },
   {
@@ -3626,11 +4831,16 @@
     "age_at_release": 19,
     "rating": 5,
     "verdict": "Интер рекорд-трансфер €40M в 22 — провал. Валенсия, Атлетико, Эль-Иттихад. Сборная ЦАР.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Geoffrey_Kondogbia"
+    ],
     "confidence": "recall"
   },
   {
@@ -3641,11 +4851,17 @@
     "age_at_release": 22,
     "rating": 9,
     "verdict": "Ливерпуль-легенда (8 лет): АПЛ-2020, ЧЛ-2019, Клубный ЧМ-2019. Бразилец-ложная-девятка, 109 голов за клуб.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "legend",
+      "liverpool"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Roberto_Firmino"
+    ],
     "confidence": "recall"
   },
   {
@@ -3656,11 +4872,18 @@
     "age_at_release": 19,
     "rating": 9,
     "verdict": "Ман Сити (2 АПЛ + ЧЛ), Ювентус Скудетто, Барса-аренда, Бавария. Один из топ-крайних защитников эпохи.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "bayern",
+      "legend",
+      "man-city"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jo%C3%A3o_Cancelo"
+    ],
     "confidence": "recall"
   },
   {
@@ -3671,11 +4894,17 @@
     "age_at_release": 23,
     "rating": 8,
     "verdict": "Рекорд Лацио (207 голов), 4× капокannoniere Серии А. Евро-2020 победа с Италией. Боруссия-провал давно забыт.",
-    "tags": [],
+    "tags": [
+      "euro-winner",
+      "flop-verdict",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ciro_Immobile"
+    ],
     "confidence": "recall"
   },
   {
@@ -3686,11 +4915,16 @@
     "age_at_release": 19,
     "rating": 5,
     "verdict": "Ювентус 5 лет (ротация), Евро-2020 победа с Италией. Торонто (MLS), возврат в Болонью 2024.",
-    "tags": [],
+    "tags": [
+      "euro-winner",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Federico_Bernardeschi"
+    ],
     "confidence": "recall"
   },
   {
@@ -3701,11 +4935,17 @@
     "age_at_release": 23,
     "rating": 6,
     "verdict": "Рома 5 лет, гол-валидор против Барсы в ЧЛ 2018 (ремонтада 3:0). Наполи Скудетто-2023, Шарджа.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "champions-league",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kostas_Manolas"
+    ],
     "confidence": "recall"
   },
   {
@@ -3716,11 +4956,17 @@
     "age_at_release": 21,
     "rating": 10,
     "verdict": "Рекордный бомбардир Англии (66 голов). 3 Золотых бутсы АПЛ. Бавария с 2023 (Бундеслига 2024/25).",
-    "tags": [],
+    "tags": [
+      "bayern",
+      "goat-tier",
+      "golden-boot"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Harry_Kane"
+    ],
     "confidence": "recall"
   },
   {
@@ -3731,11 +4977,18 @@
     "age_at_release": 22,
     "rating": 10,
     "verdict": "Ливерпуль-легенда (200+ голов), АПЛ-2020, ЧЛ-2019. 3 Золотых бутсы АПЛ. Король Египта. АФКОН-финал × 2.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "goat-tier",
+      "golden-boot",
+      "liverpool"
+    ],
     "nationality": null,
     "position": null,
-    "details": null,
-    "sources": [],
+    "details": "Родился 15 июня 1992 года в Нагриге, Египет. Ранняя карьера: Эль-Моктарос → Арабские контракторы → Базель 2012 (Швейцария, 2 чемпионата). Хайп в Европе после яркой ЛЕ против Челси.\n\nЧелси январь 2014 за £11M — провал, 19 матчей, 2 гола, отдан в аренду в Фиорентину и Рому. Рома купил за €15M 2016 — 2 сезона, 34 гола. Ливерпуль 2017 за £36.9M — и тут началась легенда.\n\nЛиверпуль с 2017: 200+ голов (рекорд клуба в АПЛ, топ-3 всех времён). АПЛ-2020 (первый титул Ливерпуля за 30 лет), ЧЛ-2019, Клубный ЧМ-2019, 2 Кубка Англии. 3 Золотых бутсы АПЛ (2017/18, 2018/19, 2021/22). Контракт до 2027.\n\nСборная Египта: 100+ матчей, 50+ голов (рекорд). 2 финала АФКОН (2017 и 2021 — проигранные). Лидер нации, национальный герой, мечеть названа в его честь в родной деревне.\n\nЛичные: FIFA Pusкас 2018 (гол в ворота Эвертона), Лучший бомбардир АПЛ × 3, африканский Игрок года × 2, в топ-10 Золотого мяча ежегодно.\n\nКороль Египта — в буквальном смысле самый влиятельный египтянин 21 века по опросам. FM 2015 рейтинг оказался точным десяточкой.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mohamed_Salah"
+    ],
     "confidence": "recall"
   },
   {
@@ -3746,11 +4999,18 @@
     "age_at_release": 18,
     "rating": 9,
     "verdict": "Гол в финале ЧЛ-2020 за Баварию. 9 Бундеслиг подряд (ПСЖ-Юве-Бавария). Евро-2024 с Францией.",
-    "tags": [],
+    "tags": [
+      "bayern",
+      "champions-league",
+      "legend",
+      "psg"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kingsley_Coman"
+    ],
     "confidence": "recall"
   },
   {
@@ -3761,11 +5021,17 @@
     "age_at_release": 19,
     "rating": 6,
     "verdict": "Лейпциг-бомбардир (95 голов), Челси-провал, Тоттенхэм-аренда. 57 матчей за Германию, 24 гола.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "chelsea",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Timo_Werner"
+    ],
     "confidence": "recall"
   },
   {
@@ -3776,11 +5042,16 @@
     "age_at_release": 24,
     "rating": 9,
     "verdict": "АПЛ-2016 с Лестером (чудо-титул, игрок сезона), 4 АПЛ + ЧЛ-2023 с Сити. Капитан Алжира, АФКОН-2019.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "legend"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Riyad_Mahrez"
+    ],
     "confidence": "recall"
   },
   {
@@ -3791,11 +5062,15 @@
     "age_at_release": 20,
     "rating": 8,
     "verdict": "Лацио 8 лет (340+ матчей, финал КС 2016-17), 60+ матчей за Сербию (ЧМ-2018/2022). Аль-Хиляль с 2023.",
-    "tags": [],
+    "tags": [
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sergej_Milinkovi%C4%87-Savi%C4%87"
+    ],
     "confidence": "recall"
   },
   {
@@ -3806,11 +5081,16 @@
     "age_at_release": 20,
     "rating": 8,
     "verdict": "£100M рекорд-трансфер Сити из Виллы (2021). 3 АПЛ + ЧЛ-2023. Финал Евро-2020 с Англией.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jack_Grealish"
+    ],
     "confidence": "recall"
   },
   {
@@ -3821,11 +5101,17 @@
     "age_at_release": 22,
     "rating": 6,
     "verdict": "Барса £35M — провал. Эвертон 6 лет (серьёзный перелом лодыжки 2019), Лилль-аренда. Евро-2016 Португалия.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "big-money-flop",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Andre_Gomes"
+    ],
     "confidence": "recall"
   },
   {
@@ -3836,11 +5122,16 @@
     "age_at_release": 24,
     "rating": 6,
     "verdict": "Реал 9 лет (5 ЧЛ, 3 Ла Лига) в роли универсала-ротации. Испания-27 матчей, ЧМ-2018.",
-    "tags": [],
+    "tags": [
+      "mid-career",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lucas_V%C3%A1zquez"
+    ],
     "confidence": "recall"
   },
   {
@@ -3851,11 +5142,19 @@
     "age_at_release": 20,
     "rating": 10,
     "verdict": "Золотой мяч-2024. Ман Сити: 4 АПЛ + ЧЛ-2023. Евро-2024 победа с Испанией (MVP).",
-    "tags": [],
+    "tags": [
+      "ballon-dor",
+      "champions-league",
+      "euro-winner",
+      "goat-tier",
+      "man-city"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rodri"
+    ],
     "confidence": "recall"
   },
   {
@@ -3866,11 +5165,16 @@
     "age_at_release": 19,
     "rating": 8,
     "verdict": "МЮ-легенда по дебюту (гол-хет-трик 18-летнего), FA Cup × 2, КС × 2. 17 голов за Англию.",
-    "tags": [],
+    "tags": [
+      "man-utd",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marcus_Rashford"
+    ],
     "confidence": "recall"
   },
   {
@@ -3881,11 +5185,15 @@
     "age_at_release": 18,
     "rating": 7,
     "verdict": "Бундеслига × 3 с Баварией, полуфинал ЧМ-2022 с Францией. Крепкий ЦЗ топ-уровня без особого хайпа.",
-    "tags": [],
+    "tags": [
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dayot_Upamecano"
+    ],
     "confidence": "recall"
   },
   {
@@ -3896,11 +5204,15 @@
     "age_at_release": 20,
     "rating": 6,
     "verdict": "Шальке, Боруссия М., Монако, Ренн. 68 матчей за Швейцарию, АФКОН-2021 с Камеруном (3-е место).",
-    "tags": [],
+    "tags": [
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Breel_Embolo"
+    ],
     "confidence": "recall"
   },
   {
@@ -3911,11 +5223,16 @@
     "age_at_release": 21,
     "rating": 5,
     "verdict": "Боруссия Д., ПСЖ 3 года (ротация), Лейпциг-аренда, Аль-Ахли. 28 матчей за Сенегал, АФКОН-2021 победа.",
-    "tags": [],
+    "tags": [
+      "mid-career",
+      "psg"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Abdou_Diallo"
+    ],
     "confidence": "recall"
   },
   {
@@ -3926,11 +5243,17 @@
     "age_at_release": 20,
     "rating": 9,
     "verdict": "Евро-2020 победа с Италией (5 голов), ЧЛ-финал 2024 с Ювентусом. Ливерпуль с 2024.",
-    "tags": [],
+    "tags": [
+      "euro-winner",
+      "legend",
+      "liverpool"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Federico_Chiesa"
+    ],
     "confidence": "recall"
   },
   {
@@ -3941,11 +5264,16 @@
     "age_at_release": 20,
     "rating": 6,
     "verdict": "Эвертон 8 лет (60+ голов АПЛ), 11 матчей за Англию. Травмы тормозят последние 3 года.",
-    "tags": [],
+    "tags": [
+      "injuries",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dominic_Calvert-Lewin"
+    ],
     "confidence": "recall"
   },
   {
@@ -3956,11 +5284,16 @@
     "age_at_release": 20,
     "rating": 5,
     "verdict": "Лион-звезда, Тоттенхэм рекорд-трансфер £60M — провал. Неаполь-аренда, Галатасарай, Ницца.",
-    "tags": [],
+    "tags": [
+      "big-money-flop",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tanguy_Ndomb%C3%A9l%C3%A9"
+    ],
     "confidence": "recall"
   },
   {
@@ -3971,11 +5304,16 @@
     "age_at_release": 20,
     "rating": 5,
     "verdict": "Реал-воспитанник, аренды: Вольфсбург, Ливанте, Рома (13 голов за сезон). Хетафе с 2022, Порту.",
-    "tags": [],
+    "tags": [
+      "mid-career",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Borja_Mayoral"
+    ],
     "confidence": "recall"
   },
   {
@@ -3986,11 +5324,16 @@
     "age_at_release": 21,
     "rating": 9,
     "verdict": "Аякс ЧЛ-полуфинал 2019 (MVP эпохи). Барса с 2019 (Ла Лига-2023). Финал ЧМ-2018, 60+ матчей за Голландию.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "legend"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Frenkie_de_Jong"
+    ],
     "confidence": "recall"
   },
   {
@@ -4001,11 +5344,16 @@
     "age_at_release": 19,
     "rating": 9,
     "verdict": "Капитан Вест Хэма, Лига конференций-2023. Арсенал £105M с 2023. Англия-финалы Евро-2020/2024.",
-    "tags": [],
+    "tags": [
+      "arsenal",
+      "legend"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Declan_Rice"
+    ],
     "confidence": "recall"
   },
   {
@@ -4016,11 +5364,17 @@
     "age_at_release": 18,
     "rating": 9,
     "verdict": "Бавария-легенда (ЧЛ-2020, 5 Бундеслиг), перепрофилировался из вингера в левого защитника. Лицо Канады.",
-    "tags": [],
+    "tags": [
+      "bayern",
+      "champions-league",
+      "legend"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alphonso_Davies"
+    ],
     "confidence": "recall"
   },
   {
@@ -4031,11 +5385,17 @@
     "age_at_release": 20,
     "rating": 8,
     "verdict": "РБ Лейпциг-бомбардир (70 голов), Бундеслига Игрок сезона 2022/23. Челси с 2023 (травмы).",
-    "tags": [],
+    "tags": [
+      "chelsea",
+      "injuries",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Christopher_Nkunku"
+    ],
     "confidence": "recall"
   },
   {
@@ -4046,11 +5406,16 @@
     "age_at_release": 19,
     "rating": 6,
     "verdict": "Лига Европы-2021 с Вильярреалом (гол в финале). Милан с 2023, Нигерия АФКОН-2023 финал.",
-    "tags": [],
+    "tags": [
+      "mid-career",
+      "real-madrid"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Samuel_Chukwueze"
+    ],
     "confidence": "recall"
   },
   {
@@ -4061,11 +5426,17 @@
     "age_at_release": 21,
     "rating": 9,
     "verdict": "Реал-легенда (3 ЧЛ, 3 Ла Лига), Золотой юниор Южной Америки-2018. Капитан Уругвая, ЧМ-2022 четвертьфинал.",
-    "tags": [],
+    "tags": [
+      "legend",
+      "real-madrid",
+      "world-cup-finalist"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Federico_Valverde"
+    ],
     "confidence": "recall"
   },
   {
@@ -4076,11 +5447,16 @@
     "age_at_release": 21,
     "rating": 9,
     "verdict": "Серия А Скудетто-2023 с Наполи (26 голов, MVP), АФКОН-2019 Золотой мяч. Галатасарай с 2024.",
-    "tags": [],
+    "tags": [
+      "ballon-dor",
+      "legend"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Victor_Osimhen"
+    ],
     "confidence": "recall"
   },
   {
@@ -4091,11 +5467,16 @@
     "age_at_release": 20,
     "rating": 8,
     "verdict": "Реал Сосьедад-бомбардир, Ньюкасл с 2022 (50+ голов АПЛ). Швеция — рекордный юный дебютант.",
-    "tags": [],
+    "tags": [
+      "real-madrid",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alexander_Isak"
+    ],
     "confidence": "recall"
   },
   {
@@ -4106,11 +5487,17 @@
     "age_at_release": 22,
     "rating": 8,
     "verdict": "Интер Скудетто-2021, финал ЧЛ-2023. Евро-2020 победа с Италией. Один из топ-8-ов в мире.",
-    "tags": [],
+    "tags": [
+      "champions-league",
+      "euro-winner",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nicol%C3%B2_Barella"
+    ],
     "confidence": "recall"
   },
   {
@@ -4121,11 +5508,15 @@
     "age_at_release": 20,
     "rating": 8,
     "verdict": "Милан Скудетто-2022 (MVP Серии А), 7 лет в клубе. Португалия — ЧМ-2022 1/4, Евро-2024.",
-    "tags": [],
+    "tags": [
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rafael_Le%C3%A3o"
+    ],
     "confidence": "recall"
   },
   {
@@ -4136,11 +5527,16 @@
     "age_at_release": 19,
     "rating": 9,
     "verdict": "ЧМ-2022 бронза с Хорватией, Ман Сити АПЛ-2024 рекорд-ЦЗ € 90M. Один из топ-3 молодых защитников.",
-    "tags": [],
+    "tags": [
+      "legend",
+      "man-city"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jo%C5%A1ko_Gvardiol"
+    ],
     "confidence": "recall"
   },
   {
@@ -4151,11 +5547,16 @@
     "age_at_release": 21,
     "rating": 8,
     "verdict": "Реал Мадрид с 2022 (2 ЧЛ, Ла Лига), финал ЧМ-2022 с Францией. Опорник-замена Касемиро.",
-    "tags": [],
+    "tags": [
+      "real-madrid",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aur%C3%A9lien_Tchouam%C3%A9ni"
+    ],
     "confidence": "recall"
   },
   {
@@ -4166,11 +5567,16 @@
     "age_at_release": 20,
     "rating": 6,
     "verdict": "Барса 2 года, Милан-аренда, ПСВ с 2023 (Эредивизие). Лицо США-поколения.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sergi%C3%B1o_Dest"
+    ],
     "confidence": "recall"
   },
   {
@@ -4181,11 +5587,16 @@
     "age_at_release": 20,
     "rating": 6,
     "verdict": "Вулверхэмптон 4 года (150+ матчей АПЛ), Франция-ротация. Ман Сити с 2025.",
-    "tags": [],
+    "tags": [
+      "man-city",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rayan_A%C3%AFt-Nouri"
+    ],
     "confidence": "recall"
   },
   {
@@ -4196,11 +5607,17 @@
     "age_at_release": 21,
     "rating": 7,
     "verdict": "Вулверхэмптон 5 лет (травмы), Челси с 2024 £54M. Сборная Португалии, ЧМ-2022 1/4.",
-    "tags": [],
+    "tags": [
+      "chelsea",
+      "injuries",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pedro_Neto"
+    ],
     "confidence": "recall"
   },
   {
@@ -4211,11 +5628,16 @@
     "age_at_release": 21,
     "rating": 8,
     "verdict": "ПСЖ с 2022 (Лига 1 × 3), ЧМ-2022 1/4 с Португалией. Один из топ-плеймейкеров новой эпохи.",
-    "tags": [],
+    "tags": [
+      "psg",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vitinha"
+    ],
     "confidence": "recall"
   },
   {
@@ -4226,11 +5648,15 @@
     "age_at_release": 19,
     "rating": 7,
     "verdict": "Лейпциг с 2024 — лидер атаки. Словения сборная, топ-голеадор возраста. Рост 195см.",
-    "tags": [],
+    "tags": [
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Benjamin_%C5%A0e%C5%A1ko"
+    ],
     "confidence": "recall"
   },
   {
@@ -4241,11 +5667,17 @@
     "age_at_release": 18,
     "rating": 7,
     "verdict": "Барса-воспитанник, ставший основным LB с 2022. Копа дель Рей-2025, Евро-2024 победа с Испанией (5 минут).",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "euro-winner",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alejandro_Balde"
+    ],
     "confidence": "recall"
   },
   {
@@ -4256,11 +5688,16 @@
     "age_at_release": 22,
     "rating": 7,
     "verdict": "Ливерпуль £85M с 2022 — контрастная эффективность. Уругвай-бомбардир, Копа-2024 полуфинал.",
-    "tags": [],
+    "tags": [
+      "liverpool",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Darwin_N%C3%BA%C3%B1ez"
+    ],
     "confidence": "recall"
   },
   {
@@ -4271,11 +5708,16 @@
     "age_at_release": 21,
     "rating": 6,
     "verdict": "Барса-воспитанник, аренды: Валенсия, Порту (Лига Португалии с 2023), Барса-возврат 2025.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nico_Gonz%C3%A1lez"
+    ],
     "confidence": "recall"
   },
   {
@@ -4286,11 +5728,16 @@
     "age_at_release": 22,
     "rating": 9,
     "verdict": "Наполи Скудетто-2023 — MVP-сезона, новая легенда Серии А. Грузия-капитан, Евро-2024 дебют-сенсация. ПСЖ с 2025.",
-    "tags": [],
+    "tags": [
+      "legend",
+      "psg"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Khvicha_Kvaratskhelia"
+    ],
     "confidence": "recall"
   },
   {
@@ -4301,11 +5748,16 @@
     "age_at_release": 20,
     "rating": 9,
     "verdict": "Челси рекорд после Сити-ухода — Игрок сезона АПЛ 2023/24. Топ-ассистент АПЛ, сборная Англии Евро-2024.",
-    "tags": [],
+    "tags": [
+      "chelsea",
+      "legend"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cole_Palmer"
+    ],
     "confidence": "recall"
   },
   {
@@ -4316,11 +5768,17 @@
     "age_at_release": 22,
     "rating": 8,
     "verdict": "Арсенал-ЦЗ с 2022 — лучший защитник АПЛ. Франция ЧМ-2022 финалист. Marseille-аренда прошлое.",
-    "tags": [],
+    "tags": [
+      "arsenal",
+      "top-pro",
+      "world-cup-finalist"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_Saliba"
+    ],
     "confidence": "recall"
   },
   {
@@ -4331,11 +5789,16 @@
     "age_at_release": 21,
     "rating": 6,
     "verdict": "Арсенал-воспитанник, Реймс Лига 1 (21 гол), Монако с 2023. США-сборная (Копа-2024).",
-    "tags": [],
+    "tags": [
+      "arsenal",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Folarin_Balogun"
+    ],
     "confidence": "recall"
   },
   {
@@ -4346,11 +5809,16 @@
     "age_at_release": 21,
     "rating": 6,
     "verdict": "Челси с 2023 — противоречивый форвард (14 голов первый сезон). Сенегал-сборная, АФКОН-2023.",
-    "tags": [],
+    "tags": [
+      "chelsea",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nicolas_Jackson"
+    ],
     "confidence": "recall"
   },
   {
@@ -4361,11 +5829,16 @@
     "age_at_release": 17,
     "rating": 8,
     "verdict": "Барса-центрбек с 17, основа Ла Рохи в 17 (рекорд). Золотой юниор 2024 кандидат, потенциал топ-3 мира.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pau_Cubars%C3%AD"
+    ],
     "confidence": "recall"
   },
   {
@@ -4376,11 +5849,17 @@
     "age_at_release": 18,
     "rating": 8,
     "verdict": "Лилль-лидер в 18, МЮ £52M с 2024 (травма в дебюте). Топ-потенциал, Франция U-21 ключ.",
-    "tags": [],
+    "tags": [
+      "injuries",
+      "man-utd",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Leny_Yoro"
+    ],
     "confidence": "recall"
   },
   {
@@ -4391,11 +5870,15 @@
     "age_at_release": 19,
     "rating": 6,
     "verdict": "Лейпциг с 2024 — следующий этап. Норвегия-сборная, Евро-квал-хет-трик 2023.",
-    "tags": [],
+    "tags": [
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Antonio_Nusa"
+    ],
     "confidence": "recall"
   },
   {
@@ -4406,11 +5889,18 @@
     "age_at_release": 21,
     "rating": 7,
     "verdict": "Барса-воспитанник, основа с 2023 (гол в финале ЛЧ младшего возраста). Евро-2024 победа с Испанией.",
-    "tags": [],
+    "tags": [
+      "barcelona",
+      "champions-league",
+      "euro-winner",
+      "top-pro"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ferm%C3%ADn_L%C3%B3pez"
+    ],
     "confidence": "recall"
   },
   {
@@ -4421,11 +5911,16 @@
     "age_at_release": 19,
     "rating": 6,
     "verdict": "Бавария-ротация 2 года (голы в ЧЛ), Тоттенхэм-аренда с 2025. Франция U-21 топ-бомбардир.",
-    "tags": [],
+    "tags": [
+      "bayern",
+      "mid-career"
+    ],
     "nationality": null,
     "position": null,
     "details": null,
-    "sources": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mathys_Tel"
+    ],
     "confidence": "recall"
   }
 ]
