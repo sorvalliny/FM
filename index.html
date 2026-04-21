@@ -209,7 +209,26 @@ th {
   font-weight: 600;
   border-bottom: 1px solid var(--border);
   white-space: nowrap;
+  user-select: none;
 }
+
+th.sortable {
+  cursor: pointer;
+  transition: color 0.1s;
+}
+
+th.sortable:hover { color: var(--text); }
+
+th.sortable.active { color: var(--violet); }
+
+th.sortable .sort-ind {
+  display: inline-block;
+  margin-left: 4px;
+  opacity: 0.4;
+  font-size: 9px;
+}
+
+th.sortable.active .sort-ind { opacity: 1; }
 
 td {
   padding: 12px 14px;
@@ -333,9 +352,9 @@ footer {
 <div class="container">
 
 <header>
-  <div class="kicker">Football Manager · 2005—2024 · 20 версий × 5 игроков</div>
-  <h1>Топ-100 <span class="accent-v">вандеркидов</span> FM<br>и что с ними стало <span class="accent-a">в реальности</span></h1>
-  <p class="subtitle">Самые хайповые молодые игроки каждой версии Football Manager, отсортированные по тому, насколько их реальная карьера догнала виртуальный хайп. Рейтинг от 1 (легендарный флоп) до 10 (легенда мирового футбола).</p>
+  <div class="kicker">Football Manager · 2005—2024 · 20 версий · <span id="s-total">0</span> игроков</div>
+  <h1><span class="accent-v">Вандеркиды</span> Football Manager<br>и что с ними стало <span class="accent-a">в реальности</span></h1>
+  <p class="subtitle">База самых хайповых молодых игроков каждой версии Football Manager — от GOAT до легендарных флопов. Рейтинг от 1 (легендарный провал) до 10 (легенда мирового футбола). Кликни по колонке FM / Игрок / Рейтинг для сортировки.</p>
 
   <div class="stats">
     <div class="stat legend"><div class="stat-val" id="s-legend">0</div><div class="stat-lbl">Легенды 9—10</div></div>
@@ -363,10 +382,10 @@ footer {
     <thead>
       <tr>
         <th class="th-num">#</th>
-        <th>FM</th>
-        <th>Игрок</th>
+        <th class="sortable" data-sort="version">FM<span class="sort-ind"></span></th>
+        <th class="sortable" data-sort="name">Игрок<span class="sort-ind"></span></th>
         <th>Реальная карьера</th>
-        <th>Рейтинг</th>
+        <th class="sortable" data-sort="rating">Рейтинг<span class="sort-ind"></span></th>
       </tr>
     </thead>
     <tbody id="tbody"></tbody>
@@ -399,8 +418,26 @@ const ratingEl = document.getElementById('rating-filter');
 const vEl = document.getElementById('versions');
 const tbody = document.getElementById('tbody');
 
+// Default: group by FM version ascending, within version legends first.
+// User clicks a column header → sort toggles (asc ↔ desc).
+let sortState = { col: 'version', dir: 'asc' };
+
 searchEl.addEventListener('input', render);
 ratingEl.addEventListener('change', render);
+
+document.querySelectorAll('th.sortable').forEach(th => {
+  th.addEventListener('click', () => {
+    const col = th.dataset.sort;
+    if (sortState.col === col) {
+      sortState.dir = sortState.dir === 'asc' ? 'desc' : 'asc';
+    } else {
+      sortState.col = col;
+      // Better defaults per column
+      sortState.dir = col === 'rating' ? 'desc' : 'asc';
+    }
+    render();
+  });
+});
 
 async function load() {
   tbody.innerHTML = '<tr><td colspan="5" class="no-results">Загрузка…</td></tr>';
@@ -417,7 +454,7 @@ async function load() {
 }
 
 function buildVersions() {
-  const versions = ["Все", ...new Set(DATA.map(d => d.fm_version))];
+  const versions = ["Все", ...[...new Set(DATA.map(d => d.fm_version))].sort((a, b) => versionYear(a) - versionYear(b))];
   vEl.innerHTML = '';
   versions.forEach((v, i) => {
     const btn = document.createElement('button');
@@ -443,6 +480,45 @@ function clubLine(d) {
     : d.club_at_release;
 }
 
+function versionYear(v) {
+  const m = String(v).match(/\d{4}/);
+  return m ? +m[0] : 0;
+}
+
+function sortComparator(col, dir) {
+  const mul = dir === 'asc' ? 1 : -1;
+  return (a, b) => {
+    let cmp;
+    if (col === 'version') {
+      cmp = versionYear(a.fm_version) - versionYear(b.fm_version);
+      // Tiebreak within version: rating desc (legends first)
+      if (cmp === 0) cmp = b.rating - a.rating;
+    } else if (col === 'name') {
+      cmp = a.name.localeCompare(b.name, 'ru');
+    } else if (col === 'rating') {
+      cmp = a.rating - b.rating;
+      // Tiebreak: version asc
+      if (cmp === 0) cmp = versionYear(a.fm_version) - versionYear(b.fm_version);
+    } else {
+      cmp = 0;
+    }
+    return cmp * mul;
+  };
+}
+
+function updateSortIndicators() {
+  document.querySelectorAll('th.sortable').forEach(th => {
+    const ind = th.querySelector('.sort-ind');
+    if (th.dataset.sort === sortState.col) {
+      th.classList.add('active');
+      ind.textContent = sortState.dir === 'asc' ? '▲' : '▼';
+    } else {
+      th.classList.remove('active');
+      ind.textContent = '';
+    }
+  });
+}
+
 function render() {
   const q = searchEl.value.toLowerCase().trim();
   const rf = ratingEl.value ? ratingEl.value.split(',').map(Number) : null;
@@ -459,15 +535,17 @@ function render() {
     return true;
   });
 
+  filtered.sort(sortComparator(sortState.col, sortState.dir));
+  updateSortIndicators();
+
   tbody.innerHTML = '';
   if (filtered.length === 0) {
     tbody.innerHTML = '<tr><td colspan="5" class="no-results">По фильтру ничего не найдено</td></tr>';
   } else {
-    filtered.forEach(d => {
-      const idx = DATA.indexOf(d) + 1;
+    filtered.forEach((d, i) => {
       const tr = document.createElement('tr');
       tr.innerHTML = `
-        <td class="num">${String(idx).padStart(2, '0')}</td>
+        <td class="num">${String(i + 1).padStart(3, '0')}</td>
         <td><div class="ver">${escape(d.fm_version)}</div></td>
         <td>
           <div class="name">${escape(d.name)}</div>
@@ -491,6 +569,7 @@ function render() {
   document.getElementById('s-good').textContent = counts.good;
   document.getElementById('s-mid').textContent = counts.mid;
   document.getElementById('s-flop').textContent = counts.flop;
+  document.getElementById('s-total').textContent = DATA.length;
 }
 
 load();
